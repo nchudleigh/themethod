@@ -1,0 +1,3309 @@
+
+
+Introduction
+
+
+
+Sales Enablement Is an Ecosystem
+
+Sales Enablement Goal: Define sales enablement and set the stage for the rest of this book.
+
+
+The purpose of a business is to create a customer.
+
+—Peter Drucker, The Practice of Management, 1954
+
+It is difficult to have a conversation about revenue with a CEO in any industry today without the subject of sales enablement coming up. While conducting research for this book, we posed the question “What is sales enablement?” and heard answers such as strategy, onboarding, pricing, technology, sales methodology, training, “I don’t know”, and many more valid and insightful responses. The sole commonality was that every definition supports the customer-facing employees’ engagement with a variety of stakeholders, which requires cross-functional collaboration. We call this an ecosystem.
+
+
+
+The Ecosystem
+
+“Eco” in Latin means environment or habitat, while “system” is defined as a set of connected things or parts forming a complex whole. Sound a bit like your organization? If you are competing for revenue in today’s marketplace, it should!
+
+That said, everyone is clamoring for a definition. “How do I talk about this ecosystem in a way that avoids buzzwords and brand bias, and is instead measurable and transparent?” Based on our research involving conversations with thousands of people in sales, marketing, customer success, and executive management, we’ve found that:
+
+
+Sales Enablement is the concept of extending a prospect-centric mindset to all departments within an organization.
+
+
+
+How to Use This Book
+
+This book is a reference product. While the assumption is we’d focus on “sales,” a lot of what we cover is not sales specific and branches out into other departments within the company. It is divided into stand-alone chapters to allow you to find what’s relevant to your role and your organization. Because sales enablement is an ecosystem, we encourage executives to share the book with their peers to create opportunities for collaboration and alignment around sales objectives.
+
+CEOs can use this book as a means of benchmarking best practices while fostering a sales enablement ecosystem and culture. Sales executives can use the collaborative strategies and tactics in this book to ensure that their sales team is equipped, efficient, accountable, and skilled. Non-sales executives can identify ways in which their role and department can support customer acquisition, retention, and growth. Sales enablement practitioners can leverage this playbook as a reference and a tool for initiating interdepartmental conversations, assessing opportunities for greatest impact, and outlining tactics for execution on a daily basis.
+
+Many people are trying to define sales enablement in hopes of creating head count, justifying budgets and salaries, selling the latest technology, and posturing for competitive advantage. Our goal in this book is to identify the opportunities that exist inside of a sales enablement ecosystem, the origin of these opportunities (trends and analysis), and the means by which high-performing organizations execute for greatest impact. You’ll learn how sales enablement is meant to be applied as an ecosystem—not a technique, a role, or a technology platform exclusively, though each of these plays a part.
+
+A required competency for effectively managing a sales enablement ecosystem is coaching. We struggled with whether or not to include a chapter on coaching and decided that a single chapter does not do the subject justice. The ability to move a process or individual from a current state to a target state is essential to the success of sales enablement.
+
+Metrics—Each chapter includes recommended metrics. Until now, quantifying the effectiveness of enablement programs has been an enigma. Transparency and metric-driven outcomes are the path to budgeting, success measurement, and true organizational impact.
+
+Diagrams—We didn’t get fancy because the concepts are not complicated. We are thankful to Jillian’s in San Francisco for the gallons of iced tea we consumed there during countless evenings and weekends while compiling this book, and the napkins upon which our diagrams were drawn.
+
+Language—The words “product” and “demo” will frequently appear throughout this book, though the concepts are meant to extend to companies who offer “services” and don’t include a “demo” as part of their sales process. Additionally, “sales development rep” (SDR) refers to someone who prospects and starts a sales conversation (opener), whereas “account executive” (AE) is a closer.
+
+Plays—If you have a ton on your plate and this book will likely sit in your bag for three months before you get to it, then just check out the Plays at the end of each chapter. These summaries will give you actionable quick-and-dirty tactics.
+
+Additional Material—You can find more helpful resources on our website, SalesEnablementPlaybook.com.
+
+
+
+
+
+Chapter 1
+
+
+
+The Evolution of Sales Enablement
+
+In the 1980s, selling systems such as IBM’s Strategic Selling, Miller Heiman, Sandler Sales Training, and others were all the rage. They gained prominence in organizations that discovered that buyers were becoming more sophisticated and more vendors were coming online, which required sellers to move from being peddlers to becoming consultants.
+
+In the 1990s, the Internet began to make buyer-seller communication easier, to introduce new models of advertising, and to make information readily available like never before.
+
+As far back as 2008, articles were published about the concept of sales enablement and the necessity for “sales support” in the B2B sales organization. In 2010, research firm Forrester published a 20-page analysis that announced “Sales Enablement Is the Bridge Between Go-to-Market Strategy and Tactical Execution,” warning that inefficiencies left unchecked “will eventually wreak havoc on balance sheets.”
+
+
+
+Folks Started Paying Attention
+
+Catalysts were obvious: the Internet rapidly changed B2B sales. Where a trusted adviser relationship, expertise, and availability won the day previously, sales reps now had to adapt to a nimble and well-informed buyer with access to many options. For better or worse, e-mail became both a marketing and a selling tool, and the poorly used PowerPoint became the bedrock upon which many unnecessary presentations were built.
+
+Proposals were churned out like popcorn, websites proliferated, videoconferencing allowed for tedious demos, webinars delivered superfluous information, prospect lists became commoditized, cell phones allowed prospects to be reached anywhere, and white papers and case studies could be published and distributed with ease. And then, of course, came the tool of all tools: customer relationship management (CRM). Now we could keep track of everything in one place, automate processes, run reports, monitor progress, and feed the beast.
+
+Today we also have e-mail automation, marketing automation, e-signing, social media, retargeting, big data analytics, business intelligence—oh my!
+
+How the heck does a company keep up with it all? It’s easy to see what the sales enablement fuss is all about. When environments like these present themselves, both risk and opportunities arise.
+
+
+
+The Risks of the Silo
+
+It’s easy to attempt to fix a problem by throwing a body at it. What usually happens is that an overwhelmed executive with targets slipping will say, “Call it support, call it enablement—whatever! Just get somebody to help sales with administrative things and have them report up through sales.”
+
+The silo is not conducive to cross-functional collaboration or execution. It is great at creating paralysis by way of politics, performance, procrastination, or point-of-finger. We have heard many sales enablement managers say, “I can’t get a budget,” or “I can’t get what I need from [fill in department name],” or “The sales team doesn’t use any of the tools or content I’ve created,” or “Managers aren’t holding people accountable.” The list goes on.
+
+The sales enablement position in most cases is like the “Special Projects” role in large organizations, and often it devolves into “Director of Broken Things”—without influence, without budget, without accountability, and without charter.
+
+The right person in an enablement role can have an immediate and sustained impact on an organization. But, who is that right person? What skill set should they possess? We were at a recent meeting of sales enablement professionals, and their backgrounds ranged from entry level employees to former HR executives, sales trainers, sales operations managers, salespeople, content marketers, and management consultants. Which of these do you seek to recruit and hire? What does their role become?
+
+Let’s reinforce what we covered in the introduction to this book:
+
+
+Sales enablement isn’t a position; it’s an ecosystem.
+
+Sales enablement is not a position in a company. It’s not a job title. It’s not that person who does your new hire onboarding. It’s an ECOSYSTEM that crosses all functional and hierarchical boundaries.
+
+
+
+HR for Salespeople
+
+
+Sales enablement is new to me, but it just sounds like HR for salespeople.
+
+—Vice president at a Fortune 500 company
+
+A panelist at a sales enablement event we hosted in San Francisco made this statement to a room of laughter and some grimaces.
+
+Those laughing realized that there are many ways in which the function can have a significant and measurable impact on the sales process. Those grimacing had likely relegated the function to shepherding onboarding, product training, communication skills training, and personnel support for sales leadership. In these organizations, we are looking at HR for salespeople, and a ton of value is not being realized.
+
+
+
+Plays in Brief:
+
+*Create a culture that views sales enablement as a company-wide ecosystem.
+
+*Develop specific goals for each department related to how they can enable sales and avoid “sales disablement” activities.
+
+*Define metrics that will track the success of enablement activities.
+
+
+
+
+
+Chapter 2
+
+
+
+Defining a Sales Process
+
+Sales Enablement Goal: Implement a sales process that’s as simple as possible, but robust enough that all employees can plug in and generate predictable revenue.
+
+A sales organization without process cannot scale predictably.
+
+
+A sales process is a set of clearly defined steps and methods of communication between a company and its prospects.
+
+If your process is effective, leads will be moved from stage to stage, engaged, or disqualified as appropriate, and if they make it to the end of the process, they’ll likely become customers.
+
+
+
+The Sales Process Paradox
+
+Think about the following:
+
+
+Too much process kills sales teams
+
+
+BUT
+
+
+Sales teams die without process
+
+
+
+Figure 2.1: Too much or too little sales process is a bad thing.
+
+
+
+
+Why Is Process Bad?
+
+When established teams in mature industries are on autopilot, process drives outcome. In a more agile environment, process works for a minute, then it needs to be ripped up and rebuilt, meaning that any effort building process in the first place is a waste of time…or at least lost time.
+
+Underperforming employees often hide behind “the need for more process.” These folks can kill a month or two at a time evaluating, designing, and rolling out process changes, only to do it all over again.
+
+
+
+
+What Is the Right Amount of Process?
+
+Here’s what most sales teams need:
+
+*Clear Stages: Everyone should know and adhere to stage-based selling that dictates the specific interactions with a prospect. The stages may vary depending upon product/service, persona, company size, or other variables.
+
+*A CRM: Use it to track deals. Define stages and analyze conversions. Have clear definitions around what requirements are necessary to move from stage to stage. Know SPECIFICALLY what you want your reps to track. Don’t over-complicate things.
+
+*Tech Stack: Select the tools that make your team more efficient and more effective.
+
+*Tech Stack Integrations: If software products talk to one another, the team will operate much more efficiently than if they have to manually interrupt their workflow when switching from one tool to another.
+
+*Product Editions: What do customers buy? How much do they pay? What if they want to negotiate? Don’t let your sales reps make up these points on the fly.
+
+*General Messaging: Empower your reps with messaging for each situation, including different industries, personas, competitors, product features, etc.
+
+*Demo Scripts: Use relevant demos, based on persona, with the ability to drop case studies and use cases that resonate with the person receiving the demo. Don’t demo marketing execs and IT managers the same way.
+
+
+
+Process Maturity
+
+Products iterate, markets change, technology innovates, customers shift, and sales enablement is responsible for ensuring alignment between the sales process and the customer. The sales process is always in one of three states: humming, experimenting, and thrashing.
+
+
+
+
+Humming
+
+When you’re here, things are awesome! More than 80 percent of reps are hitting quota consistently, new hires step in and ramp quickly to target performance, and no one is complaining about “process improvements.”
+
+When your process is humming, sales enablement can never take their eye off the ball because things will change that will require the process to be tuned. Knowing what to look for mitigates any serious risks to the process.
+
+*Team Expansion: Hiring more salespeople reduces the opportunity for existing reps while making it harder to follow the same process and get the same results. You might be able to expand for a while without negative consequences, but territory adjustments, international growth, and other expansion-related changes will hurt the process if gone unchecked.
+
+*Push Up-Market: Do you want 100 accounts paying you $10K or 10 accounts paying you $100K? Often companies will migrate from the former to the latter, and as that happens, it’s a new ball game. With fewer prospects, the old process seldom works.
+
+*Increased Competition: If your sales reps are crushing it quarter over quarter, the competition will notice. Their reactions might include poaching your salespeople, price wars, product development, or increased service offering. Regardless, each variable puts your humming sales process at risk.
+
+
+
+
+Experimenting
+
+If the process isn’t humming, the best way to get it there is to run rapid experiments and continuously improve. You must create a controlled environment in which to experiment with repeatable process, which will deliver predictable results. Proper experimentation must include:
+
+*The Metric you are trying to impact
+
+*Success Indicators
+
+*The Experiment, or what you will DO differently, which you can control. “Close more referral business” is not something you can control. Asking for 10 referrals each week is something you can control.
+
+*Predicted Outcome (with timeline attached)
+
+*Review Cadence
+
+*Acceptance Criteria, which outline what needs to happen for the results of the experiment to be permanently adopted
+
+
+Reactionary swings are the norm when experimenting. Have you ever made a rapid change, only to have other problems arise? Reactionary process adjustments have adverse consequences, including team fatigue and loss of confidence, lack of clarity, erosion of accountability, and inability to execute. Sales enablement must be responsible for both the outcome as well as the validity of the experiment.
+
+
+
+
+Thrashing
+
+If process improvement is a constant point of discussion, you might be a start-up climbing the revenue ramp, or you might have a culture problem. Continuous improvement in a controlled environment is ideal and recommended, but thrashing from one “solution” to another is corrosive. In these cases, evaluate the messenger who claims process changes are needed.
+
+*Do They Recommend Alternatives? Is each complaint accompanied with a recommendation for improvement?
+
+*Are Recommendations Simple? When recommendations are made, are they easily understood or convoluted?
+
+*Is the Big Picture Considered? Will the recommendation solve the problem without creating new ones? It’s easy to fix sales problems in a way that will create headaches for other departments.
+
+*Do They Implement? Sometimes people who complain about a lack of process are deflecting responsibility, and once their process changes are implemented, they find another reason not to do their jobs.
+
+
+Strong leadership, transparency, and accountability are required to exit a thrashing environment, so if sales leadership isn’t on board, positive change will be hard. A process that’s thrashing is disablement.
+
+
+
+Stages in a Sales Process
+
+The number of steps (or stages) in a sales process varies from company to company depending on the complexity of the sale. Let’s examine three different types of sales: transactional, advanced, and complex.
+
+
+
+
+Transactional
+
+Companies operating a transactional sales process have high sales volume and relatively low average selling prices.
+
+Examples of transactional sales include selling Yelp ads to restaurants and selling catering services to an office, where most sales reps close deals on the first or second call. Buyers easily understand these products, and it’s easy to qualify the prospect.
+
+There is little risk for the buyer or the seller in any given transactional sale. The investment is small enough that a failed purchase won’t hurt the buyer too much, and if the seller fails to close a deal, they have many more opportunities in their pipeline.
+
+Stages for a transactional sale might include the following:
+
+1.Qualification
+
+2.Evaluation
+
+3.Proposal
+
+
+It’s easy to see how the entire sales process could be covered in one conversation, though not all transactional sales are closed on the first call.
+
+
+
+
+Advanced
+
+This type of sale involves more steps, stakeholders, and risk than the transactional sale does. Examples of an advanced sale include the purchase of analytics software or commercial insurance.
+
+These types of deals can have significant revenue associated with them, and they often involve multiple decision makers who interact with the seller over the course of several meetings. The sales team might be larger as well and could include a SDR to qualify the deal, an AE to shepherd the process, a sales engineer to handle technical details, and even a solutions architect to develop a custom solution.
+
+Stages for an advanced sale might include the following:
+
+1.Qualification
+
+2.Evaluation Setup
+
+3.Evaluation
+
+4.Proposal
+
+5.Closing
+
+
+
+
+Complex
+
+There is a long tail of complex sales ranging from the purchase of an enterprise resource planning (ERP) system by a large corporation to an order for an aircraft carrier by the US Navy. Many people on both sides will be involved in these transactions, and approval could require sign-off from as high as the board of directors. An example of this process might be:
+
+1.Qualification
+
+2.Preliminary Evaluation
+
+3.Executive Presentation
+
+4.Proof of Concept
+
+5.Proposal
+
+6.Committee Review
+
+7.Closing
+
+
+There could easily be more stages, and these types of deals can take years to close.
+
+
+
+Figure 2.2: The right number of stages depends on the complexity of the sale
+
+
+
+Stage Exit Criteria
+
+Another key tactic to enable a sales team is to implement stage exit criteria, which are requirements for a deal to move from one stage to the next.
+
+For example, if a company is using BANT (budget, authority, need, and timing) as their qualification criteria for Stage 1, the deal cannot move to the next stage until all four can be demonstrated. If they’re selling a new-aged solution where budget isn’t defined, and it’s unclear who the buyer would be, then maybe “need” (or pain) would be the only exit criterion for Stage 1.
+
+Later in the sales process, a deal might not be able to move from evaluation to proposal unless all decision makers have been engaged.
+
+Having clear stage exit criteria helps increase forecast accuracy and also reduces friction between salespeople and management. Nothing is more frustrating to a sales rep than a manager asking “why haven’t you __________?” when the rep didn’t know that was something they were supposed to do. Exit criteria fix this problem.
+
+
+
+CRM Land Mines
+
+Complexity is the enemy of an effective sales team, and the most frequent source of sales complexity is found in the CRM implementation.
+
+*Great sales reps hate operational complexity, and it will drive them away.
+
+*Bad sales reps love being distracted by complexity, so they have an excuse to focus on something other than selling.
+
+
+The CRM should allow:
+
+*Reps to track their deals
+
+*Managers to forecast accurately
+
+*Other stakeholders (like customer success and account management) to know what’s happened in the past and to have visibility into any future interactions
+
+
+If you need more based on your business, include it, but think hard before adding too much to the CRM. Complexity leads to poor data hygiene, which causes sloppy and unpredictable results. When the CRM produces sloppy and inaccurate data, people lose faith in the system, at which point it becomes a liability.
+
+Instead of swimming through massive amounts of data, smart and efficient companies focus on ACTIONABLE INTELLIGENCE.
+
+What’s actionable intelligence? Let’s break it down in reverse order:
+
+*Intelligence: Something that makes us smarter about the prospect
+
+*Actionable: Something we can use to move a deal forward
+
+
+Actionable intelligence includes:
+
+*Competitors
+
+*Pain
+
+*Decision Makers
+
+
+Actionable intelligence does not include:
+
+*Street address
+
+*Fax number (yes, some people still enter this data)
+
+*Anything else that a salesperson has not specifically acted upon in the last six months at your company
+
+
+
+KPIs, Reporting, and Analytics
+
+If a CRM is set up properly, it is a great source of data and insights.
+
+Enablement here is all about making things easy. Wire the systems together to ensure that there is a single source of truth, and that if three people are asked the same question the answer is uniform. If a bunch of people at your company are using their own versions of Tableau Desktop or Excel, you’re in trouble.
+
+
+
+
+Garbage Time
+
+GIGO—Garbage In, Garbage Out—is the fastest way to render your CRM useless and unused. Aside from adding too much complexity, two behaviors that destroy the ability to analyze data are overusing free-form text and changing fields too frequently.
+
+Free form text is bad because there will be several variants of the same data depending on what people type into the system. Consider these examples:
+
+1.CIO
+
+2.Chief Information Officer
+
+3.Cheef Information Officer
+
+4.Chief Info Officer
+
+
+Unless you want to search on every possibility, the integrity of your data and reports will be in jeopardy with input like these.
+
+Frequent additions and deletions of CRM fields is an indication that the sales process is thrashing. If something is really important, add it. If a field has no logical use, delete it. However, if someone on your team is constantly editing fields and blaming the CRM for underperformance, realize that the CRM is not the problem.
+
+Simplicity. Structured Data. Consistency. These should be the themes when it comes to your CRM implementation, and your sales process in general.
+
+
+
+Metrics:
+
+*Conversion ratios (stage-to-stage)
+
+*Experiments are run scientifically
+
+*Accuracy of reports from CRM
+
+
+
+Plays in Brief:
+
+*Audit the current state of your process, and if it’s not “humming” develop a set of experiments to get it there. If it is, beware that it will evolve as you grow.
+
+*Develop and implement stage exit criteria.
+
+*Understand and keep your eye out for CRM landmines, especially complexity.
+
+*Develop sales analytics in conjunction with improving the implementation of your CRM.
+
+
+
+
+
+Chapter 3
+
+
+
+Onboarding New Hires
+
+Sales Enablement Goal: Aggressively reduce new-hire ramp time. Get them on the phone Day 2 and in a full-time selling role as soon as humanly possible. No excuses.
+
+We recently held an event in San Francisco titled “Defining Sales Enablement: It’s Not What You Think.” One of the goals of the event was to test the assumptions behind this book’s content and see what we were missing.
+
+The event consisted of two speaker panels and a keynote presentation. Panelists included CEOs, CROs, VPs of Sales, directors of Sales, and a venture capitalist, while the keynote speaker was a technology consultant who helps companies evaluate their sales technology stack, recommends changes, and helps them implement the tools.
+
+The panels overwhelmingly agreed that the biggest impact people with sales enablement titles within their organizations have is onboarding salespeople in rapidly growing companies. While onboarding is important and we’ll cover it in this chapter, it’s critical to explore other areas of the sales enablement ecosystem and ensure that opportunities are not being missed by focusing too much in one area.
+
+
+
+How Much Work Is Onboarding?
+
+When it comes down to onboarding, there are two critical variables:
+
+*Are your new hires experienced or junior?
+
+*Is your sales process transactional, advanced, or complex?
+
+
+The answers to these two questions will define onboarding difficulty. There’s one more variable to throw into the mix, however: How well is your existing sales process defined and documented so someone with experience can hit the ground running?
+
+Let’s assume that the process is humming or you’re running controlled experiments (discussed in chapter 2). If not, realize there is an actual expense in the form of salary, opportunity cost, and management overhead as sales reps take longer to onboard for reasons out of their control.
+
+
+
+Figure 3.1: Onboarding strategies differ depending on sales skills and deal complexity
+
+
+
+
+Experienced Salesperson | Transactional Process
+
+Folks with experience should be ON THE PHONE with prospects on Day 2. Not role-playing. Not watching the VP of Product give a PowerPoint presentation. ON. THE. PHONE.
+
+Anyone who has sold successfully before can ask relevant qualifying questions with limited info. All they really need to know is:
+
+*The three best-use cases for what they sell
+
+*Names of a handful of customers and how they were successful
+
+*A good next step after their first conversation
+
+
+Maybe they aren’t giving an in-person presentation to the CEO of your largest prospect on Day 2, but how long does someone who knows how to sell need to sit in onboarding to say the following:
+
+
+“We typically work with companies who are experiencing [challenge 1], [challenge 2], or [challenge 3]. Do any of these seem to resonate?”
+
+If yes, just follow up with a few clarifying and disqualification questions and mutually determine whether it makes sense to move to the next step in your process.
+
+
+
+
+Experienced Salesperson | Advanced or Complex Process
+
+If the new hire needs some time to wrap their arms around the product and/or market, it might not be the best idea to have them running calls with prospects on Day 2, so sales enablement must facilitate:
+
+*Talking with existing customers. Join some customer success calls or jump into the car to visit some local customers to learn more about why they bought and their experience so far.
+
+*Sitting in on sales meetings/calls. Join a fellow sales rep for their meetings and/or calls.
+
+
+Do not park your salespeople in a room with product development, marketing, or HR to watch someone give PowerPoint presentations. They are salespeople and need to immediately get their feet wet in the selling environment.
+
+
+
+
+Junior Salesperson | Transactional
+
+If you have recruited an entry-level salesperson, sales enablement can position them for success with a measurable onboarding program:
+
+*Get Them in Sales Boot Camp ASAP: Figure out the sales skills they need to be successful in your company and start ramping those skills immediately. If they are in a prospecting role, do not forget that research is actually a skill.
+
+*Have Them Make Calls: Minimize the scope of the first call. Maybe have them schedule meetings for another rep. Create a “sales development” function that lets them focus on prospecting until they learn how to sell.
+
+*Closely Monitor Progress: Set behavior, accountability, and competency metrics and then follow up. Inspect what you expect.
+
+*Adjust Hiring Strategy: If onboarding junior employees has created slow ramp or high attrition, or it has proven otherwise unsuccessful, adjust future job descriptions and the hiring target.
+
+
+If it makes business sense to hire junior reps, that’s OK; just make sure you have a plan to make them good, fast.
+
+
+
+
+Junior Salesperson | Advanced or High Complexity
+
+Why on earth would you ever hire a junior rep and ask them to sell a complex product? Although this situation should not exist, we have seen organizations selling products or services in highly specialized marketplaces go after individuals who have credentials or networks that help them speak intelligently to their prospect.
+
+We strongly recommend that these companies hire experienced salespeople who can learn the industry instead of industry-knowledgeable practitioners who can learn sales. If a law firm is retained to defend a pharmaceutical company, do they hire a pharma exec to work the case and teach them how to be a lawyer? No! They have one of their lawyers come up to speed on the necessary pharma-specific details, then use their legal skills to win the case.
+
+If, however, you must hire non-salespeople with domain expertise, you must invest in a professional sales training and coaching relationship to develop the individual in a way that can maximize their expertise. Subject matter experts inherently possess some attributes (feature/benefit proclivity, desire to educate the prospect, fear of rejection) that harm the sales process.
+
+
+
+Onboarding Goals: Planning for Outcomes
+
+Onboarding requires setting outcome-based milestones. When planning onboarding, it’s easy to schedule something like the following:
+
+*Day 1: HR paperwork, meet the team, discovery questions
+
+*Day 2: Call prospects, competitive training, demo practice
+
+*Day 3: Call prospects, customer meetings, demo certification
+
+
+The problem is that these activities don’t get you very far, and from a sales enablement perspective, they don’t move the needle very much. Things will change, you’ll get off track, and eventually, the “trainee” is a bona fide employee. That’s great, but enablement isn’t about making sure they’ve gone through the Week-1 motions; it’s about achieving GREATNESS! Fast.
+
+Think back to the last salespeople you onboarded. How long did the onboarding schedule stick before adjustments were made? If your company is like most, changes were made in Day 2 or 3, and “official” onboarding ended with the rep still needing more.
+
+Talking about what someone will do in their first few days has nothing to do with making them great, so the key is to be bold and define success and failure instead.
+
+
+
+Figure 3.2: Plan for success and failure so you will know it when you see it
+
+
+By planting some real stakes in the ground related to expectations at the end of 30, 60, and 90 days, the sales rep is held to goals that are much harder to hit when compared to just getting through weeks 1 and 2. Furthermore, by explicitly stating signs of both success and failure, managers are mutually accountable for each milestone.
+
+
+
+Training within the Sales Process
+
+If a stable sales process exists, training new hires on how to execute should be very simple.
+
+*Process Documentation: What are each of the steps?
+
+*Stage Exit Criteria: As discussed in chapter 2, what is required to exit each stage (and list any exceptions that exist)?
+
+*CRM Training: What are the required and optional fields to support actionable intelligence?
+
+
+That’s it! They should be set! If they’re good at sales, they know each of these areas in the abstract and just need to adjust to your company’s way of doing things.
+
+
+
+Product Training
+
+The ultimate test of product knowledge is the “whiteboard demo,” which highlights what salespeople need to know as they talk to prospects about their product or service.
+
+
+Have a sales rep stand at a whiteboard, draw each screen they would demo, and talk while they draw.
+
+For non-tech products, find a way to visualize how your product or service impacts the customer, and then have them draw that. This activity uncovers a few things about the person’s:
+
+*Knowledge of how the product works
+
+*Competence around product highlights, value, and feature importance
+
+*Ability to weave relevant customer success stories and use cases in a conversation
+
+
+
+
+Why a Whiteboard?
+
+It’s like bowling without bumpers. If you can’t keep the ball in the lane, you will fail. Being able to look at the screen while giving a demo allows sales reps to be focused on buttons and features instead of the prospect and their use case.
+
+
+
+
+What’s the Key Here?
+
+The most important part of the whiteboard demo is how customer stories are woven into the talking points.
+
+*Bad Demos: Talk about features, functions, and buttons. No one cares. At least not anyone who will make a buying decision.
+
+*Good Demos: Uncover more pain by talking about how other people like your prospect have created substantial value by using your product. All buyers care about this topic!
+
+
+It’s also critical to have standardized messaging. If your prospects are hearing one thing from Marketing, one thing from the SDR, and something else from the sales rep, they’re confused, and your company could lose them. And what if customer success employees use different language? Now your customers don’t even know what they bought!
+
+*Bad Demos: Use messaging that’s made up on the fly
+
+*Good Demos: Piece together standard messaging used by all customer-facing employees
+
+
+
+
+Whiteboard Demos Sound Hard!
+
+Not really. If each rep spends an hour a day for a week prepping and then the next week gives three full whiteboard demos, they will be in good shape and will have a greater chance of winning the deals they should win.
+
+
+
+Metrics:
+
+*Time to first deal or conversion (SDRs)
+
+*Time to quota attainment
+
+*Time to consistent quota attainment
+
+*% of team who can competently conduct a whiteboard demo
+
+
+
+Plays in Brief:
+
+*Document and implement an onboarding program that gets your salespeople on the phone Day 2 and measures success weekly until they’re fully ramped and beyond.
+
+*Require “whiteboard demo” certifications for all sales reps.
+
+
+
+
+
+Chapter 4
+
+
+
+Sales Training
+
+Sales Enablement Goal: Next time an external sales consultant calls on your company, THEY should disqualify you as a prospect because everyone on your team is a sales expert.
+
+Wonder why teams like the Golden State Warriors, New England Patriots, and Chicago Blackhawks are perennially successful? Sure, they have great players, and all those players have bought into a process and a system that management is executing. But these players are also highly skilled.
+
+It’s crazy that companies hire salespeople who don’t know how to sell. When a new accountant joins a company, they learn the chart of accounts in the ERP system and start adding value. Software developers learn a product’s code base and they’re off to the races. The accountants know accounting. The developers know how to code. But for some reason, some sales teams hire people who don’t know how to sell and expect magic to happen.
+
+
+
+Sales Methodology versus Sales Process
+
+We already talked about the sales process, so why are we now talking about sales methodology? Aren’t they the same thing? Not really…
+
+Your sales process covers the steps that must be followed for each opportunity, including high-level guideposts such as qualification, demo, proposal, and close. The methodology prepares salespeople to navigate the different events that occur within that process. Sales training allows an organization to create a common language for sales, define professional skills, and prepare for and manage the likely interactions one will face in each stage of the selling process.
+
+
+
+
+What Are My Options?
+
+There are many methodologies out there, and while they are different, picking one and following it is better than not following one at all; partially implementing one; or—the very worst we’ve experienced—implementing more than one at once.
+
+Our favorites include:
+
+*Sandler
+
+*MEDDIC
+
+*Miller Heiman Strategic Selling
+
+*Solution Selling
+
+
+The Challenger Sale and SPIN Selling are popular methodologies as well, though neither is a complete selling system like those mentioned above.
+
+
+
+
+How to Implement a Methodology
+
+Experts should implement methodologies. Typically, the expert is either a VP of Sales who has been properly trained and has executed the methodology for years, or an external consultant who is an expert in the chosen methodology. The WORST thing you can do is delegate the methodology implementation to someone on the team who has “participated” in a few trainings. This person is seldom an effective trainer (regardless of discipline) and often ends up reciting tactics without the depth of theory or practical application necessary to make a training program successful.
+
+
+
+Why Junior Sales Reps Fail
+
+There are only two ways people get better: careful study and fast failure. In the case of salespeople, fast failure is the only viable alternative. If you have junior reps or SDRs on your team, here are some sales enablement strategies to help make them better, faster.
+
+
+
+
+Annotate Discovery Notes
+
+Specific feedback impacts specific behavior. Generic feedback causes confusion and may be misinterpreted. Aggressively annotating discovery notes can accomplish in minutes what generic sales training conversations might not be able to accomplish in tens of hours. Take a rep’s discovery notes and highlight:
+
+*Obvious holes in the notes
+
+*Follow-up questions that should have been asked
+
+*Opportunities to be more concise
+
+*Signals that the prospect is or is not a good fit
+
+
+Depending on your business, there could be more. While listening to calls is a good coaching tactic, annotating notes is better because it’s effectively listening to the salesperson’s interpretation of what happened on the call. When it comes to training, understanding what the salesperson thinks they heard is much more important than the words that were spoken.
+
+
+
+
+Let Them Close (Bigger) Deals
+
+If your team has SDRs who are only responsible for scheduling meetings, there are likely deals that are too small for your closing reps to accept. If so, let your SDRs close them. By developing some simple rules, you can keep this activity from being a distraction and likely turn it into a profit center as well as a solution to the “what’s my career path?” problem many companies face. Ideas for structuring this type of program include:
+
+*Deals must close by the end of the second call.
+
+*If they don’t hit their quota for scheduling meetings, there is no compensation for closing deals.
+
+*If they don’t hit their meeting quota, they can’t close deals next quarter.
+
+*Only the top X percent of people on the team can close deals at any given time.
+
+
+The right formula will depend on the team, but if sales enablement wants to develop sales reps, they need to close deals. Minor League Baseball players play baseball…they don’t carry equipment and take batting practice. If all you want is a meeting scheduler, don’t hire someone who wants to be a closing rep in two years; hire a professional admin. It will be cheaper, and you’ll have fewer management headaches.
+
+
+
+
+Simulate Deals
+
+The ability to let people practice situations they will encounter before encountering them in the real world means you reduce the number of good leads that fall through the cracks. Marketing will appreciate that.
+
+Mastering knowledge about buyers, competitors, product, customer-use cases, etc. is critical for success. Mastery doesn’t mean a head nod when asked what a CIO does. Reps should be able to write a CIO’s job description on a whiteboard off the top of their head. That’s mastery.
+
+The lowest-risk way to simulate a deal is via a “serious role play.” Here are a couple of options:
+
+*Real Buyer Role Play: If your team sells to CIOs, have them sell to YOUR CIO. If you don’t have a CIO, have one in your network come in for half a day and help out with role plays. Make it as realistic as possible and don’t let them hold back.
+
+*Facilitated Role Play: If one party has been well trained on how to conduct role plays, simulating a role should work. Have this person learn your buyer well enough to write the job description as discussed above, and let reps practice.
+
+
+If everyone stays serious and keeps it realistic, the simulation should be a great learning experience that makes people better.
+
+
+
+
+Training That Doesn’t Work
+
+Here are some examples of training exercises we’ve experienced that amounted to busy work with little impact on actual selling effectiveness:
+
+*Recording a Pitch: Unless someone is giving a keynote speech with no interruptions, this exercise is flat out silly. Especially since many people doing recorded pitches take hours to prepare. It might be good for messaging, but it’s not sales training.
+
+*Role-Playing with Peers: Role-playing is fine, but only if one party is trained on how to facilitate role-playing. If neither is, it’s a waste of time. It’s more like recess than football practice.
+
+*Reading a Book: Everyone should read more, but reading The Challenger Sale isn’t going to make you good at sales. For most people, it will have ZERO impact on how they operate in a high-pressure situation. At happy hour they’ll brag about being a “Challenger,” but will they really be when they’re talking to a CIO at 2:15 p.m. on Thursday?
+
+
+If two salespeople are recording themselves and role-playing together, that’s great; but, if they’re trying to sell to someone who’s had the same job since before they were born, good luck having success without rigorous preparation.
+
+
+
+Mistakes to Observe and Address
+
+It’s an old adage to inspect what you expect. Here are a few areas sales enablement can watch as indicators that a training opportunity exists:
+
+*No-Show: It’s shocking, but a nontrivial number of salespeople (especially SDRs) will be no-shows for their appointments.
+
+*Responding Slow: Slow responses in competitive sales can make or break a deal.
+
+*Failure to Respond: Forgetting to respond to a prospect can be a deal killer.
+
+*Making False Assumptions: Especially when using “Challenger,” ensure that assumptions made are valid.
+
+*Enrolling Prospects in Multiple Workflows: When prospects receive marketing automation e-mails while they are already in a sales process, that makes your company look sloppy.
+
+*Using Poor Grammar: Buy Grammarly for your team. It’s much cheaper and less stressful than teaching them how to write.
+
+*Asking Basic Questions: Asking questions that can be answered from LinkedIn is a waste of time.
+
+*Refusing to Disqualify: They are called pregnant pipelines. The problem is that they never give birth to sales.
+
+*Asking to Send Information: Bad salespeople think that “sending information” or leaving information behind is sales process progress. Buyers use “send me more info” as a stall or a polite no to get off the phone.
+
+*Qualifying Over E-mail: Reps can schedule qualifying calls over e-mail, but attempting to qualify in writing takes away their best tool, the conversation.
+
+*Reassigning Reps: A sales ops blunder where Rep 1 is assigned to the first call then has to reassign to Rep 2. Your prospect doesn’t care about your internal process.
+
+*Using Generic Messaging: In a competitive sale, good salespeople can get far with generic messaging. They can typically get to second or third place, which are the most expensive places to end up…tons of time invested with no pay-off.
+
+*Getting Happy Ears: Good salespeople are skeptics. Bad salespeople brag about “positive meetings” all the time.
+
+*Not Requesting Referrals: Everyone is a referral source.
+
+*Giving Demos to Unqualified Leads: Demos are capital that should not be spent without discretion.
+
+*Assuming “Inefficiency” Is Pain: Companies can tolerate inefficiency for years without spending money to make any changes.
+
+
+Make your own list and share it with the team. This is not a scavenger hunt; it is a means by which sales enablement can increase sales force effectiveness.
+
+
+
+Involve Sales Reps in Your Company’s Buying Processes
+
+Fact: Your sales reps want to move up in the world.
+
+Fact: They need more training to do that.
+
+Fact: They hate classroom-based training and e-Learning.
+
+
+Here’s an idea…collaborate with other departments to let salespeople be involved whenever your company buys new products or services.
+
+
+
+
+New Accounting Software
+
+Imagine that your company recently hired a new CFO and part of their plan is to implement new accounting software. What better place for a junior sales rep to learn in a real-life scenario than to observe this deal firsthand?
+
+Here are some areas that could be analyzed over the course of the transaction:
+
+*Sales Development: How did each potential vendor’s SDRs perform? Were they responsive? Did they do a good job of qualifying?
+
+*The Handoff: How did the handoff from the SDR to the AE feel? Was it smooth?
+
+*Intro to the AE: Did the AE keep the process moving, or did you feel like you had to repeat everything you previously told the SDR?
+
+*Objection Handling: For each objection raised by your company, was the AE able to handle it in a way that satisfied your team? How was their style (defensive or curious)? Did they spot unspoken objections?
+
+*Creating Urgency: Did the AE create urgency in a credible way without prematurely discounting?
+
+*Proposal: Was the proposal sent at the appropriate time, and was it good in terms of both substance and format (value based, error free, etc.)?
+
+*Negotiation: Was the AE a good negotiator? What did they do well/poorly?
+
+*Closing: Did the closing process go smoothly or were there hiccups?
+
+*Customer Onboarding: Did you feel like you were provided with what you thought you were sold or was there some form of buyer’s remorse?
+
+
+
+
+Reflection
+
+At each step, the participating sales rep can analyze what happened and what they admired and disliked. Hopefully they will find mistakes to avoid and tools to adopt, both of which will make them better at sales.
+
+Watching others perform a similar function (sales) in a different context (as a vendor) can be a powerful learning tool. The rep can then present what they have learned at a team meeting to teach others and further reinforce their training.
+
+
+
+
+The Alternative
+
+Instead of the above example, imagine a situation where the sales rep did not work with the CFO on the accounting software purchase but was placed in traditional in-house training. In this case, they would have:
+
+*Received classroom training on the topics discussed above
+
+*Role-played (possibly) with their peers
+
+*Completed some multiple-choice quizzes on the learning management system (LMS)
+
+
+Which scenario do you think leads to the best outcome?
+
+
+
+Training Need Not Be Universal
+
+Training a 35-year-old lifelong seller the same way you’re training a 22-year-old recent college grad is also asinine. Why put someone who’s been in the industry for five years through the same type of training as their peer who came from a completely different market? Figure 4.1 shows the “bored-learning-lost” framework that governs employee training and renders most traditional classroom-based training irrelevant.
+
+
+
+Figure 4.1: Very few people are actually learning at any given time during group training
+
+
+
+Three Enablement Plays to Turn Salespeople into Businesspeople
+
+Unfortunately, many sales teams don’t focus on developing their reps’ non-sales skills, and as a result, many people can’t break out of their current role. Hitting quota won’t set a rep apart from the crowd. Lots of people hit quota.
+
+Here are some ideas where up-and-coming salespeople can spend their professional development time in the next several months to work toward gaining the credibility needed for future roles, such as management or a higher-paying sales position:
+
+
+
+
+Microsoft Excel
+
+No one has to spend two years on Wall Street to take a 10,000-row document and make an amazing looking summary in a matter of minutes. Failure to master Excel skills, however, can result in an employee being viewed as a junior varsity “businessperson” regardless of sales numbers. A rep who spends 50 hours in Excel this year will be a pro. They’ll learn basic functions, vLookups, pivot tables, etc. NOTE: Knowing the vocabulary isn’t mastery. Real work is required.
+
+
+
+
+Contract Review
+
+Especially with enterprise deals, reps will have customers who want to redline contracts. Knowing which sections typically receive redlines, what might be acceptable, and what’s ridiculous will result in better conversations with prospects as well as internal colleagues. An experienced CFO or general counsel will be impressed if a rep can professionally talk their way through contract issues without asking ignorant questions. If the only negotiating points a rep understands are unit price and the number of units, they just built their own glass ceiling.
+
+
+
+
+Coaching
+
+An employee doesn’t need to be a manager to coach. Ever watch a basketball game and see the veteran players consistently coaching others on the floor? If a sales rep can help others around them get better, they will be viewed very favorably by executives.
+
+It’s doubtful that any rep has an urgent need to learn Excel, contracts, or how to coach, but they should be considered important by any professional salesperson. Encourage people on your team to put down the TV remote one hour a week and attack one of these areas. It will pay off.
+
+
+
+Metrics:
+
+*All reps demonstrate sales methodology adherence and competence
+
+*Sales methodology is integrated into the CRM
+
+*The existence of a formalized training program
+
+*VP of Sales sits in/reviews a sampling of sales calls run by rep and approves
+
+
+
+Plays in Brief:
+
+*Implement a formal sales methodology…not just tactics.
+
+*Develop strategy to train and coach reps to ensure that they are continuously improving.
+
+*Involve reps in the buying process or otherwise enable them to experience the role of their prospect.
+
+*Create a culture of failing quickly as part of the learning process.
+
+*Design a program to turn your salespeople into businesspeople.
+
+
+
+
+
+Chapter 5
+
+
+
+Who’s Your Buyer?
+
+Sales Enablement Goal: Everyone on the sales team knows each buyer persona inside and out, including what they do, what their pain is, and how to win their business.
+
+Let’s work through a quick thought experiment. First, pick out one of your buyer personas, the person you’re most likely to interact with during the sales process. Next, imagine walking into your sales team’s meeting next week and saying the following:
+
+
+Please write a complete job description for this person. Their responsibilities, qualifications, and measures of success. It should be good enough that it’s indistinguishable from a job posting for a similar position on LinkedIn. No going online, no cheating. From memory.
+
+How would your team do? Based on our experience, the most common grade on this exercise would be an F-. Knowing what one of your prospects does is Sales Enablement 101, and so most companies totally fail.
+
+Even worse, most companies will start with product training before getting to educating reps about buyer personas. Knowing the buyer inside and out is much more important than knowing the product inside and out…and it’s harder.
+
+
+
+What Do Your Buyers Do?
+
+In order for a sales rep to have a professional conversation with a buyer, it’s critical they know what the buyer does all day. What are their goals, what keeps them up at night, what will cause them to earn a promotion, and what events might cause them to lose their job? All of these are facts known by someone in the universe, so there’s no excuse for sales teams not to learn them.
+
+In Clayton Christensen’s book The Innovator’s Solution, he talks about the concept of a “Job to Be Done.” Instead of selling your prospect a product based solely on their persona, break it down further into the specific job that they’re trying to accomplish. As you think about “What They Do” (Figure 5.1) in the context of your business, this is a good place to focus.
+
+
+
+Figure 5.1: Sales reps must know their buyers
+
+
+
+What Is Their Pain?
+
+Salespeople know they should ask questions, but simply asking questions isn’t good enough. When listening to calls or sitting in on meetings, leaders should determine if reps are searching for basic information that could be learned or inferred from the Internet, or if they are uncovering real pain. Asking questions for the sake of asking questions amounts to going through the motions and is a waste of time.
+
+It’s kind of like fishing for largemouth bass. Around dusk in the spring, the bass will be feeding around structures (logs, docks, etc.) near the shore. Casting into deep open water is a complete waste of time—there is hardly any chance fish are hanging out there. No guarantees exist that the bass will be hanging out by any given log, but since we know that bass like to hang out by logs, the chances are much better.
+
+The whole point of asking prospects questions isn’t to go through the motions of asking questions; it’s similar to fishing for bass. You want to cast near the logs and boat docks, not into the middle of the lake. Instead of looking for fish, you’re trying to:
+
+*Find pain
+
+*Drill down on the pain
+
+*Highlight that the pain is so strong that the prospect needs your product…NOW
+
+
+…or, if there’s nothing here, disqualify and move on to the next fishing hole.
+
+
+
+Figure 5.2: Knowing buyer pain points helps sellers rapidly qualify prospects
+
+
+
+How Do You Win?
+
+Unless your company is brand new or the product you sell is new to your company, you’ve won deals in the past. Furthermore, you’ve won specific types of deals with specific buyer personas before. Do your sellers know these stories?
+
+When a company has hundreds of customers, it doesn’t make sense for every sales rep to know every deal that has come in the door. Nevertheless, for each buyer persona, each salesperson should have rock-solid stories to use as social proof. Imagine that you’re selling analytics software to the VP of Sales…which of the following resonates:
+
+
+Acme Corp bought our product and cut their monthly reporting effort from 30 hours to 2 hours.
+
+
+Beta Corp was able to identify bottlenecks in their sales process and address them to increase pipeline velocity by 20 percent.
+
+Both are great outcomes. Both are probably good reasons to buy your software. The VP of Sales, however, likely cares only about one of these stories and couldn’t care less about the other. By mapping the story to the buyer persona, you’re not guaranteeing a win, but the probability of success will increase for sure!
+
+
+
+Figure 5.3: Reps must know specifically how they can win with each buyer persona
+
+
+
+Entry-Level Reps and the Challenger Sale
+
+The book The Challenger Sale puts forth several great concepts, one of which is to push buyers out of their comfort zone and teach them something new. That’s great, and some sales reps have the tools to be challengers, but only if they master what their buyers do, what their pain is, and how to win their business.
+
+If you’re going to take the Challenger approach, then mastering the buyer personas is a critical step in Challenger sales enablement.
+
+Take a moment and think about something you’ve been doing your whole life. Maybe playing basketball or poker, golfing, or fishing. You’re an expert, right?
+
+For this example, let’s pick golf. There’s a club in golf called a 7-iron. Assume Taylor hits a 7-iron about 165 yards. Someone who hasn’t played golf before will see a 165-yard shot and assume a 7-iron is the right club. Well, maybe…but there are so many ways they could be wrong. Imagine the following scenarios:
+
+*Under a tree: Punch out with the 3-iron
+
+*In the sand: Club up to a 5-iron
+
+*Into the wind: That will be a 6-iron
+
+*Strong wind at my back: Grab the 8-iron
+
+*50-foot increase in elevation: 6-iron!
+
+
+If all someone knows about golf is that a 7-iron hits the ball 165 yards, they will fail time and time again when suggesting a 7-iron based on the fact that a golfer is 165 yards from the green.
+
+Challenger tactics work when used properly, but salespeople who do not know their buyers inside and out will fail!
+
+
+
+Metric:
+
+*Each salesperson can fill out “what they do”, “their pain,” and “how we win” for each buyer persona
+
+
+
+Plays in Brief:
+
+*Have each sales rep write a sample job description for each of their buyer personas.
+
+*Develop “What they do,” “What their pain is,” and “How to win their business” messaging for each buyer.
+
+*Confirm that sellers know their buyers in-depth (beyond a surface pain question) and can articulate the impact of your product or service on each buyer’s “job-to-be-done.”
+
+
+
+
+
+Chapter 6
+
+
+
+Product Training
+
+Sales Enablement Goal: All salespeople are demo certified for each persona and use case in their market.
+
+Do you ever find yourself watching a TV show where a scientist or doctor is going into details? Something like this:
+
+
+BP is 100 over 55 and dropping, there’s swelling in the frontal cortex, and I need five cc’s of epinephrine, stat!
+
+Guess what…that’s exactly how prospects feel when sales reps go off on tangents talking about their products. The topic doesn’t need to be highly technical to throw people off track; we’ve seen salespeople in service industries spin themselves out of many conversations.
+
+Training salespeople how to talk about their product in the context of pain diagnosis is much more important than training them on what the product does.
+
+*Bad: Describe what feature X does.
+
+*Good: Describe how customers A, B, and C used feature X to realize Y value.
+
+*Bad: Walk the prospect through a comprehensive demo.
+
+*Good: Listen for triggers indicating the next logical step in the demo (which could include ending it).
+
+*Bad: Start with background or marketplace slides to “set the stage” (they’ll fall asleep).
+
+*Good: Start by focusing only on the features that address this specific prospect’s unique pain points as articulated on a previous call.
+
+
+
+Two Training Tracks
+
+Sales enablement must understand that, depending on how good a rep is at sales, they will go down different paths during product training.
+
+Reps who are experienced and good at sales will plow through it, not take training at face value, and will insist on validating everything with the market. These folks have taken the outcomes of product training to the market before, and they know that prospects aren’t always as excited about things as the product management and marketing teams want them to be. They know there is a middle ground between marketing messaging and the real use case.
+
+Entry-level reps and people who are bad at sales will love product training and then rely on it because regurgitating features and benefits is easier than selling. They don’t have a well-oiled sales process and sales methodology, so they need to anchor to features and their perceived benefits. As a result, those who are not good at sales get worse because they move their professional development energy from acquiring sales skills to learning product features.
+
+The negative impact described above is exacerbated by the fact that product training is easier to develop than are trainings on other topics. Teaching product basically just requires converting the documentation that’s already been developed by the product development teams into customer-facing language. Pure admin work. Avoid the temptation to drift into developing this type of training content as a way of avoiding more challenging topics, such as extracting case studies from customers or simplifying the sales process.
+
+
+
+Focus on Pain
+
+There are really three types of products:
+
+*Vitamins: Products that you can do without but have a logical purpose. An example is an extended warranty on a copy machine. If the copy machine breaks, your company won’t go out of business, and the lowest-ranking person in the office could approve the repair expense. It’s a “nice-to-have” at best.
+
+*Candy: Products you can absolutely do without but bring pleasure as well as possible economic value. Examples include season tickets to sporting events and country club memberships.
+
+*Painkillers: Your business suffers significantly without these products. IT systems of record (CRM, ERP, etc.) are examples.
+
+
+For the purpose of this book, we’re really focused on painkillers. If you sell candy, a lot of these principles apply, and if your product is a vitamin, sales enablement is the least of your problems!
+
+During product training, it’s important to drill down on the specific features and the pain each solves. Features for technology companies are obvious, but all products and services have features. An insurance product has its coverage, premiums, and other items in the fine print. Steel has yield and tensile strength. Everything has features, and hopefully they all solve pain.
+
+In the previous chapter, we stressed the importance of knowing your buyer persona. Let’s extend that thought to understanding which features solve each pain for each buyer persona. Does Figure 6.1 look familiar?
+
+
+
+Figure 6.1: Know where to focus during a demo and avoid everything else
+
+
+
+
+To go a step further, next attempt to:
+
+*Quantify the Pain: How much does it cost the company?
+
+*Quantify the Risk: If the pain is not solved, what else happens? Do people miss promotions? Lose jobs? Nothing?
+
+*Rank the Pain: For each persona, of all the things they need to do, where does solving the pain fit in the rankings?
+
+
+The last bullet above is key. If solving the pain your product solves isn’t a top-5 priority for someone with purchasing power, your deal will likely languish. If it is, though, Figure 6.1 can help guide the evaluation process where you point out SPECIFICALLY which features solve which pain points for which personas.
+
+
+
+Pricing
+
+Sales enablement must ensure that the sales team is provided with the following:
+
+*Current pricing for each product
+
+*Specific scenarios in which pricing can be adjusted
+
+*Messaging to use when delivering pricing information
+
+
+The messaging piece here is critical. Salespeople often have difficulty talking about money and uncovering a prospect’s willingness and ability to invest in resolving their problem.
+
+Here are some selling behaviors that indicate a challenge for sales enablement:
+
+*Premature Discounting: If you’re not certain that your sales reps aren’t offering discounts on the first call or before your prospect asks, go figure that out RIGHT NOW. Statements like “but we’re flexible” are a subtle indication. It not only reduces your potential revenue but also signals risk and weakness to a buyer. If the product is great, why is there a need for premature discounting?
+
+*Assuming Price Is the Issue: Early-career sales reps and those who have never bought on behalf of a company often think that business money is similar to personal money. In your personal life, if you save 20 percent on Astros tickets, you can spend that money on something else. In business, that’s not really the case. First, if you don’t spend your budget you’ll probably lose it, and second, each purchase you make has internal costs that are often an order of magnitude greater than the purchase of a product or service. Price is never the issue. Pain is.
+
+*Sending Proposals Before Buy-In: If someone with decision-making authority hasn’t given a strong indication they are going to buy, or they haven’t confirmed that the only thing left to do is review a formal proposal, don’t send a proposal. In these cases, the sales rep is hoping and dreaming their way to a sale.
+
+
+A person with a “sales enablement manager” title isn’t going to fix this problem at a 1,000-person company, just as an arborist in Northern California cannot fix global air pollution. It takes an ecosystem.
+
+
+
+Product Demo Certification
+
+We talk about the concept of a “whiteboard demo” in chapter 3, but this activity extends beyond onboarding.
+
+For each new product feature that’s introduced, each sales rep should be able to demonstrate how the feature solves each SPECIFIC pain point for each unique persona. If the feature doesn’t solve a pain for a target prospect, then it shouldn’t be covered.
+
+Demos are not presentations; they are conversations. If one prospect cares most about a feature that’s typically shown halfway through a demo, find a way to get there as fast as possible, ideally in the first 2 minutes. It’s amazing how fast you will lose someone’s attention when talking about features they don’t care about, or by showing a 10-minute slideshow to “set the stage.”
+
+As always, identify common signs that a demo isn’t going well (apathy, a lack of engagement, complete silence, liberal platitudes without context, etc.) and coach the sales team on how to react. One of the most powerful places the sales enablement ecosystem can have an impact is by helping reps surface and identify red flags that can be addressed.
+
+When a red flag is spotted during a demo, the rep can do one of the following:
+
+*Realize the current path isn’t resonating with the prospect, ask questions to reengage, and move in an alternative direction.
+
+*Realize there isn’t a fit, disqualify the prospect, ask for a referral, and move on to other opportunities that have a chance to close.
+
+
+One method savvy buyers use to evaluate vendors is based on product complexity. Having a teaser video on your website that shows your product isn’t Frankenstein and showing fluid demos are critical to ease anxiety around complexity. Starting off with 20 minutes of background or context slides when the competition jumps into a friendly demo puts your company at an instant disadvantage. Keep it simple!
+
+
+
+Metrics:
+
+*% conversion from demo to next stage
+
+*% of reps who are demo certified
+
+*Gross Profit Margin
+
+
+
+Plays in Brief:
+
+*Develop product training that simply gets sellers ready to talk to prospects.
+
+*Make a worksheet that ties each major feature back to a specific pain point for a specific persona, and make sure sellers know and can recall each of these.
+
+*Ensure that pricing is consistent.
+
+*Confirm that sales reps are capable of talking about money.
+
+*Conduct a demo certification with each sales rep that has an expiration date that management tracks.
+
+
+
+
+
+Chapter 7
+
+
+
+Tools
+
+Sales Enablement Goal: All salespeople have the tools they need to do their jobs, and the tools that have been purchased are used as expected, producing an attractive return on investment (ROI).
+
+At a restaurant in New Orleans, we had the opportunity to observe a small child eating blue crabs. She picked out the one she wanted, set it on the table, and beat the hell out of it with the wooden mallet. She then proceeded to pick at a little bit of the meat and threw the rest away, happy to get full off of corn and potatoes.
+
+Salespeople are often given the tools they need to be successful, they “do it wrong,” and then give up—like the girl eating a crab. This frustration extends to the decision maker who allocated the budget to buy the product. Everyone is unhappy with the product, and no efficiencies or performance impact is realized.
+
+Sales enablement is positioned to identify need, evaluate, negotiate purchase, implement, and ensure adoption and ROI for tools.
+
+
+
+Which Tools Do We Need?
+
+One CEO we interviewed shared that he receives 10 or more e-mail solicitations daily for sales, marketing, or productivity tools. Daily! No wonder we’re always asked, “Which tools do we need?”
+
+That’s the wrong question. The only way to arrive at the right tool stack for your team is to answer these questions:
+
+*What are all the problems we need to solve?
+
+*Are these technology or analog (skill, quality, training) problems?
+
+*What is the adverse impact if the problems are not solved?
+
+*Do we have the ability to integrate this tool, train folks, and ensure adoption NOW?
+
+
+Once it’s clear which areas deserve energy, figure out what tools exist to solve each of these problems. Do some Internet research, but be aware that can be a rabbit hole since messaging doesn’t always match what a company does. How many software vendors have you heard claim that they do X, but once the demo starts it’s clear that’s not really what they do.
+
+Honestly, the fastest way to do tool research is to post on LinkedIn and say, “We see a need for __________; what do people recommend?” You’re going to have to talk to salespeople, so might as well dive in headfirst.
+
+
+
+Buying the Tool
+
+When buying tools, the sales process must provide you with:
+
+*Relevant Demos: When vendors demo their products, refuse to watch a generic use case with clean data. Make the demo relevant to your specific use case and data quality. If it’s a big purchase (like analytics software can be), pay for a proof of concept before “putting a ring on it.”
+
+*An Out Clause: If you’re skeptical that the vendor can follow through on their promises, demand a 90-day window where you can cancel the contract (an “out clause”). To be fair, include specific reasons that could lead to cancellation and give the vendor a chance to be successful. If they don’t agree, that’s a red flag. Tying up sales budget and bandwidth with a tool that doesn’t deliver is disablement.
+
+*Engagement with an Executive: For significant purchases, have the sales rep introduce you to an executive sponsor at their company. Odds are the seller will be in a different role or leave the company during the course of your agreement, so it’s important to have a relationship with someone who holds power. Involve one of your own execs in the conversation if necessary.
+
+*End User Buy-In: If the team is going to be held accountable to use a product, they should be given an opportunity to provide feedback. If you buy something for someone else and they hate it, conflict will ensue, and the person making the purchase will lose credibility. That’s disablement.
+
+
+
+Why Tools Fail
+
+Many purchases don’t get user adoption. Most organizations are currently paying for a predecessor’s folly that is either going unused or is universally hated.
+
+If the team who will use the tool isn’t committed, competent, and incentivized (directly or indirectly) to putting effort into implementation, training, and utilization—don’t buy it. Seriously…just walk away. In these cases, none of the magic that seduced you in the demo will ever be realized inside your organization.
+
+
+
+Monitor Usage
+
+The person administering sales tool enablement should be monitoring usage of each product on a monthly or quarterly basis. The usage hypothesis for a workflow technology in early integration should be something like:
+
+
+X percent of people with access will use it weekly, Y percent will use it monthly, and Z percent won’t touch it.
+
+These numbers don’t have to be huge to make an impact. Lunch and health insurance cost about the same, but their usage is completely different (daily versus a few times a year). Some products are lunch, and some are health insurance, but both need to have the expected impact.
+
+As usage is tracked over time, see how the actual values compare to what was expected. If usage is much lower than it should be, then:
+
+*Investigate and find out why. Common reasons include: hard to use in workflow, doesn’t work as expected, stopped being helpful, was not properly implemented, a better tool came along, personal preference, etc.
+
+*Take corrective action if there’s a fixable reason for the lack of usage. Action could include product training, office hours with the vendor, or a team meeting to discuss how others have used the product successfully.
+
+*Cancel the contract if it’s not a fit. If it feels like cancellation might be an option, one exercise is to do a rapid “mock evaluation” where you pretend that you haven’t bought the product and see if you would buy it today. If not…goodbye!
+
+
+
+Tools Audit and Reassessment
+
+Even if the product is a good fit, there will be better alternatives in the future. The role of enablement is to be on the forefront of products and their practical utility for your organization. This is not the bleeding edge of technology for technology’s sake, though. Maintaining a constant assessment of the threats and opportunities your sales team faces and the role of tools therein is a core function of enablement. Don’t be trendy—be prescriptive.
+
+
+
+Metric:
+
+*Daily Active Users for each tool
+
+
+
+Plays in Brief:
+
+*Identify needs across the team that could be addressed with tools.
+
+*Develop a tool buying process.
+
+*Create a system to monitor usage and determine when to cancel or renew contracts.
+
+
+
+
+
+Chapter 8
+
+
+
+Content
+
+Sales Enablement Goal: Develop a closed-loop content creation process where salespeople have the specific content they need at the right time to move deals forward; they can request new content if there are gaps; and anything created is instantly pushed to sales reps at the specific time it’s needed.
+
+(Deep Confession: OK, so the authors founded a company called ClozeLoop. We like closed loops because too often silos create organizational dysfunction, inefficiencies, lack of accountability, and grossly exaggerated timelines for feedback and messaging iterations that directly impact sales effectiveness.)
+
+Sales content no longer consists of “collateral” in the form of brochures, PDFs, and PowerPoints. Today, “sales-ready” content is primarily made up of keywords, relevant phrases, and pithy sentences. Infographics are appropriate from time to time, but in a truly dynamic selling conversation, being able to produce relevant “micro-content” at the right time in a conversation is what closes deals.
+
+Who reads a 5-page PDF? Why share a 15-page PowerPoint deck? Do these assets actually convert to revenue, or do they just make the salesperson “feel like they’re doing work”? It’s “the Gap mentality.” Have you ever walked into the Gap in your local mall at 2:00 o’clock on a Tuesday afternoon? Lots of people folding clothes. “Doing work.” Not selling much.
+
+
+
+Content Relevance
+
+Irrelevant content doesn’t work. Micro-targeted advertising, localization, and other rich buying experiences have reduced buyer tolerance for generic content to near zero.
+
+Telling a CIO how your product worked for a VP of Sales is a fool’s errand. Same with explaining how you helped IBM when talking to a 300-person industrial distribution company. That’s not social proof; it’s proof of laziness or a lack of sophistication.
+
+
+
+The Half-Life of Content
+
+Content producers must monitor the age and usefulness of what they’ve produced. Some content, such as customer stories, is good for a long time. Demo videos go out of date pretty quickly. Analyst reports have a defined expiration date (the date of the next report). Instead of waiting for a prospect to say, “this isn’t useful,” it’s smart to take a proactive approach and schedule periodic content audits.
+
+
+
+Figure 8.1: Keep your content fresh!
+
+
+Sales enablement is tasked with taking on a universal bad habit: familiarity bias. Many sales reps will use the same one, two, or three case studies in every conversation regardless of relevance.
+
+*Persona: Doesn’t matter
+
+*Industry: Doesn’t matter
+
+*Use Case: Make it work
+
+
+Forcing irrelevant case studies or customer stories into prospect conversations is a red flag to buyers. When sales reps take the time to learn all the case studies and customer stories, however, the resulting social proof is more relevant, leads to more closed business, and allows for more effective disqualification.
+
+
+
+The Persona > Pain > Feature > Content Matrix
+
+Let’s extend the diagram from Figure 6.1 to include “Content” (Figure 8.2). Now we’re able to make content hyperpersonal to the selling conversation, which only increases the probability of success. Remember, we’re not talking PDFs here; that’s not “sales-ready” content. In the “Content” column, think of the specific words, phrases, sentences, and questions that can move the sales process forward. In football, if you get a first down every play, you will win. Same in sales.
+
+
+
+Figure 8.2: Make it easy for the prospect to understand how you can help them
+
+
+
+
+Relevant Conversation Follow-Up
+
+“Sending more information” after a sales call is generally a bad idea. If it’s important enough to send via e-mail, why not just talk it through on the call? But, assume you did talk it through and the prospect wants it for reference, or assume that you have a use case where sending information is a good idea (such as a web security document). Either way, this matrix helps inform what to send to which prospects.
+
+
+
+
+Real-Time Conversation Pivot
+
+When reps are armed with this matrix during a sales call, they can quickly navigate through talking points and make sure that the most relevant points are being made with the prospect. Or, for sales reps who actually do pre-call prep (like everyone should), the info can be known before the call, and everyone is set up for success.
+
+
+
+
+Relevant Inbound Lead Follow-Up
+
+When reaching out to inbound leads (people who submitted a form on your website or e-mailed for more information), some salespeople start the conversation with:
+
+
+I see that you expressed interest in [my company]. Do you have 15 minutes to chat so I can learn a little more about you, your company, and see if it might make sense to talk further?
+
+There are several issues here:
+
+*Many prospects will recognize they’re being put into a sales process, and due to the vague nature of the e-mail, they’ll have anxiety around how big of a commitment they’re making by responding. Since no relevant value is being provided, a lot of them will avoid calls and e-mails because they know avoiding you at the top of the funnel is a lot less painful for them than trying to shake you midway through the sales cycle.
+
+*If a prospect downloaded an analyst report from your website, they didn’t “express interest” in your company; they downloaded an analyst report they probably haven’t read yet. A lot of inbound SDRs tell their prospects that they “expressed interest” when they didn’t.
+
+*Anyone who has LinkedIn should already know quite a bit about their prospect.
+
+
+Using what was learned about the prospect on LinkedIn and knowing which content they accessed (or how they “expressed interest” if you still believe that), really good follow-up messaging can be crafted with a little bit of effort.
+
+Based on the matrix in Figure 8.2, a response to the inbound lead (call and/or e-mail) from a specific marketing asset can intelligently guess what their throbbing pain is at the moment and deliver hyper-relevant messaging.
+
+The development of the matrix is oversimplified in this book; it’s actually a ton of work and requires people with knowledge of the market and a commitment to detail. If you do this exercise as a team, however, everyone will be on message and your replies should go way up! It should also help increase replies from good leads and weed out people who are not likely to become buyers. Some tools out there even give the rep the ability to give feedback on what worked and didn’t so marketing and the sales team can make adjustments over time and everyone can continuously improve based on market feedback.
+
+
+
+Demystifying Sales-Ready Content
+
+The reality of the modern sales rep with respect to content is as follows:
+
+*Salespeople Need: Words, phrases, and sentences
+
+*They Usually Get: PDFs, PowerPoints, and other complex documents
+
+
+High-performing sales reps we spoke to insist that in a high-velocity selling conversation every word counts. Every statement or question a prospect makes needs to be met with a seller’s question or response. There’s no time to explore a different document for each micro-concept that arises throughout a selling conversation.
+
+Sales enablement means delivering specific content to salespeople in real time: a keyword for a persona, a phrase describing how a customer used a specific feature, or a question that can move a selling conversation forward or disqualify. The seller needs an army of these micro-content units to deploy throughout the sales process.
+
+Your best salespeople are probably able to navigate these types of conversations off the top of their heads. Reps in the middle of the pack are not. The sales enablement challenge lies in moving them from the middle to the top! One critical part of the sales enablement ecosystem is the act of arming individual sales reps with the most relevant, specific content they need at every point in their sales process; again, that doesn’t mean tagging your PDFs and PowerPoints to different stages in the sales process.
+
+
+
+How Salespeople Find Content
+
+The biggest problem with sales content is that it doesn’t have a home. Depending on the tools a company has in place we’ve found that content could be in many places, including:
+
+*People’s Heads: Some of the most valuable information isn’t documented and walks out of your doors every night.
+
+*E-mail: How many times have you been told, “Remember, I sent it in that e-mail last month.” Not good.
+
+*Chat Applications: Products like Slack and HipChat allow for collaboration in a way that’s superior to e-mail, but knowledge isn’t indexed or curated, so it’s impossible to find what’s needed and control it for quality.
+
+*Document Management System: A good way for their architect to structure a content repository, but this is one of the most frustrating parts of an end user’s day.
+
+*Playbooks: A Google Doc or DropBox file that was either created internally or by an external consultant. When creating a playbook, also track usage. Playbooks have a reputation for going stale and being hard to access.
+
+*Training Materials: These are PowerPoints and other documents designed to transfer knowledge from experienced employees to new hires.
+
+*Colleagues: Instead of having a strategic discussion around how to move a deal forward, sales reps are asking about the location of a document or forcing a colleague to repeat the same info they’ve covered several times before.
+
+*Sales Enablement Software Tool: If you already own a sales enablement tool and you’re taking the time to read this book, you’re probably in trouble.
+
+*Post-its: Laptops littered with value proposition Post-its, one-liners, and case study notes are not uncommon.
+
+
+While any of these sources may be fine for research projects, none are agile enough to retrieve in the midst of a selling conversation or even in preparation for a specific conversation.
+
+
+
+Content Dissemination and Discovery
+
+If content is highly relevant to a selling conversation and easy to access, salespeople will use it successfully. Making content hard to find or pushing irrelevant content disengages sellers and pushes them to do things “their way.” Here’s the framework for making content both relevant and easily discoverable:
+
+*Collect: Capture every piece of content that might be usable in a selling conversation. Remember, we are not looking for thesis material here; the goal is to find words, phrases, and sentences. This is the micro-content salespeople will use consistently.
+
+*Structure: Assign each unit of content to a logical category, such as “Competitive Intel,” “Objection Handling,” or “Prospecting Resources.”
+
+*Tag: Associate content with themes. “Your pricing is higher than Alpha Corp” can be categorized as an objection and tagged to “pricing” and “Alpha Corp” to make this info easy to push to users when they need it.
+
+*Enable Searchability: Relevant content should be at the fingertips of your salespeople. Doing a keyword search is a natural behavior that salespeople must be able to leverage to access key content in preparation for sales calls or during the actual conversation. It’s even better to store content in a product that goes beyond keyword search and enables the search engine to be tuned to your team’s needs.
+
+*Deliver: Provide sellers with what they need specifically at each point in the selling conversation, and minimize the effort on their end to get what they need. Automated content delivery inside of the CRM with advanced search capability is best practice here. Also, don’t send a document when the sales rep needs a sentence.
+
+*Review: Conducting content audits ensures that content remains accurate and relevant. Assign an expected shelf life to each type of content and make updates accordingly.
+
+
+Sales enablement culture around these points dramatically increases the effectiveness of a sales organization.
+
+
+
+Competitive Intelligence
+
+The most successful organizations don’t obsess about their competitors. They build great products or deliver great services that solve specific problems at a price their customers believe is fair.
+
+Great companies do, however, know their competitors better than their prospects do. Ideally, this information is captured in a competitive battlecard for each competitor, which is updated frequently and easily accessed by all salespeople.
+
+
+
+
+What Do They Do? What Don’t They Do?
+
+A great place to start is to just understand what everyone does. Be objective here…it’s easy to get emotional and start thinking about who is swifter, stronger, and smarter, which will cause you to have biases that wouldn’t exist if they weren’t a competitor.
+
+Using Figure 8.3 will allow you to better understand your positioning relative to your competitors.
+
+
+
+Figure 8.3: Understand this information from your prospect’s perspective
+
+
+
+
+When Do Your Competitors Win?
+
+Know what types of deals heavily favor your competition. Does BrandX always win a certain type of deal because they have a feature you lack? Maybe they have an after-the-sale customer success advantage. Or is their price just always lower because they offer no service?
+
+Objectively understanding when someone else will likely win allows your team to disqualify deals fast and focus on prospects that have a higher probability of success. In sales, second place is the most expensive. All the effort and none of the reward.
+
+
+
+
+When Do You Win?
+
+Knowing the types of deals you’re best suited to win lets you invest your resources and energy where the outcome is in your favor.
+
+*Do you have an elegant solution whereas incumbents are “clunky?”
+
+*Is your business model more competitive than other players’ models?
+
+*Are you better/faster/cheaper than the competition?
+
+*Is your service offering built upon a more scalable model?
+
+*Do you have greater expertise?
+
+
+Knowing where you win helps focus sales and marketing efforts on the right companies and helps avoid distractions. Enablement is about laser focus, not a buckshot approach.
+
+
+
+
+Battle Strategy?
+
+There are deals you are best suited to win. There are deals that favor your competition. Then, there are deals where it might be a coin flip.
+
+These situations are like games of chess and require your sales team to have the strongest command of competitive intel. If you are competing against a company you know nothing about, you might as well be playing chess blind.
+
+
+
+Figure 8.4: A simple competitive battlecard to help reps understand where to focus
+
+
+
+
+How Sales Teams Track Competitive Intel
+
+Salespeople who are busy selling don’t have a lot of time to do competitive research. Here are some low-effort ways to get a solid handle on the competition:
+
+*Read Their Websites: Understand their positioning, pricing, and targeted persona by reviewing their web pages, blog, case studies, and white papers.
+
+*Watch Their Videos: Check their websites, but also search YouTube and Vimeo. A lot of times employees, channel partners, and customers will upload unsanctioned videos. You will likely find some Easter eggs.
+
+*Follow Them on Social Media: Many companies publish product updates, customer wins, executive appearances, and company events on LinkedIn and Twitter. If you are a start-up, pay attention to Angel List and Crunchbase for funding events and product launches.
+
+*Talk to Users: For each company that’s provided a testimonial or case study for a competitor, a quick LinkedIn search can identify people in your network who are using their product as a customer. Get the scoop on what people REALLY think about the product.
+
+
+Now, what do you with all this great intel once it’s been collected? See the “Content Dissemination and Discovery” section above!
+
+
+
+
+Retention and Recall
+
+It’s amazing how many people know everything about mitochondria and photosynthesis at age 16, but at age 26, they struggle to know everything about ten competitors in their industry. Don’t let your team get lazy just because they don’t have a final exam.
+
+
+
+Objections + Responses That Work
+
+The fastest way to lose a qualified lead is by failing to properly handle objections.
+
+
+Warning: Objection handling doesn’t mean being right. It doesn’t mean being smart. It also doesn’t mean providing well-crafted concise answers.
+
+
+
+
+Question-Based Objection Handling
+
+If you went to school in the United States, you know that when asked a question, the person with the right answer gets the gold star and the person who answers a question with a question is branded as a smart-ass. So, the commonsense way to handle a prospect objection is with a direct answer. Unfortunately, following common sense in sales is typically a fool’s errand. Take the following example:
+
+*Prospect: Your product is too expensive.
+
+*Direct Answer: Most of our customers find us quite affordable at $50K/year.
+
+
+Ouch…good luck convincing your prospect that all of a sudden they’re wrong and you’re right. Here’s another approach:
+
+*Prospect: Your product is too expensive
+
+*Answer 1: I hear your concern. Can you help me understand a little more about your financial considerations?
+
+*Answer 2: Do you mind helping me understand what type of budget you’ve allocated for this project? And if none has been allocated, what range would you be comfortable seeking to make a purchase?
+
+*Answer 3: It’s always helpful to understand context when talking about pricing. Are there specific products we’re being compared against that are in a different price range?
+
+
+An objection is an opportunity to uncover more pain. You don’t learn anything from answering their question directly, and–worse–you can make unfounded assumptions.
+
+
+
+
+Objections Are Welcome!
+
+Bringing up an objection is just another way to ask key questions. For example:
+
+*That’s expensive! could mean Tell me more about your pricing.
+
+*You don’t integrate with Salesforce could mean How will our users access your product without going out of their way?
+
+*I don’t think you have all the features we need today could mean Tell me about your product road map.
+
+
+Objections are not necessarily a sign that a prospect doesn’t want to do business with you. Bracing for rejection and responding directly shuts down the opportunity to peel back the layers of the onion. Asking a question, however, opens up the topic for further exploration.
+
+
+
+
+Hear It Once, Never Again a Surprise
+
+When scaling a sales team, it’s critical to minimize reworking and wheel reinventing. So, when an objection is heard:
+
+*Write it down.
+
+*Put it in a place where EVERYONE can find it.
+
+*Include responses that work.
+
+*Provide tips on how to deliver the response (or clarifying question), which will often tie back to your company’s methodology.
+
+*“Tag” it, meaning associate keywords to the objection such as a competitor name or market segment.
+
+*Make everything searchable, especially the tags. Generic “keyword” searches don’t work.
+
+*Assign shelf lives so different types of objections are reviewed over time. Competitors and products will change so don’t let the info go stale.
+
+*Push the objection to the sales rep when they’re in a situation in which it might arise, before it arises, without them having to search for it.
+
+
+Sales enablement must allow for a closed loop of communication between the sales rep collecting the objection, sales leadership and marketing providing relevant responses, and sales reps endorsing their effectiveness. Too often this activity is done in a vacuum, with executives or marketers attempting to guess at objections or providing responses that are academic and not effective. Or worse, sales reps go rogue and develop messaging that is out of sync with company positioning.
+
+Now, what does enablement do with all this great intel? Make it instantly accessible to everyone selling, and keep it fresh.
+
+
+
+Customer Success Stories
+
+Wait! Isn’t a customer story and a case study the same thing? Not exactly.
+
+*Customer Story: An informal story about how your company helped a customer. You might name the customer directly or simply say, “A large insurance brokerage worked with us to….”
+
+*Case Study: A document that has been formalized and approved by the customer that typically includes their challenge, selected solution, a measurable impact on their business, and possibly a return on their investment.
+
+
+Since informal stories are much more abundant than formal case studies are, there should always be one handy for each Person > Pain > Feature combo, as highlighted in Figure 8.5.
+
+
+
+Figure 8.5: Story-driven demos work much better than feature-driven demos
+
+
+
+Your Next Step: A Content Audit
+
+After reading this chapter, you should have some ideas about how to make your content arsenal better. You also could be thinking about content that’s missing in your organization. One key sales enablement function is to perform a regular content audit.
+
+Here are some ideas to help you get started:
+
+*Freshness Review: Is existing content out of date? It’s helpful to set a “shelf life” based on the type of information. Industry analysis might need to be updated only annually, while competitive talking points could be reviewed quarterly.
+
+*Team Brainstorm: Get thoughts from everyone with a “no answer is a stupid answer” brainstorm where each person thinks of the content that would be useful in the future.
+
+*Competitor Review: Does your competition have content that you don’t? Evaluate their rationale and make sure that you can strategically combat each of their weapons.
+
+*Ask Customers: Informally survey customers to find out their thoughts. What would make doing business with you more compelling from their perspective? What did they evaluate in making the decision to become a customer?
+
+
+Following the audit, updates and new projects can be prioritized based on their ability to enable sales.
+
+We have made a free content audit worksheet available at SalesEnablementPlaybook.com.
+
+
+
+Figure 8.6: Close the loop between content creators and content consumers
+
+
+
+Metrics:
+
+*Reps can immediately find relevant micro-content while on a sales call
+
+*All learnings from the market are in micro-content format and available for other salespeople to use
+
+*All content has been assigned an expiration date and is current
+
+
+
+Plays in Brief:
+
+*Build out a Persona > Pain > Feature > Content matrix.
+
+*Ensure that relevant content is accessible for sellers to use in any sales conversation.
+
+*Reduce clunky PDFs, PowerPoints, and long-form web pages to words, phrases, and sentences for sellers to use in conversations.
+
+*Extract content from people’s heads, e-mail, chat apps, playbooks, and other materials and put it into a closed-loop delivery system that pushes content to sellers at the moment it’s needed.
+
+*Build competitive battle cards for each competitor.
+
+*Develop a definitive list of objections and responses that work.
+
+*Develop credible customer stories for each Persona > Pain > Feature combination in your market.
+
+*Conduct a full content audit and fill in the gaps.
+
+*Create content expiration dates to ensure freshness.
+
+
+
+
+
+Chapter 9
+
+
+
+Prospecting
+
+Sales Enablement Goal: Each sales rep has a steadily increasing pipeline of prospects in your target market, and they close at a predictable rate.
+
+At your next sales meeting, take some blank pieces of paper and ask everyone to write down your company’s ideal customer profile (ICP). Don’t give any further guidance, give everyone 90 seconds to answer, and collect the responses. Here’s an example of the types of responses you might hear:
+
+*Worst Possible Answer: Everyone
+
+*Terrible: Sales teams
+
+*Bad: Sales teams with Salesforce
+
+*Better: Sales teams with 10–200 reps who use Salesforce
+
+*Good: Sales teams with 10–200 reps who use Salesforce and plan on growing +10 percent in the next year
+
+*Really Good: Sales teams with 10–200 inside sales reps who use Salesforce and plan on growing +10 percent in the next year and have invested in external sales consulting in the past two years
+
+
+If you conduct this exercise without “leading the witness,” you’ll find out what your team really thinks and how they are approach their prospecting for new accounts.
+
+
+
+Who Are Your Prospects?
+
+Consider Figure 9.1 below, which represents a market for a certain product. There are several buckets of prospects out there, including those who:
+
+*Have Already Bought from You: These are customers where the Customer Success or Account Management team can focus on upsells, cross-sells, renewals, and referrals.
+
+*Will Buy from You: Your marketing team hooked these folks, and while sales might need to help get them over the finish line, there will be little effort required.
+
+*Will Buy, but Not from You: Remove your emotions and realize that your competitors have a better use case or business model here. The good news is that you’re in their shoes sometimes too! Salespeople shouldn’t waste time chasing these deals.
+
+*Might Buy from You: Here’s the only area where sales reps should focus.
+
+*Won’t Buy: These are tire kickers who won’t ever make a decision. Don’t waste any effort with them.
+
+
+Drawing this graphic for your market and including company attributes and example companies in each section is a great way to help sellers prioritize their efforts. Maybe put it on the wall in your office for reinforcement?
+
+
+
+Figure 9.1: Ensure each department has their efforts focused on the right market segments
+
+
+
+The Fat Man Relay and Sales Prospecting
+
+In high school track there’s an event called the “fat man relay” (not our name). It’s typically a 4×100-meter race in which shot-putters and discus throwers run instead of the sprinters. They try hard. They’re competitors. One of them even wins. But they’re not fast compared to the real sprinters. That’s just not who they are.
+
+A similar phenomenon is seen in sales prospecting. In most sales organizations, prospecting has two major components:
+
+*Research: Determining who to reach out to and what to say
+
+*Outreach: Physically reaching out to prospects
+
+
+When doing research, the salesperson must be thorough. They need to be detail oriented. Since the conversion rate for top-of-funnel leads (especially outbound leads) is so low, they must also crank out a large volume, which means tens of hours a month (or a week) in front of a computer. Oh…and none of this work directly results in variable compensation.
+
+Once the research ends, it’s time to be aggressive with outreach and go after each lead. And be persistent…keep at it until the prospect says yes or no or hits some number of touch points where things get weird. As soon as someone engages, they’re now no longer in the prospecting phase and enter the qualification phase, where the real fun begins…the start of a sales conversation.
+
+Now think about this question: How many people in your life do you know who:
+
+*Are detail oriented AND aggressive?
+
+*Love computer-based research AND talking to strangers?
+
+*Would accept a job with high-variable compensation AND spend a significant portion of their day on tasks that do not result in any variable comp?
+
+
+Assuming that a salesperson is going to be great at research AND prospecting is no different than putting the fat man relay team into the real 4×100…they’re going to get smoked. They can try. They can have a good attitude. But despite effort and attitude, they’ll get smoked, and eventually, either management or the salesperson will get fed up and call it off.
+
+OK, so if our discus throwers shouldn’t run sprints, what’s the solution?
+
+
+
+Prospecting Efficiency
+
+There’s been lots of talk in the last several years around specialization. “Sales versus Sales Development.” “Inside Sales versus Field Sales.” “Inbound Sales Development versus Outbound Sales Development.”
+
+In their book Predictable Revenue, Aaron Ross and MaryLou Tyler popularized the concept of splitting up sales development teams into inbound SDRs who followed up on incoming leads and outbound SDRs who hunted new leads. This concept has been adopted as gospel in companies aspiring to “sales acceleration” and “hockey-stick growth” due to a lack of alternatives. But, just because Ross organized his team this way at Salesforce in the mid-2000s doesn’t mean it will work for your team over a decade later.
+
+The tools that inside salespeople spend all day using today did not exist in 2004. Different times call for different tactics.
+
+
+
+
+The Division of Labor
+
+Insource or outsource? That is the question!
+
+Have people who are good at research do research. Efficiently and effectively. These are detail-oriented people who like sitting in front of a computer all day. Similarly, those individuals who love reaching out to strangers, initiating e-mail conversations, and engaging folks on the phone should NOT be sitting in front of a computer doing research.
+
+The research function can take a few flavors:
+
+*Vertical Integration: Have a single human being do computer-based research and reach out to prospects. The probability of finding someone who is good at and likes both tasks is low…and if you do, they’ll be a candidate for rapid promotion, leaving a hole in the position. How many people on your “fat man relay team” can compete in the real 4×100?
+
+*Insourced Research Function: Develop a “research desk” where support staff conduct the research, then your salespeople reach out to prospects. Insourced research is good, but why do you need these people in your office? SPECIFICALLY, what will be the value of communication between these folks and your team that cannot be achieved by an outsourced model?
+
+*Outsourced Research Function: Take the “research desk” offshore. The beauty here is that you can send work at the end of the day and it’s done first thing in the morning, for a price you couldn’t believe. If the only goal is research, there a lot of great options. Use Central or South America for near-shore operations or a country like the Philippines or Bangladesh for cost optimization.
+
+
+When thinking about research, also think about the specific job to be done. Companies disrupting mature markets are typically replacing existing software. If you have the latest and greatest accounting software and the first step is to find out what different companies use, there are a couple of options:
+
+*Pay an SDR $60–90K a year to sit in San Francisco to find that out for 5–10 companies a day (snail’s pace).
+
+*For the same amount of money, hire a team of people from a company like Upcall.com and increase your learning by 10x, then hand off the right leads to SDRs for further discovery. You don’t have to call the decision maker to find out information like what tools they use, so it’s not like you’re poisoning a possible sale.
+
+
+Regardless of what you chose, if you think your 250-pound discus thrower is going to be able to run sprints with other sprinters, there are obvious challenges ahead.
+
+
+
+The Concept of Negative Goals
+
+Prospecting is hard. Anyone who says it’s easy has never done it.
+
+Salespeople in prospecting roles receive constant rejection, where even a 2 percent success rate can be considered successful. Who in the world can feel good about being rejected 98 percent of the time? Can you imagine that being a positive experience? One way to help your team cope with constant rejection is to focus on “negative goals.”
+
+
+
+
+Setting up a negative goals framework
+
+Imagine that a prospector on your team needs to find 50 qualified leads per quarter (roughly 4 per week). Depending on your business, they might need to communicate with 2,500 people to get to this goal. That means that for every one win there are 49 losses…feels pretty terrible, eh? Here’s where negative goals come in:
+
+*Flip the goal from getting 1 yes to getting 49 no’s.
+
+*Each time the prospect says no, that’s progress toward the goal, not a kick in the teeth.
+
+*Eventually, someone will say yes as well, which is a HUGE win.
+
+
+The term “prospecting” originally applied to searching for mineral deposits. Think about the movies where people are panning for gold or mining for diamonds. It’s lots of hard work and there are no guarantees, which is the same in sales.
+
+
+
+
+Regardless, the seller is ALWAYS winning…something
+
+While it’s critical to stay competitive and not be OK with losing, if losing is the norm 90+ percent of the time, companies need to find a way to keep morale strong. Earning a “point” each time someone says no helps people keep pushing instead of getting dejected.
+
+Some people will be able to tough it out through constant rejection, but often it takes a little more. Try negative goals…there’s a good chance that your team will be able to push themselves harder than you thought.
+
+
+
+The Big Debate: Personalized versus Generic Prospecting
+
+Every. Single. Day. Without fail, someone will post the following on LinkedIn:
+
+
+Attention Salespeople: When you reach out to me, make your messaging relevant and personal, then I might respond.
+
+The fact is that 90+ percent of the time, the person complaining about relevance is a consultant, speaker, author, or another type of “thought leader.” OR, they work for a software company trying to sell some type of ABM/ABR/ABX or other sales/marketing tool. These types of people are likely trying to stir the pot and get some attention for their product or service, so don’t take them too seriously.
+
+
+
+
+Have Pain, Will Listen
+
+When you send a prospect a “non-personalized” e-mail, and it has to do with one of their top-3 priorities THIS QUARTER, they will probably listen. Which of the following do you think would be more effective:
+
+*A personalized e-mail telling me how you love my LinkedIn posts and all this other flattery, while introducing a product I’m not thinking about at the moment.
+
+*A non-personalized e-mail telling me that you are good at solving a problem I have RIGHT NOW.
+
+
+Most prospects will take the second option over the first option ALL DAY LONG, especially if they have heard of your company before!
+
+Assuming it does make sense to personalize outreach, which can be the case if your target market is extremely small, let’s clarify what “personalization” actually is and compare it to “fluff,” which has no place in a selling conversation.
+
+*Personalization: Referencing specific news about the prospect or their company
+
+*Fluff: Bringing up a college or fraternity connection
+
+*Personalization: Common work experiences or people you know in common
+
+*Fluff: A surface-level reference to something they published on social media
+
+*Personalization: A product screenshot or customer story related SPECIFICALLY to how you can help this person
+
+*Fluff: Using their name and company in an e-mail automation tool and thinking that’s personalization
+
+
+Sometimes the goal of personalization is not to sell this quarter or next, but to plant the seed for future opportunities. That’s fine, but make sure the salesperson’s compensation plan and expected tenure with the company match this model. If they only get paid on deals that close and the average person in their role lasts 18 months, it’s hard to expect them to focus on building long-term relationships.
+
+
+
+
+The Holy Grail
+
+Enablement’s role in this process is to find patterns. Do you have a way of figuring out when the problem your product solves is at the top of your customer’s to do list? What are the typical verticals, personas, triggering events, current states, parallel solutions, pains, and market conditions that make your prospect likely to buy your product/service? When encountering any of these, you should personalize to provide a better chance at a conversation.
+
+
+
+
+Wait, What about SPAM?
+
+Adding a line about your prospect’s LinkedIn article, a quote from their coworker, or something about where they went to school doesn’t make an e-mail less SPAMMY. Everybody is doing it. If everyone is doing it, you become part of the noise. Enablement’s job is to provide controlled experiments that measure effectiveness.
+
+
+
+Social Selling
+
+Social selling creates synergies between a company’s brand, its product, and the individual strengths of its employees. Due to social’s ability to impact revenue, it’s a core component of the sales enablement ecosystem.
+
+
+
+
+Writing Content
+
+A very small percentage of people online are content producers. Developing good content takes work: activity, consistency, thoughtfulness, and thick skin.
+
+In golf, you can’t make a putt if your ball never gets to the green. With social selling, you can’t build your brand if you never publish any content!
+
+Enablement’s role here is to encourage activity and then help content producers get good at it.
+
+*Good: Readers learn something.
+
+*Bad: You state the obvious with no real insights.
+
+*Good: Your thoughts are provocative and provide substance as backup.
+
+*Bad: You say the same things as everyone else.
+
+*Good: Posts are engaging and written in your voice.
+
+*Bad: The writing is bland and formal and contains spelling and grammar errors.
+
+
+Producers must study the trends in the feedback you receive from readers and continuously improve.
+
+
+
+
+Commenting on Content
+
+Introductory ways in which sales enablement can coax the team (developers, marketers, sales, and everyone else) into the social selling waters is to direct folks to discipline-specific content published by others. Why can’t a CFO engage in an online discussion regarding comp and incentives? This activity is still a brand building exercise.
+
+Do’s:
+
+*Find your prospects and comment on their posts. Most content creators monitor comments closely and love it when people reply, so they’ll see your name and think of you in a positive light.
+
+*With content creation, choosing the topic is one of the hardest parts. Commenting on a pre-chosen topic is much easier.
+
+*Other people can rally around your comment and strengthen your brand.
+
+
+Don’ts
+
+*If you’re even the least bit self-promotional on someone else’s post, you’ll destroy your credibility.
+
+*Commenting on the same person’s post repeatedly could make you look like a stalker or a troll, so don’t overdo it.
+
+*If you don’t have expertise, it will be obvious. Your comment will either be fluffy (not helpful) or wrong. Neither is good.
+
+
+Here’s a simple commenting strategy that works:
+
+*Find the people you want to meet.
+
+*Find content they have created that’s in line with topics you know well.
+
+*Write comments on their posts that contribute to the conversation and exhibit either insight or even curiosity.
+
+
+
+
+Sharing Content
+
+Finding content that could be helpful or interesting to others and sharing it with them is a good way to make new connections.
+
+*Find a content creator who you want to meet, or at least you want them to know you exist.
+
+*Identify content they’ve developed that’s relevant to people you know.
+
+*Share the content and tag or otherwise reference the author.
+
+*If sharing on LinkedIn, tagging is auto-built into the system.
+
+*If you included the post as part of another piece of content on another platform (such as a personal blog), you can e-mail the author with the whole post and highlight the fact that you shared their content.
+
+
+
+
+Arguing on the Internet
+
+Anyone engaged in social selling will eventually come across the opportunity to argue on the Internet. Here’s how to win these arguments:
+
+
+Don’t engage in the first place.
+
+Yes, that’s right. Do not argue on the Internet. No matter what you say, someone is going to think you’re a jerk, which is bad for you and bad for your brand. Appreciate the person’s opinion and move on.
+
+
+
+
+Enabling Social Selling
+
+Much like prospect research, social selling is one of those things that could consume a sales rep’s day and produce no tangible results. Do you want your sales rep on LinkedIn, Medium, or Twitter all day? Not likely. If that’s all they do, quotas will be missed.
+
+The enablement of a social selling program can be done in three phases:
+
+*Prepare:
+
+*Ensure that all reps have access to the right social channels and their profiles are optimized.
+
+*Identify the topics the team should push via social channels.
+
+*Develop a social selling checklist for each rep.
+
+*Execute:
+
+*Each rep completes their social checklist daily.
+
+*Monitor:
+
+*Each rep should monitor their social performance and make adjustments accordingly.
+
+*One person should be in charge of overseeing the entire social selling enablement program and make sure things operate smoothly.
+
+
+There are ways to get more out of social, but until it starts driving real revenue, don’t let it become a science project. The ongoing social sales enablement should be on autopilot if you implement something like the checklist in Figure 9.2 which should take each rep a maximum of two hours a week.
+
+
+
+Figure 9.2: A little social media each day keeps the empty pipeline away
+
+
+
+(Legally) Stealing a Competitor’s Customer List
+
+If you have the best product in your market, you can probably win head-to-head deals against your competitors. If that’s the case, the next step is to help yourself to their customer list.
+
+Don’t hack into their network or bribe one of their employees, however. That’s bad. Definitely unethical, probably illegal, and the foreign governments are unlikely to lend a hand to cover your tracks.
+
+
+
+
+Competitor Website
+
+First, they will list a handful of their top customers for “social proof.” That’s good, but what a lot of companies do is just highlight 5–10 of their most impressive logos while suppressing the rest.
+
+Luckily, there is the Wayback Machine at http://www.archive.org/web. This website has archived over 250 BILLION web pages. Load in one of your competitors and go to town, exploring all the updates to their website over the past several years and piece together all the customer logos they have ever posted. It’s a gold mine.
+
+
+
+
+Online Review Sites
+
+Companies that rely on social proof often incentivize their customers to leave reviews on sites such as G2Crowd, TrustRadius, and Capterra. These sites will show you the review and the company where the customer works, or they’ll give you enough hints to figure it out on LinkedIn. If they cover the industry you sell to, it’s another GOLD MINE.
+
+
+
+
+Press Releases
+
+Companies often name big customers in press releases.
+
+In addition to using press releases to announce big company news such as financings, some organizations are starting to use them as marketing hacks as well. One software vendor recently issued a press release naming “Sales Enablement Stars.” It was basically a list of customers and prospects, and the strategy was to compliment them in public to build a stronger affinity. A competitor can snag this list and make some calls!
+
+
+
+
+Social Media
+
+Here’s the competitive intelligence tactic of the century. A couple of people are using it, so let’s get it out there and make it fair game.
+
+
+Connect with salespeople at your competitors on LinkedIn, and then use Sales Navigator to filter to your specific buyer personas within their connections.
+
+Imagine that you sell to marketers and your ideal prospect has the title “Director of Demand Generation” or “VP of Marketing.”
+
+Think about it…if your competitor employs a 23-year-old salesperson who is in their first job, how many connections do you think they have with senior marketing titles that are NOT prospects or customers?
+
+Same thing for their customer support, customer success, or account management staff. You can literally rip their entire customer and prospect lists with an hour or so of work.
+
+If you can’t get a connection, you can still follow the person and see what they like, share, and post on social channels. The customer success and account management teams will frequently promote content and news shared by their customers.
+
+
+
+
+Conference Attendee List
+
+In the old days, after a conference you MIGHT get a watered-down “opt-in” list of attendees. If you bought a booth, you could trade giveaways for business cards or scans. There are easier ways now, and one is particularly amazing.
+
+Most conferences will now have an app, such as DoubleDutch, that lets attendees interact with one another. You can’t download the list, but you can scan through people who are there and see who you know. You can get the whole list, however, if you follow these easy steps:
+
+*Download screen recording software for your phone.
+
+*Start a screen recording.
+
+*Open the conference app.
+
+*Scroll through all attendees.
+
+*Upload the video to YouTube and send it to your UpWork virtual assistant.
+
+*Have the assistant type all the names into a Google Doc and find their contact info.
+
+
+Boom! For somewhere between $50 and $200, you have the entire contact list from the whole conference. If it was sponsored by one of your competitors, it’s likely that a good chunk of the attendees are customers or prospects. Your virtual assistant can then dig up e-mail addresses and phone numbers for a nominal fee.
+
+
+
+Don’t Freak Out If You Don’t Have Leads
+
+If it’s 8:30 on a Saturday night and you don’t have a date for dinner, you should probably just get some food. Don’t freak out and try to find a last-minute date. Same thing in sales!
+
+
+
+
+Plant Some Seeds
+
+While selling into your network usually doesn’t work out as expected, you can start there by planting some seeds. “Planting seeds” simply means subtly informing others of what you’re up to without overselling them. Tactics include:
+
+*Update Your Network: Send a personal note to almost everyone you know every six to nine months with a quick update. Even if a friend isn’t in my market, maybe their boyfriend or uncle is…you never know.
+
+*Talk About Vision: Not many people want to buy your product today, but a lot of people are curious about what the future holds. Instead of pushing what you have now, generating interest in what’s coming tomorrow can result in receiving explicit permission to follow up with someone in the future.
+
+*Write a Book: Pick a topic of interest to your market and go for it! It’s hard, but worth the effort. Ask us if you’d like some advice.
+
+
+
+
+Create Some Content
+
+Create content that is valuable to people in your market. Three specific tactics include:
+
+*Uncover Pain: Help your prospect understand that they do have a real problem.
+
+*Show How You Solve the Pain: Talk briefly about how your product solves their problem. Or, ideally, don’t even talk about your product; just offer helpful advice such as a product-agnostic conceptual solution. If your product solves something digitally, talk about how someone could solve the problem in analog.
+
+*Teach People Something: Trigger an emotional “I learned something” reaction in your prospect. Transitioning yourself from the “peddler” to the “professor” in your prospect’s mind will better position you to win business.
+
+
+
+
+Drive Inbound Interest
+
+Get people coming to you through
+
+*Your website: Have top-funnel content that is “free” for everyone and other content that “costs” a form-fill where they can trade basic info (such as their e-mail address) for helpful content.
+
+*LinkedIn Post: Who likes, comments, and shares your post? These are all people interested in engaging with you. They might not buy, but can they make introductions?
+
+*Events: Booths at trade shows can be super expensive, or they can be pretty affordable. Find a place where your prospects hang out and have them come to you!
+
+
+It’s not enough to simply do these activities; they need to be done well and there needs to be a follow-up plan. Reaching out to inbound leads from the websites is obvious, but it’s less clear how to engage with folks who like and comment on social media posts.
+
+
+As for events, it’s incredibly easy to squander tens of thousands of dollars and not even know it. When sending a team to tradeshows, for example, make sure the following points are covered:
+
+*Giveaways: Make people want to come to you. Execs are often away from their families, so a gender-neutral giveaway that kids would love will get their attention. Have a second option for nonparents, such as premium candy. Everyone already has an iPad and no one trusts drawings, so avoid that trap.
+
+*Posture: Make eye contact and ask everyone walking by, “Hi, can we chat for 10 seconds?” If they’re a real prospect, they will say yes. DO NOT sit behind the table, phone in hand. Might as well fly home if this is the plan.
+
+*Brevity: Be able to give demos in 10-second, 30-second, and 2-minute increments. No one has all day, and if you’re getting into details with Person A, you’ll miss out on talking to Person B.
+
+*Notes: Write 2–10 words on each business card you receive indicating the follow-up plan. Also, bend corners to indicate priority, with the more corners bent the hotter the prospect. If someone doesn’t have a card, scan their conference attendee badge and write notes on your card with their name + company.
+
+*Follow-Up: Personalized outreach to anyone who might be a real prospect. If your VP had a great in-person conversation that surfaced pain, DO NOT let the marketing team send a generic follow-up message.
+
+
+
+
+Get Referrals
+
+Referrals should get a lot of attention because they work! Everyone you talk to is a referral source, including:
+
+*Current Customers: The challenge here is that there are a lot of human beings who work at your customers’ companies, so you need to identify specifically which people to ask.
+
+*Current Prospects: Salespeople will think it’s risky to ask someone who hasn’t bought yet, but they should be considered.
+
+*Former Prospects or Customers: People who didn’t buy but still like you could be potential referrers.
+
+*Former Employees of Current Customers: Folks who switched jobs from a current customer to another company. These could be great referral sources!
+
+*Personal Connections of Employees: Who has friends or former classmates who work at prospective customers, or know someone who does?
+
+*Personal Connections of People You Know: Search your second-degree connections on LinkedIn and ask for intros to people who might be good prospects.
+
+*Famous People: Maybe…
+
+
+
+
+Targeted Outreach
+
+If your company is too early for some of the suggestions in the section above, maybe you need to reach out to prospects you don’t know. In this case, here are some tips:
+
+*Start with “Feedback”: Instead of saying, “I want to discuss how our product might be a fit for your company,” say, “We’re working on building a product for folks like yourself, and it would be great to get your feedback to see if we’re on track.” Either you’ll learn why they don’t like your product or you’ll get an “Oh wow! I need to show Jan!” If no one wants to talk, that indicates your messaging doesn’t resonate.
+
+*Stay Relevant: Make sure your message is relevant to what your prospect cares about.
+
+*Don’t Push: People don’t like to be sold to. If you push, you’ll scare off your prospects.
+
+
+
+Metrics:
+
+*Each salesperson has enough qualified leads to keep their pipeline full
+
+*Referral asks are measured as a prospecting activity
+
+
+
+Plays in Brief:
+
+*Develop a definitive ICP and confirm that everyone in your company is on the same page.
+
+*Create a market map and focus the sales team on prospects who “might buy from you.”
+
+*Create specialized roles between research and outreach, unless you are lucky enough to find someone who is GREAT at both.
+
+*Implement “negative goals” to motivate your team.
+
+*Get the whole team “social selling” and completing a daily checklist.
+
+*Build a prospect list of your competitors’ customers and prospects.
+
+*Create a culture of referral generation.
+
+
+
+
+
+Chapter 10
+
+
+
+Closing
+
+Sales Enablement Goal: Closing occurs in predictable increments and is not an event that requires a fire drill.
+
+The sales enablement ecosystem must identify and address potential issues in a sales process before they arise. High-flying managers swooping in and magically closing the deal doesn’t scale!
+
+In chapter 6 we talked about how focusing sales enablement energy on product training instead of buyer training was the lazy way out. It’s way easier to build a training program around a product that’s already been well defined and exists in a controlled environment when compared to the ever-evolving buyer. The same is true for closing. Think about how sales enablement energy can be applied:
+
+*Onboarding: Training someone who is new has lots of upside and little risk.
+
+*Sales Development: These people are selling 30-minute meetings. There’s friction, but not a ton. Anyone with a need, and many people without one, will take a meeting.
+
+*General Sales Training: There are always specific areas where people can improve.
+
+*Content: Someone can spend ALL DAY molding content. It’s like playing with Play-Doh.
+
+
+Closing is different. It requires a prospect to commit either to spending money or to walking away. A decision either way likely involves the prospect putting their neck on the line, either by approving an investment or declaring that such an investment is not warranted. Again, product training is easy; this stuff is not. Make sure your team isn’t a victim of lazy sales enablement.
+
+
+
+Singular Actions Rarely Lead to Close
+
+Most things in life are multivariable equations, and closing a deal is no exception. In closing roles, there’s rarely a single action item that can lead to a deal closing right now, and if there were, it would have already happened.
+
+Once a deal gets to the closing stage and it’s stuck, there might be something you can do for it to magically close, but it’s probably more appropriate to hop in the time machine and examine the following:
+
+*Company Profile: Does the prospect fit into your ideal company profile? It’s OK if they’re a stretch; but if so, that might be causing some friction.
+
+*Pain: Does someone important at the prospect have real pain? Inefficiency isn’t pain. Not aspirin pain. Oxycontin pain.
+
+*Compelling Event: If the deal doesn’t close by X date, what [Terrible Thing] will happen? If the answer is “nothing” or “I don’t know,” then maybe that’s why the deal is stalled.
+
+*Authority: Have the people who can say yes bought into your solution? Are they still engaged? Has anyone new been added?
+
+*Legal / Procurement: These teams can be blockers, but your decision makers typically have the power to neutralize them if the purchase is important, and they’re actually decision makers.
+
+*Competition: Who are you competing against and what is your buyer’s perception of you versus them? Is one of you ahead? Do you know what your competitors are saying about you? Find that out. Otherwise, you’re an ostrich with your head in the sand.
+
+*Fit: Is there an objectively clear fit between your customer’s pain and your product inside the context of their organization?
+
+
+Notice what’s missing from this list? MONEY! OK, maybe in some cases money might be an issue (we’ll cover this topic more in the next section), but even if it is, one of the issues above most certainly exists, and many of them might coexist.
+
+
+
+Negotiations
+
+Complete books have been written on negotiations, so we’ll just touch on some highlights here as they relate to sales. We recommend Getting to Yes and Bargaining for Advantage for additional study. Also, if your team doesn’t have a clear understanding of what we’re about to cover, don’t let them negotiate.
+
+The way many people think about negotiating a sale revolves around:
+
+
+What price is my buyer willing to pay that I’m willing to accept?
+
+As humans, we often think a sale revolves around price because that’s been our experience in our personal lives. Aside from paying more for expedited shipping or an extended warranty, there are few personal transactions that don’t solely revolve around the price. In B2B sales, that’s just not the case. As a result, we think about B2B negotiations in the context of:
+
+
+What set of terms and conditions are both my company and my buyer willing to accept?
+
+We’ll dig into the complexities in a second, but first a simplistic model.
+
+
+
+
+A Basic Negotiating Framework
+
+In any negotiation, the buyer and seller both have:
+
+*An Aspiration Price: The ideal price each party will accept (high for seller and low for buyer).
+
+*A Reservation Price: The worst price either party will accept (low for seller and high for buyer).
+
+*A Best Alternative to a Negotiated Agreement (BATNA): If a deal doesn’t happen, this is where things stand.
+
+*A Starting Bid: Should be at or better than (higher for seller and lower for buyer) the Aspiration Price.
+
+
+The area where the distance between the Aspiration and Reservation prices for both the buyer and the seller overlap is known as the “Negotiating Zone.” In this zone, any deal can get done if both parties can find their ways to a common number. Outside of this zone, there will be no deal, and the BATNA becomes the reality.
+
+
+
+
+Now Let’s Enter the Real World
+
+The framework above still applies in the real world, but like other topics in this book, negotiations are a multivariable equation. In addition to price, here are a few points that can be negotiated when selling a software product:
+
+*Length of Agreement: Sellers like longer agreements because they create more predictable revenue. Buyers like them because they can lock in known price. Negotiating here can create a win-win.
+
+*Payment Terms: If one party cares more about cash flow than the other, they might want to have more favorable payment terms (short for seller and long for buyer).
+
+*User Count: For a software company, how many people will get access to the product? If you don’t sell per user, maybe it’s how much data storage the customer gets or how much users can engage without entering another tier. In non-tech, the idea here could be the scope of coverage for an insurance product or the amount of lumber someone purchases. Order quantity…that’s it.
+
+*Implementation / Delivery Timeline: Ideally, the buyer is making the decision to solve an urgent pain, so they want rapid delivery. The seller can concede here in return for more favorable terms elsewhere.
+
+*Right to Use Logo: Sellers create social proof that can be used to attract future customers by displaying marquee customer logos. Some buyers, however, are prohibited by their marketing or legal departments from letting sellers use their logos.
+
+*Agreement to Participate in Case Study: A deep dive into the challenge, solution, and results can create highly credible social proof that the seller’s solution works. As with the logo, the buyer’s marketing and legal teams might block case studies.
+
+*Access to Users for Feedback: One of the best ways to build a great product is to do so with real end users. Access to real-world feedback could be invaluable to a seller, though the buyer could perceive it as a disruption to business. A great point to negotiate.
+
+*Guarantee: Some type of money-back guarantee or mid-contract opt-out clause if certain results aren’t achieved can help a buyer mitigate their risk. Confident sellers can concede here to gain more favorable terms elsewhere.
+
+*Support: Providing 24/7 onshore phone support is much more expensive than 8–6 M–F e-mail support. If the buyer demands higher levels of support, they might push hard here.
+
+*Legal Terms and Conditions: The larger the buyer’s organization, the more likely the legal team will get involved and mark up the contract. In-house counsel often justifies its existence by finding problems with vendor contracts; so, when selling to big companies, sellers should expect some friction on this point.
+
+*Price: Finally, how much does it cost? Wow! This negotiation just got way more complex than what we covered above!
+
+
+Sales enablement has been successful with respect to negotiations when each seller (in a closing role) understands each of the points above, any other points relevant to their company, and how they can be used in conjunction with one another using the Aspiration-Reservation-BATNA framework.
+
+The bottom line here is this:
+
+
+If one party wants something, what are they willing to give up to get it?
+
+
+
+Discounting
+
+Very few buyers receive a tangible reward when they negotiate a discount, but many people love to get discounts when they buy on behalf of their company. Why? It feels good. You get to brag to your boss and teammates about how much you got a vendor to discount their price.
+
+The reality is that if someone important has enough pain and a compelling reason to do something about that pain, price is one of the last things that matter. Think about the following and remember that the topic is buying on behalf of a company, not investing a personal paycheck:
+
+*Price versus Quality: How does a buyer’s personal world change if the quality is lower than expected, and how does that compare to the personal benefit they receive from getting a better deal?
+
+*Price versus Risks: If one product has no risks at a high price and another product has obvious risks, how much lower does the price need to be?
+
+*Price versus Service: Is an X percent savings worth it if that means users only have access to e-mail support during business days, Eastern time?
+
+
+Yes, in your personal life you can save $5 on pizza and spend it on ice cream, but from a B2B buyer’s perspective, there are SO many more variables at play that matter so much more than price. Ensuring that your sales team is enabled with this mindset is critical. Professional buyers care about quality, risks, and service more than nominal pricing differences. As the gap widens, though, price can play a role, but not until the buyer’s personal world (pressure from their boss, etc.) changes.
+
+In some markets, however, it makes sense to “price high and discount.” If that’s the plan from the beginning, discounting is fine, as long as the plan is being followed and reps aren’t dropping the price more than they should.
+
+
+
+Metrics:
+
+*Win rate
+
+*Quota attainment
+
+*Gross Profit Margin
+
+*All salespeople have been formally trained on negotiation skills
+
+
+
+Plays in Brief:
+
+*Confirm that your team doesn’t view closing as an event.
+
+*Teach your team negotiation theory.
+
+*Ensure that your team knows each point that can be negotiated and how to apply negotiation theory when working on coming to an agreement with a prospect.
+
+*Get discounts under control.
+
+
+
+
+
+Chapter 11
+
+
+
+Customer Success
+
+Sales Enablement Goal: Existing customers are buying more and making high-quality referrals.
+
+When companies are just getting off the ground, it’s all about hunting for new business. “New Logos,” as they say. For early-stage companies, that’s the obvious place to focus sales enablement efforts.
+
+But at some point, the customer count grows, and new logo hunting by the sales team begins to have less of an impact on total annual revenue. The top line is now driven by existing customers, and there are significantly more sales enablement opportunities within the customer success or account management function than there are within the sales team.
+
+One misconception a lot of companies have is that expansion sales and renewals are “farming” activities. Well, corn doesn’t have competitors, and green beans don’t object to being picked. Today’s customer success and account management positions are different than those of the past, and they’re primed for sales enablement.
+
+
+
+Customers: Your Best Lead Generation Tool
+
+Which of the following is a better lead generation source?
+
+
+Person A: Your 22-year-old SDR armed with a list of executives they don’t know, an e-mail automation tool, an autodialer, and whatever sales training your company currently offers.
+
+
+Person B: Your champion at a happy customer who has worked at companies matching your ideal customer profile their whole career and loves your product…because it’s a painkiller!
+
+If Person B is ACTUALLY happy AND you have a system for harvesting referrals (versus making the ask an event), they can probably give you more good leads in 30 minutes than your SDR could uncover in an entire quarter. The problem is that a lot of companies are scared to ask their customers for referrals since “the timing’s not right” or some garbage like that.
+
+It’s critical to ensure that your customer success team understands that a referral is not a recommendation. Here’s the difference:
+
+*Referral: You should talk to Taylor at Alpha Corp. I’ll make an email introduction right now!
+
+*Recommendation: You should talk to Taylor at Alpha Corp.
+
+
+See the difference? Simply pointing someone in the direction of a prospect isn’t very helpful, but making an introduction eliminates tons of friction and puts you in a great position to qualify the prospect.
+
+
+In terms of working with customers, here are some tactics to generate leads:
+
+*Cowork a Tradeshow: Will your champion hang out with you at a tradeshow? Attend sessions and talk to the speakers afterward? Walk the exhibit halls? Go to parties and network…
+
+*Get Them a Speaking Engagement: There’s a glass ceiling for middle managers and even some execs, where the person above them is always on stage but they never are. Helping your champion with professional development opportunities like speaking engagements can be a great way to build a mutually beneficial relationship.
+
+*Comb Their LinkedIn Connections: Who else do they know who might be able to buy your product? If they love what you do and find it valuable, they’ll make intros.
+
+*Cohost a Webinar: A step down from the speaking engagement, but still solid, allow the champion to be presented as a thought leader via hosting a webinar.
+
+*Meet Their Coworkers: If one person at your customer loves your product, others probably do as well.
+
+*Find Former Employees: Using LinkedIn, find people who used to work at your customer’s business and use your champion’s social proof as a way to develop these leads.
+
+*Coauthor a Case Study: Talk about how they used your product and quantify their success to the greatest [credible] extent possible. Put it on your website, teach the talking points to your salespeople, and BOOM! They’re further enabled.
+
+
+There’s a chance that you can’t execute on these strategies because no one loves your product that much. No problem. Remember: sales enablement is an ecosystem. Instead of jumping into champion development, you can figure out specifically what’s not happening that could make champion development a possibility, and address these issues with the product or marketing teams.
+
+
+
+
+Upsells
+
+With a lot of products, it’s smart to complete a low-friction first sale, then upsell your way to larger contract values. This strategy (also known as land-and-expand) is smart for a number of reasons:
+
+*You Can Sell Low: Smaller deals can be inked at the director or VP level, instead of requiring SVP, CXO, or—worse—committee-level approval.
+
+*Results Are Results: If you’re successful on a small scale, it’s (relatively) easy to extrapolate that to a larger scale.
+
+*Total Cost of Effort Is Reduced: Selling a small deal to a director, demonstrating success, then expanding is likely easier than selling the initial big deal out of the gate to a senior exec or a committee.
+
+*Less Risk: If a $20K deal doesn’t work out, no one is getting fired. If a $500K deal flops, heads might roll.
+
+
+If a land-and-expand approach makes sense for your business, where should the majority of sales enablement efforts be focused? Well, it really depends on the opportunity. If the sales team is struggling to land anything, that’s going to be a big problem, but if they’re doing well and large expansion upside exists, it makes sense to invest in enabling the upsell.
+
+If you land and the customer won’t buy more now, figure out what products they would buy, and get those built if they make sense. Do they want a better version of what you have today or something completely different? If you get into specific details here and make sure the sales enablement ecosystem extends to the product team, you’ll be in great shape!
+
+
+
+
+Cross-Sells
+
+The cross-sell strategy is likely similar to what we just discussed with upsells. The only difference is that:
+
+*Upsell: Sell more of what they already bought.
+
+*Cross-Sell: Sell something different than what they bought the first time.
+
+
+The same tactics apply to both, though by engaging the product and marketing teams in the sales enablement conversation, they can figure out how to build packages and how to sequence cross-sell opportunities over time.
+
+
+
+
+Renewals
+
+In a perfect world, your customers love your product and they renew. Well, it’s not a perfect world, so they don’t.
+
+Customers with renewal risk will have:
+
+*Pain that needs to be surfaced, and that pain might be related to frustrations from using your product
+
+*Objections that need to be handled
+
+*Competitors pursuing them
+
+*Decision makers with different agendas and opinions
+
+*Compelling events tied to curing pain
+
+
+Wow…these points look a lot like topics that arise when selling to a new customer! If your company’s sales enablement efforts are not already focused on existing customers, you probably have found several quick wins in this chapter.
+
+
+
+Metrics:
+
+*Upsell quota attainment
+
+*Cross-sell quota attainment
+
+*Net churn
+
+*Referrals are measured as a prospecting activity
+
+
+
+Plays in Brief:
+
+*Develop a strategy to farm leads from existing customers.
+
+*Create plans for upsells and cross-sells, and then execute.
+
+*Identify and mitigate renewal risk within all customer segments.
+
+
+
+
+
+Chapter 12
+
+
+
+Hiring + Career Paths
+
+Sales Enablement Goal: Top performers stay and grow, and nonperformers are terminated (or not hired in the first place)!
+
+Think of your lowest performer. Think of the last person you fired. Think of the person who quit and the team got better (addition by subtraction). What do all these people have in common?
+
+
+Someone at your company hired them!
+
+
+
+With HR, Enablement = Make It Efficient!
+
+Your sales managers and executives need to spend time recruiting. The time they spend, however, should be high impact.
+
+
+
+
+Engage External Recruiters
+
+Yes, it costs money to use a recruiter. It costs much more when you have to deal with a bad hire.
+
+If your managers were going to hire from their network, they would have already done it. Even if they have good people in their network who might take the job, doesn’t it make sense to calibrate that talent against what’s available in the broad market? If the market for talent in your industry and geography is competitive, recruiters are key.
+
+
+
+
+Use a Modern ATS
+
+Modern applicant tracking systems (ATS) allow for efficient collaboration throughout the hiring process. An ATS is the type of purchase that instantly pays for itself if you’re planning on doing any significant hiring.
+
+
+
+
+Pay for Assessments
+
+You need to pass a test to get a driver’s license, fly a plane, or perform surgery. Do you want to gamble that your sales hire has the skills needed to do the job? Is it worth saving the $100–$300 per assessment?
+
+
+
+
+Offer Significant Referral Fees to Employees
+
+Some companies offer $1,000 or $2,500 to employees when they refer a candidate who is hired. At the same time, if an external recruiter brings in a successful candidate, they might get $10,000, $25,000, or more! Maybe you don’t need to match the external fee, but having a 10x differential can cause trust issues.
+
+
+
+If Your Best Salespeople Leave, Other Top Performers Will Follow
+
+Imagine the following company-wide e-mail:
+
+
+February 14
+
+
+All,
+
+
+Please join me in welcoming Salesy McSalesperson, who is joining our Enterprise-East sales team this week. Previously, Salesy broke all the records for our biggest competitor and worked at our second-biggest competitor before that. By combining sales skills, domain expertise, and industry relationships, Salesy will take us to the next level!
+
+
+Sincerely,
+
+SVP Sales
+
+WOW! Everyone is pumped!
+
+March 18 Company Sales Update
+
+At an all-hands meeting, Salesy talks about the amazing pipeline that’s being built and how closing deals is imminent.
+
+Everyone thinks Salesy is for real!
+
+April 1
+
+Salesy closes a deal! Then another! Wow…looks like these industry relationships are paying off!
+
+May 14
+
+No closed deals this month.
+
+June 7
+
+Heck, when was the last time Salesy closed a good-sized deal?
+
+July 5
+
+
+All,
+
+
+As some of you know, Salesy McSalesperson is no longer with our company. Please join me in wishing Salesy the best!
+
+
+Sincerely,
+
+SVP Sales
+
+Now, all the other employees are freaking out. The best salesperson in the world couldn’t make it here. The company is toast!
+
+Your best people start looking around to see if the grass is greener on the other side. Others find out about their exploration and start thinking about making a move themselves. Underperformers will probably hang around. Most mediocre players will as well. As a result, when your top salespeople leave, the entire team is in jeopardy of being downgraded.
+
+
+
+
+Grow and Retain Rock Stars
+
+Sales enablement is uniquely positioned to identify future rock stars as part of the hiring, onboarding, and training functions. Here are three tactics to help ensure that the right people are hired and you avoid unnecessary fallout when bad hires are made:
+
+*Avoid Overhyping Individuals: It feels good to get people excited about new hires, and you want to ensure a warm welcome. After that, merit-based recognition based upon clearly stated goals and measurement must be the norm. You’ll avoid disaster should that person leave or wash out.
+
+*Constantly Take Temperatures: Understand how each of your top performers feels about the company and its future. Figure out what’s bugging them before they quit…because once they’ve given notice, they’re out—even if they stay for a bit.
+
+*Build Your Internal Talent Pipeline: Make people’s next internal move more attractive than their next external move. A “real” promotion internally is much less risky to an employee than is going somewhere else, all else equal. If people believe in your company and see a future for themselves, they will stay. Otherwise, they’re out.
+
+
+
+Seven Ways to Tell if a Sales Rep Is About to Quit
+
+Imagine that you could magically tell when a sales rep is about to quit…wouldn’t that be great! Well, you probably can. Here are some common signs that someone has one foot out the door:
+
+*Missed Quota Without Increase in Effort: If missing a goal doesn’t light a fire under someone, they don’t care.
+
+*Aggressively Asking for Money or a Promotion: When it gets aggressive, or ultimatums are involved, they’re probably already out.
+
+*Stopped Asking for Money or a Promotion: If they were asking before and have gone radio silent, they probably think it’s not coming.
+
+*Stopped Updating Salesforce (as much): If someone is leaving a job, they don’t care about data entry.
+
+*Overprepared for Meetings, Yet Aloof: One tactic to keep a boss off guard is to distract them by being very prepared. If a rep is more prepared than usual, they might be hiding something.
+
+*Quietly Investing in Their Personal Brand: It’s great to build a brand online or with customers/vendors, but if it’s done in stealth it’s fishy.
+
+*Different Work Hours: Why work long hours if you’re leaving?
+
+
+Do all your sales managers know each of these warning signs, as well as additional signals relevant to your company? If not, it might make sense to intervene, keep the good reps, and shepherd the bad ones out the door.
+
+
+
+Sales Development Success Doesn’t Prepare Reps for Closing Roles
+
+As we mentioned briefly in chapter 4, when a Major League Baseball team drafts a player, they send him to the minors to play baseball. When a company hires a SDR, they send them to the top of the funnel to schedule meetings.
+
+Entry-level baseball players are playing baseball. Entry-level salespeople are scheduling meetings. What?!?!?
+
+Imagine if the following was a job description for a Minor League Baseball player:
+
+*First Month: Read about baseball, take batting practice, and shag some fly balls
+
+*Next Three Months: Serve Gatorade and Copenhagen to players
+
+*Next Six Months: Manage the team’s equipment and watch films
+
+
+Crazy! Instead, you know what Minor League players do? They PLAY BASEBALL!
+
+
+Sales development success is far removed from success in a closing role because
+
+*Meetings Are Easy: People will meet for a bunch of reasons. They’re interested in the product. They want to learn something new. They like talking to vendors (some middle managers have no authority other than telling vendors “NO”, so hearing pitches makes them feel powerful). No one will spend a bunch of money, however, because something is interesting or they want to learn something new!
+
+*Low-Quality Outreach: SDRs can send 5,000 e-mails a month and make 1,000 calls to get a handful of meetings. The game shifts, though, from quantity to quality later in the sales process. While employers might say they desire quality from the sales development team, most top-funnel success is measured by quantity.
+
+*Competition: There are few competitive forces early on in the process. Prospects considering 3, 5, or even 10 solutions will meet with each vendor and evaluate each product. But, they’ll buy from only one vendor.
+
+*Risk: Prospects only risk small amounts of their time when evaluating products…maybe a 30-minute meeting. They risk massive amounts of resources and even the success of their department once a purchasing decision has been made.
+
+
+There’s a reason Minor League players play baseball. The only way to ACTUALLY get better at playing baseball is to play baseball. They might get a little better by taking batting practice or catching fly balls, but it’s not the same. Unfortunately, the same issues exist when looking at the difference between SDRs and closing sales reps.
+
+
+
+SMART Goals
+
+Countless books have been written on goal setting, and it is a function of sales enablement to ensure that there is synergy between the personal goals of the salesperson and the goals of the company.
+
+SMART goal setting is a clear and easily understood means of beginning that conversation, revisiting progress, and providing resources and opportunities for success. We have noted many variations on the acronym, and this is the one we prefer.
+
+
+Specific: Goals should be clear and specific in order to ensure focus and motivation. Start with the five “W” questions:
+
+*What do I want to accomplish?
+
+*Why is this goal important?
+
+*Who is involved?
+
+*Where is it located?
+
+*Which resources or limits are involved?
+
+
+Measurable: Assessing progress is a means of accountability and an opportunity to celebrate success. Measurable goals often answer:
+
+*How much?
+
+*How many?
+
+*How will I know when it is accomplished?
+
+
+Actionable: Goals must be within the control of the individual and the organization. If success is dependent upon external forces, frustration and unpredictability will follow. Answer the questions:
+
+*How can I accomplish this goal?
+
+*What will this person actually DO (with what frequency) to be successful?
+
+
+Relevant: Is the goal relevant to the individual’s role, the company, and one’s personal growth? Answer the questions:
+
+*Does this seem worthwhile?
+
+*Is this the right time?
+
+*Does this match our other efforts/needs?
+
+*Am I the right person to reach this goal?
+
+
+Time-Sensitive: A goal without a target date is a wish, a hope, or a dream. We’re not in the business of fairy tales, Cinderella.
+
+*When?
+
+*What can I do three months from now?
+
+*What can I do three weeks from now?
+
+*What can I do today?
+
+
+
+Metrics:
+
+*Employee retention
+
+*% of jobs filled by internal candidates
+
+*All employees have written goals
+
+
+
+Plays in Brief:
+
+*Engage at least one top external recruiter.
+
+*Purchase and implement a modern Applicant Tracking System.
+
+*Make assessments part of the pre-hiring process.
+
+*Avoid overhyping key hires.
+
+*Ensure that employees are incentivized to refer top talent.
+
+*Identify clues that an employee might quit, and be on the lookout for these signals.
+
+*Implement SMART goals for your team.
+
+
+
+
+
+Chapter 13
+
+
+
+Channel Partners
+
+Sales Enablement Goal: All customer-facing employees working at channel partners can speak about your product and close deals with the same skill as your internal employees.
+
+Why sell through a channel instead of direct? There are several reasons, including:
+
+*Preexisting Relationships: Signing up partners who can sell your product into their existing customer base reduces sales friction. Remember in chapter 11 where we talked about selling into existing customers being one of the best ways to enable sales? Well, here you get the preexisting relationship AND the fact that they haven’t bought anything from you yet, so upside is not limited to an incremental upsell.
+
+*Geographic Diversity: It’s expensive to plant and manage remote employees across the country and globe. A channel gives you geographic reach without the associated headaches.
+
+*Lower Overhead: Employees are expensive; so, while channel commissions may appear to be high on the surface, fixed costs are lower and act as a form of financial leverage.
+
+*Focus on Core Competencies: If your product requires setup, implementation, or other types of professional services, channel partners can carry this load while allowing you to focus on making a better product.
+
+
+Finding channel partners that deliver strong results can result in rapid scale into markets that might have been expensive to enter otherwise.
+
+
+
+Channel Partners Aren’t People
+
+Yes, people work at the partners, but these are complex organizations, so enablement is incredibly hard. Basically, a channel manager needs to do every activity we have discussed in this book for every one of their partners. It’s exhausting and borderline impossible, but the great channel managers like Sharon Chumash build and scale their channels in a way that results in a win for all parties.
+
+
+
+Managing Competing Priorities
+
+While some channel partners might spend most of their time focusing on your product, most have several other partner relationships, so you’re competing with them for mind share. When selling partner products, a salesperson is thinking about:
+
+*Expertise: They’ll focus on what they know best and only talk about products in their comfort zone.
+
+*Show Me the Money!: Good luck getting someone to represent your product if they can’t make some serious cash. Remember, your partner’s sales rep gets paid a percentage of what their company gets paid, which is a percentage of what you get paid.
+
+*Ease of Sale: Remember, if it’s not easy, the good salespeople will focus elsewhere.
+
+
+When thinking about incentives, work all the way down to the individual sales rep in your channel. If your product costs $100,000 and the channel gets a 20 percent commission, the partner COMPANY will earn $20,000. The partner sales rep will get some percentage of that, likely 5–20 percent. Assuming they get 10 percent, that’s $2,000. The question then becomes:
+
+
+Is ATTEMPTING to sell your product worth it if the rep has THE CHANCE of making $2,000?
+
+Consider the effort required to close a deal, the probability of closing any given deal, and the possible number of deals they could close per quarter. Do the math here, and if there’s not a good chance that the rep can make good money, they probably won’t try to sell your product.
+
+
+
+Channels Are for Scale
+
+It’s widely accepted in Silicon Valley that if your founders can’t sell, your company will fail. If the team who built the product can’t get 5–10 real customers to give them money for it, that’s the world’s biggest red flag. The fool’s errand here is hiring a good salesperson who then gets traction because they can force deals to close. If deals are closing only as a result of brute force, this traction isn’t real and shouldn’t be interpreted as a signal that it’s time to scale.
+
+Same thing with channels…if you can’t sell your product, your channel can’t sell your product. In fact, even if you can sell your product, it’s still a strong possibility that your channel won’t get traction. When it’s time to “pour some gas” on your sales process that’s already on fire, the channel is a great strategy. Adding gas in the absence of fire is not smart.
+
+
+
+Metrics:
+
+*% of partner organizations meeting revenue goals
+
+*Net churn of partner-generated customers
+
+*Partner generated revenue
+
+
+
+Plays in Brief:
+
+*Develop a strong partner channel.
+
+*Account for competing priorities and ensure that your product receives adequate focus.
+
+*Assess your ability to execute on a channel strategy before investing too many resources.
+
+
+
+
+
+Chapter 14
+
+
+
+Sales Manager Enablement
+
+Sales Enablement Goal: Sales managers are a multiplying force that coaches reps to success without having to jump into the activity themselves.
+
+If your sales managers aren’t great managers, you’re in trouble. Sales management isn’t about closing deals, and while pipeline review is part of it, managers should spend less than 20 percent of their time on accountability-related activities.
+
+
+
+Functions of a Sales Manager
+
+Sales managers are often the most reactionary individuals in an organization. They are constantly sucked into meetings dropped on their calendar by executive management; asked to attend “updates” by other departments so that they can keep their team in the loop; interrupted by “urgent” requests from their team; putting out fires with HR; required to onboard new sales reps; sitting on hiring committees; etc.
+
+Sales enablement has the greatest opportunity to multiply its impact on the organization by fortifying strong managers. The highly effective managers we have evaluated are adept at five core competencies: accountability and administration, coaching, mentoring, hiring and training, and leadership and motivation.
+
+
+
+
+Accountability and Administration
+
+
+The obligation of an individual to account for activities, to accept responsibility for those activities, and to disclose the results of them in a transparent manner.
+
+Areas that sales enablement can measure and support include:
+
+*What KPIs are your managers tracking? Why?
+
+*Do they measure activity or results? Salespeople can only control activity.
+
+*What are the clearly defined and agreed-upon success outcomes and failure outcomes? Have these been articulated to the team?
+
+*What levels of mutual accountability exist? What commitments has the manager made to the team?
+
+*Where is accountability succeeding?
+
+*Where are there opportunities for efficiencies by implementing technology?
+
+*Does each manager have enough support to ensure that they are not drowning? Is that support effective and creating bandwidth or burden?
+
+*Current meeting adherence, structure, and frequency
+
+*Consistency of message to drive KPIs
+
+*Focus on developing performers and managing nonperformers out
+
+*Veracity of activity and revenue targets
+
+*Monitoring leading and lagging indicators and identifying red flags
+
+
+
+
+Coaching
+
+
+Coaching is the process of building relationship, ongoing assessment, challenging thinking, motivating, and driving results.
+
+Areas that sales enablement can measure and support
+
+*Proficiency in the sales process and selling system you are running
+
+*Ability to identify gaps in execution for each team member
+
+*Ability to identify gaps in execution for the organization
+
+*Ability to effectively utilize the sales process and selling system as tools by which coaching conversations impact performance
+
+*An ability to establish trust and rapport with new hires
+
+*On-target ramp and growth of new hires and entire team
+
+*Retention of top performers
+
+*Effective utilization of any assessment tools and salesperson evaluation
+
+
+
+
+Mentoring
+
+
+The informal process by which a junior employee seeks the guidance (by way of demonstration, explanation, or training) of a more senior colleague whose success they wish to emulate.
+
+Areas that sales enablement can measure and support
+
+*Demonstration of company culture
+
+*Engagement with team
+
+*Manager’s ongoing professional development and involvement in industry activities and associations
+
+*Consistency in encouragement and advise versus reprimand and negative reinforcement
+
+
+
+
+Hiring and Training
+
+Areas that sales enablement can measure and support
+
+*Adoption of an interview methodology (like Who/Topgrading)
+
+*Adherence to an interview methodology
+
+*Clarity in developing job descriptions
+
+*Consistent and clear communication of hiring process outcomes in a timely manner
+
+*Ability to inspire candidates around company vision, role, and team
+
+
+
+
+Leadership and Motivation
+
+Areas that sales enablement can measure and support
+
+*Manager’s ability to focus on positive stress versus negative stress
+
+*Establishment of mutual trust
+
+*Fairness in interaction with team at every level
+
+*Manager dependability and adherence to commitments
+
+*Manager accessibility both physically and mentally
+
+
+
+Manager or “Super-Closer”?
+
+Many sales managers aren’t even managers. They have a team of salespeople taking deals to certain stages, and then they jump in for the close. That’s not management. If a marathon runner has to carry another person on their back the entire race, then only one person is really running that marathon.
+
+As a rep ramps, their manager can ride along and show them how it’s done, but if a quota-carrying salesperson is relying on their manager to jump in and close late-stage deals, red flags should be raised for several reasons:
+
+*Reps Aren’t Good: If they are good, they’ll push back on this activity, or they’ll leave.
+
+*Managers Can’t Lead: A lot of sales managers haven’t been taught how to be managers, so they resort to the super-closer role.
+
+*Sales Lacks Support: A world where the super-closer is required indicates there are deeper issues. Maybe the product isn’t that great. Maybe pricing is wrong. Something’s up if a sales rep can’t run their own deal from beginning to end without the company sending a hero to intervene.
+
+*Sales Manager = Wrong Exec Support: Executive support is great in deals, but the VP of Product or CEO teamed with the sales rep will have a much stronger one-two punch than will the sales manager overshadowing their rep.
+
+
+
+Where’s the Vice President?
+
+While it might be up to HR to provide (or outsource) manager training, the VP should be able to coach on manager skills. Maybe your VP hasn’t been trained on how to manage managers, however, which is a completely different skill set than the management of sales reps. In addition to developing good managers of individual contributors, ensuring that managers of managers are set up for success is a critical piece of enabling the sales team.
+
+
+
+Metrics:
+
+*Team performance against each KPI
+
+*Employee retention
+
+*All team members have regularly scheduled and attended coaching meetings (1-1’s)
+
+*Team is able to close typical deals independent of sales manager
+
+
+
+Plays in Brief:
+
+*Assess your managers across the five core competencies outlined in this chapter.
+
+*Make certain that your sales managers are managing your reps and developing superstars.
+
+*Ensure that managers are not super-hero-closers.
+
+*Confirm that all managers are set up for success with the proper management training and ongoing professional development.
+
+
+
+
+
+Chapter 15
+
+
+
+The Sales Enablement Position
+
+We’ve now explored countless ways that sales enablement impacts an organization, and one thing is clear:
+
+
+There is a ZERO percent chance that one person can handle all this responsibility.
+
+What’s required to enable sales spans departments and levels of a company, and it requires that each person and process works together seamlessly with a common goal in mind. As we mentioned at the beginning of this book, the idea of sales enablement is really just the extension of a prospect-centric mindset to the entire organization. It really isn’t a job; it’s an ecosystem.
+
+Aside from the customer-centric theme, two other areas are really company-wide ecosystems: finance and human resources (HR).
+
+While there is a finance team (or at least someone responsible for finance) in most companies, most organizations have a culture around financial responsibility. “Spend the company’s money as if it were your own,” some say. Many projects require an ROI, a net present value (NPV), or a total cost of ownership (TCO) calculation. The finance team can support the math, but it’s really the responsibility of each employee to make smart financial decisions on the company’s behalf.
+
+As for HR, most managers, regardless of their department, will tell you their job is to hire and retain top talent. Sure, there is a centralized HR function, but each team is responsible for hiring, training, leading, and coaching employees. HR plays a role in some specific activities such as talent sourcing, job description development, performance reviews, and company policies, but mostly it sits on the sidelines with respect to department-specific activities.
+
+Throughout this book we’ve covered an incredible number of areas for enablement, and several places where “disablement” can arise. While each department and team should do their part, as they do with financial responsibility and talent sourcing, the case for a centralized sales enablement function is very strong.
+
+The challenge is determining whether a sales enablement role is different from the chief customer officer (CCO) that we’ve seen begin to appear in several companies. If a company already has a company-wide customer-centric focus, and sales enablement is the extension of a prospect-centric focus across the organization, then it might make sense for these functions to be under the same umbrella.
+
+For now, it is up to individual companies to determine the role of sales enablement professionals and where they sit in the organization. Maybe it’s in sales and maybe somewhere else. Longer term, it’s likely that people enabling prospect and customer activity will converge, but it’s too early to tell.
+
+
+
+Plays in Brief:
+
+*Determine whether a sales enablement position is right for your organization.
+
+*Allocate sales enablement duties across the ecosystem, which will likely include many people who do not have a sales enablement title.
+
+
+
+
+
+Chapter 16
+
+
+
+The #1 Sales Enablement Tool
+
+Sales Enablement Goal: (Spoiler Alert) Realize that the CUSTOMER is the #1 sales enablement tool.
+
+No one is better equipped to enable your sales team than your current customers are. They know why they bought and what could have kept them from buying. And, they’re the most credible people in the world to influence the buying decisions of others.
+
+If you want to increase sales, if you want to increase alignment between each department in the company, then EVERY SINGLE PERSON in the company should be meeting actual customers and prospects AT LEAST quarterly but, ideally, more frequently.
+
+We already covered several points around the sales team and their buyers, so now let’s explore some other departments and how they can impact sales enablement.
+
+
+
+Product Development: The Three-Legged Stool
+
+Some company leaders follow a “golden path” of product development. They knew what they wanted to build from the outset and follow this vision. They validate the vision in their minds and with the occasional anecdote from the market without confirming that anyone wants to actually BUY their product.
+
+Vision is good. It’s important. Companies should have it. If you want your sales team to be successful, however, you must pay attention to the three-legged stool of product development, which includes vision, qualitative feedback, and quantitative feedback. Doing so creates a product that’s easy to sell, which is the best way to attract and retain a great sales team.
+
+
+
+
+Vision
+
+If Henry Ford asked his prospects what they wanted, they would have said “faster horses.” Taken at face value, he would have become a botanist and genetically engineered some kind of super-hay. OK, maybe he wouldn’t have, but you get the point.
+
+A strong company vision can get you started down the right path, but it’s only one leg of the stool.
+
+
+
+
+Qualitative Feedback
+
+If you’re in the software business and your product team doesn’t create mock-ups of new features and gather user feedback prior to writing code, your head of product should be FIRED. Yesterday. Seriously. There’s a good case that they should also be fired if these mock-ups aren’t strung together into clickable prototypes and used to simulate what the product would look like. The book Sprint by Jake Knapp is great here. Getting objective feedback from a diverse set of users will save thousands of hours of rework, and for a lot of tech companies, that can be the difference between success and failure. If your product team writes code without running qualitative user tests, buy this book for your CEO and tell them the company is at risk.
+
+If you sell physical goods, get a contract before going into production or signing anything with your suppliers. Remember the scene in Horrible Bosses 2 where they produce 5 500,000 units, only to find out that the buyer doesn’t want them anymore and there’s no signed agreement? Whoops!
+
+
+
+
+Quantitative Feedback
+
+Once features are built, do your users actually use them? Again, if your product team isn’t looking at quantitative metrics AT LEAST weekly, showing which types of users engage with which features, your head of product should be FIRED. Seriously, this is sales disablement.
+
+If people don’t use your software product in the same way you expected them to and with the anticipated frequency, you probably have rework to do. If the vision is strong and the qualitative feedback sessions were done right, however, you’re probably in good shape.
+
+
+
+Marketing: Do Our Prospects Care?
+
+Hearing feedback directly from customers and prospects will do more to align sales, marketing, and prospects than any internal meeting could. With internal meetings, people tend to anchor to their own beliefs, and market feedback can be manipulated to push agendas forward. Pure feedback from the customer cannot be questioned, though, and can snap alignment into place, pronto!
+
+Marketing can dig in and explore the following areas:
+
+*Messaging: Does it resonate out of the box, or does the sales team need to tweak it before having an effective conversation?
+
+*Case Studies: Are they relevant? Credible? Where are the gaps?
+
+*Events: Are marketing events resonating with prospects? What can be done better?
+
+*Demand Generation: Are e-mail and other programs good or annoying?
+
+*Positioning and Pricing: Is the vendor offering what customers want at the right price?
+
+*Satisfaction: Is the product the vendor delivers as good as the product marketing promises?
+
+
+A subtle point when talking about sales-marketing-buyer alignment is that sales and marketing might have different definitions of the buyer, and it’s impossible to align two points with an ambiguous third point. Sales might think of the buyer as “prospects who can close ASAP,” while marketing compensation packages are not usually quarterly results driven, so they might be aligning with “the best long-term strategic fit.” Huge difference.
+
+
+
+Finance: How Comp Plans Impact Behavior
+
+It’s fascinating to listen to how finance and accounting folks talk about compensation plans when compared with the sales team. People who design and approve compensation plans must observe how their plans impact seller behavior.
+
+A bad comp plan will drive bad behavior and is another example of sales disablement. It’s easy to talk about how sellers will act when you’re in the luxury of a conference room, but until you hear about bad seller behavior from buyers, you don’t know.
+
+
+
+Customer Support: Take a Step Back
+
+Your team that deals with customer requests and complaints all day should periodically come out of the weeds and understand the big-picture successes your best customers are having. Allowing them to connect the dots between successful and challenged customers will help in their role and will also likely generate some amazing ideas.
+
+
+
+Human Resources
+
+HR needs to be equipped to test and confirm that anyone given management responsibility has the training and tools to be successful. Simply promoting individual contributors into management positions without giving them adequate training is insane as well as another example of sales disablement.
+
+Customers work with lots of vendors, and they can provide unique insight into how your company stacks up against others in terms of management. Is working with your company a seamless and enjoyable process, or are they buying from you begrudgingly due to a lack of options?
+
+
+
+Information Technology
+
+If salespeople don’t have the right technology, your customers will notice. Handoffs from marketing will be sloppy; information will be lost, so prospects will have to repeat the same information twice; and the sales rep won’t appear to be as sharp as the competition that has the tools.
+
+There are several ways to make a sales team better with technology, including:
+
+*Selling Tools: Don’t be cheap; make sure reps have everything they need to be successful. There’s a lot of talk around the “$500 tech stack”…that’s garbage. Spend what you need to spend and have your reps sell more. If you have a 20-person team and double the tech stack from $500 to $1,000, it’s likely that any one person on the team closing one extra deal per year will pay for the difference…and maybe many times over.
+
+*Automation: Only automate what currently works. Automating a broken process (such as outbound e-mail prospecting) will make you bad at scale.
+
+*Analytics: Avoid micromanagement analytics. Who cares how many e-mails Adrian sent or how many calls Sam made? Focus on real business intelligence. Invest here and you’ll have your finger on the pulse of the organization.
+
+*Collaboration: If one person hears an objection, it’s likely someone else will hear the same one. If one discovery question yielded gold, it would probably work elsewhere. Put in technology to close the loop.
+
+
+Should any of these be missing (or you don’t have the latest tools), figure out whether that’s causing problems with your customers; if so, it might be time to buy some software.
+
+
+
+Don’t Forget about Vendors!
+
+You know how your company really cares about its customers? Well, you are somebody’s customer too! Getting your vendors to intelligently talk about your product is one of the best uses of sales enablement energy. Ensure that your contact at EVERY SINGLE COMPANY you pay money to for a product or service can give your pitch and is motivated to do so. They’ll do it, but you’ll have to ask!
+
+If you’re not farming your vendors for referrals, start now!
+
+
+
+Plays in Brief:
+
+*Ensure that each employee is meeting with prospects and/or customers at least quarterly.
+
+*Use feedback from your customers to identify ways your team can enable sales.
+
+
+
+
+
+Chapter 17
+
+
+
+The Future of Sales Enablement
+
+Sales Enablement Goal: Execute.
+
+Our editor wanted us to include a chapter at the end of the book “in conclusion”, but this is really where the work begins. How do you go about creating a world-class sales enablement ecosystem?
+
+Recommended Next Steps:
+
+
+Share this book with all executives in your organization. It’s not only important that everyone understands the ecosystem relative to their domain, but they should also be aware of how each department is responsible for the success of the whole.
+
+
+Identify the metrics in each section which are relevant to your company and set benchmarks - transparent to all - which will allow you to measure incremental progress on these sales enablement best practices.
+
+
+Evaluate the gaps. Many of our recommendations are likely already active, whether formally or informally inside of your organization. Now it’s time to analyze the gaps. Look for the opportunity for the greatest impact to begin to prioritize your company’s Sales Enablement Roadmap. A great tool for doing so is the Sales Enablement Assessment which you can access for free at SalesEnablementPlaybook.com. Once the gaps (opportunities!) have been identified, prioritize your plan of action based upon the plays outlined in this book.
+
+
+Iterate on the systems you put in place, the assumptions you make, and the metrics you track.
+
+
+Develop your people. Technology will continue to be created to offer analytics, business intelligence, “artificial intelligence”, collaboration, and automation – but ultimately the sales enablement ecosystem hinges upon the ability of your people to execute, evaluate, experiment, and expand. Invest in your people with training, adequate resource allocation (including budgets), and responsibility to get the job done.
+
+
+
+Plays in Brief:
+
+*Have fun!
+
+
+We wrote this book because of the pain we observed in the marketplace regarding “the mystique” and lack of clarity regarding sales enablement. We have attempted to demystify, clarify, and validate what our experience and research has shown to be successful. Creating a sales enablement ecosystem is a lot of fun. Prospect-centric organizations are nimble and aligned, attract highly qualified talent, collaborate on measureable objectives, and succeed in their market.
+
+That sounds like fun to us!
+
+
+
+
+

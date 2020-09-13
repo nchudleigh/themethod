@@ -1,0 +1,19 @@
+======================================== SAMPLE 1 ========================================
+" that are posted on his popular blog, "Life at Google." The company's recent moves seem to be causing him some serious pain.
+
+For example, Google announced the closure of the Play Music app on all Windows tablets as of yesterday. It was replaced by Google Play Music for Windows, which allows users to pay $9.99 per month for access to their entire music collection, as well as access to "limited features," in the vein of Spotify (the paid version has no advertising). The change had an immediate impact on many users, who found that the app's functionality was now largely useless. That is, users who were already using Google Play can continue to use it, but the paid version now requires a $9.99 monthly fee.
+
+Even worse, it appears the move could be impacting Google+ users. The company quietly announced that its Android app was now included in Google+ (albeit in a small way). Many Android users are already used to using an open source app to get their music, and to stream Google Play Music on Android devices without paying (this is what Spotify provides). This opens the Pandora's box for Google's future plans.
+
+As for Spotify, there are a number of features that Android users will miss, even though they can probably get their music from other providers. The most significant being the ability to play most streaming music within the app, as well as using it as a media player. You should also be able to do Google searches from within the app, and you'll be able to download new songs and podcasts, as well as edit lyrics.
+
+Google also is likely making these decisions to give itself more control over a new Google+ offering that is designed to be a "social network for music." This should bring Google even more control over its "music" offerings, and it gives Google even more leverage with Google+ users who may be unhappy with these changes.
+
+While both companies claim to be open about how these apps will affect users, it seems that's a lie.
+
+UPDATE: A Google official tells me that the mobile version of the Android app will not get removed and the only major change is that it has "limited features."
+
+"Users are getting access to limited features," the official said. "We've heard your feedback and it's one of our top priorities to deliver more features and improve the Google+ app wherever possible."
+
+When asked whether or not the Google+ app will shut down, the official told me it could, but
+================================================================================

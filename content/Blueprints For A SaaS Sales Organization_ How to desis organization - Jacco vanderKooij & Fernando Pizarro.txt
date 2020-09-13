@@ -1,0 +1,1880 @@
+Blueprints
+
+
+
+
+
+the things
+
+we have learned
+
+in sales
+
+
+
+
+
+			Blueprints
+
+			1. Tier the Business
+
+			2. The Customer Journey
+
+			3. Scaling the SAAS Cost
+
+			4. Role of Online In Sales
+
+			5. Evolution of Sales
+
+			6. Data Driven Sales
+
+			7. Saas Sales Processes
+
+			8. Tools as a Force Multiplier
+
+			9. Content as the Fuel
+
+			10. The Saas Sales Model
+
+			11. Structure Teams
+
+			12. Career Development
+
+			13. Sales Operations Center
+
+			14. Final Thoughts
+
+
+
+
+
+			People:
+
+			AE - Account Executive
+
+			AM - Account Manager
+
+			BDR - Business Development Representative
+
+			CSM - Customer Success Manager
+
+			CEO - Chief Executive Officer
+
+			CRO - Chief Revenue Officer
+
+			CCO - Chief Customer Officer
+
+			FAE - Field Account Executive
+
+			MDR - Marketing Development Representative
+
+			PM - Product Manager
+
+			SDR - Sales Development Representative
+
+			SE - Sales Engineer, sometimes refers to a web developer
+
+			VPM - VP Marketing
+
+			VPS - VP Sales
+
+			SaaS Lead Definition:
+
+			Suspect - A person who may be interested
+
+			Prospect - A person who expresses interest
+
+			MQL - Marketing Qualified Lead, a person who expresses interest and fits the profile.
+
+			SQL - Sales Qualified Lead, person who is interested
+
+			SAL - Sales Accepted Lead
+
+			WIN - A client who commits to the service
+
+			LIVE - Client who has been onboarded
+
+			SaaS Business:
+
+			ACV - Annual Contract Value
+
+			ACRC - Annual Customer Retention Cost
+
+			ARR - Annual Recurring Revenue equal to12 times MRR
+
+			B2B - Business to Business
+
+			B4B - Business for Business
+
+			B2C - Business to Consumer
+
+			CAC - Client Acquisition Cost, the amount to acquire a single client
+
+			CR - Conversion Ratio, the amount of leads to produce one SQL
+
+			CRC - Client Retention Cost, the cost to retain a client for 12 months
+
+			CRM - Customer Relationship Management (platform)
+
+			CSM - Customer Success Management (platform)
+
+			ENT - Enterprises, companies with over 5,000 employees
+
+			LOGO - Common use term for a high value client
+
+			LTV - Life time Value of a client, often between 3- 5 times ACV
+
+			MAS - Marketing Automation Software (platform)
+
+			MRR - Monthly Recurring Revenue
+
+			PTC - Refers to the combined cost of (P)eople, (T)ools, and (C)ontent
+
+			RoI - Return on Investment
+
+			SaaS - Software as a Service
+
+			SC - Sales Cycle
+
+			SMB - Small to Medium Business(es) often between 50-500 employees
+
+			SME - Small to Medium Enterprise often between 500-5k employees
+
+			VSB - Very Small Business often between 2-50 employees
+
+			PRO - Prosumer, a single user who behaves like a business user
+
+			WR - Win Ratio, the number of accounts it takes to produce one WIN
+
+
+
+
+
+			The lessons contained in this book are the aggregated learning from years spent building sales teams for high growth SaaS startups. As sales leaders and consultants in this constantly changing space we have seen firsthand the effects of building sales teams correctly, which leads to explosive growth, and incorrectly, which almost always leads to an existential crisis.
+
+			What we noticed is that the companies that do it right are doing a few things consistently. We have reduced those best practices to a system which we believe sales leaders can implement. The blueprints presented in this book form the basis for that system and for all the work we do to scalably grow revenue. We hope they can do the same for you.
+
+			That said, this book is more relevant to some businesses than others. In particular, our blueprints cannot be applied to help you find out your business model, or align it with a strategy*. The lessons contained in this book can only be applied when you are ready to scale your SaaS business. How do you know if you are ready to scale? Read on:
+
+			The kind of business you are:
+
+			- B2B or B2B2C
+
+			- Offering an online service
+
+			- With recurring fees
+
+			The elements you have in place:
+
+			- Your price list is established
+
+			- Your first salespeople are in place
+
+			- Your target markets are identified and proven
+
+			- Your product is nailed down - in short, you are out of beta
+
+			The kinds of goals you have:
+
+			- Help customers by solving or preventing a problem
+
+			- Rapid growth, as measured in monthly revenue
+
+			- Increasing valuation of your company
+
+			As consultants, our prototypical client meets all of the above criteria. In the shorthand of capital raises, this book is most pertinent to your company if you are post-A round. That is because it is normal for you to still be tinkering with your sales model at A.
+
+			In this context, this book lays out step by step instructions to build a scalable customer centric sales organization that will help you develop the revenue stream needed to achieve your hopes and dreams.
+
+			* Recommended reading: Aligning Strategy and Sales: The Choices, Systems and Behaviors that Drive Effective Selling by Frank V. Cespedes
+
+
+
+
+
+			In our work helping companies create scalable salesforces, we have identified a recurring problem. The problem is that the way we sell in B2B has made little progress since the early 1900s. As outlined in the book B4B* there may have been several changes in activities from the days of solution selling, and many new tools, but no significant change in the approach and the methodology.
+
+			All of us are B2C customers, and today we use that as the point of reference for a great sales experience. This B2C experience provides, instant pricing, peer references, access to online support, and the ability to make a purchase decision without talking to anyone. Try CustomInk.com or Amazon.com and you’ll see what we mean.
+
+			Fast moving markets force B2B customers to look for the same experience, only to find that most B2B providers have a very poor sales experience. There is big gap between the buyers’ expectations and what they actually experience. This gap is not only big - it seems to be growing.
+
+			Do not misunderstand us; great tools are entering the market, from email tracking to workflow management tools and more, all in an attempt to close the gap.
+
+			But you can’t close that gap by building a 10-story apartment complex on a foundation designed for a single car garage. You need a blueprint that you can work from. A blueprint based on best practices from others that went before you. Because, in a business environment that is moving ever faster, you are most likely to only get one shot at it.
+
+
+
+
+
+			Almost all our clients face this issue: they do not build their teams with process to scale. Instead, they follow a predictable pattern which has been summarized into an industry truism that it takes at least two if not three Sales VPs to “get things right.”
+
+			The first VP takes three to six months to hire. He buys tools on an ad hoc basis to fit the budget. He establishes a once-a-year training program that includes lead development, closing, and negotiation skills. Staff turnover begins because quotas go unmet. Belatedly, he attempts to deploy processes too late.
+
+			The second VP is hired from a process heavy larger company in order to build scalability. A former Oracle, IBM or Salesforce executive, this executive implements tools and systems that were popular four years ago, but she at least begins to refocus the company on inbound sales. Revenue still lags.
+
+			The third VP gets rid of most of the process and focuses on sales performance. At this point the service has matured, and he is able to overspend on top sales people. Revenue starts to flow but in a non-scalable way because it relies on individuals. It takes 2-3 rounds of funding or more to find the right balance between a sales focus and a process focus.
+
+			In January/February of every year there is a tsunami of Sales VPs working for SaaS companies who change jobs due to this common turn of events.
+
+			This rotation of sales leadership takes anywhere from 2-5 years per company and as a result many companies miss their window for explosive growth. They are simply not fast or responsive enough. Lack of design at the outset requires that they constantly build, test, and rebuild until they get it right. Our blueprints are the solution to getting things right from the start.
+
+
+
+
+
+			At the same time the old guard of the sales profession have a consultative skillset aimed at selling solutions. Many of these skills no longer apply to the SaaS paradigm in which volumes are up, transactions sizes are down, and revenue is earned long after the close.
+
+			Success in SaaS depends on having a carefully designed customer centric sales organization that balances skills, processes, and tools.
+
+			For this we need to evolve sales.
+
+			Importantly, in the SaaS context today’s sales organization needs to be low cost. And it needs to deliver on rapid growth scenarios that did not exist in the past. It needs to be able to scale by relying on processes not on individuals. And it needs to be native to online, able to use the force-multiplying networks and tools available today that had not even been heard of five years ago.
+
+			This new organization has to have rapid evolution built into its DNA — it needs to learn from itself and it needs to deploy that learning by spreading it throughout the organization automatically.
+
+			We call this low cost/high accomplishment/high scalability organization a Self Learning Organization.
+
+			What does a self learning sales organization mean? While traditional salesforces are trained once a year, or once a quarter, on knowledge of the past year, today’s sales teams need to learn from knowledge relevant to the NOW. They need immediate training everyday - this means that learning must be baked into the system. It also means we are going to staff this organization with talent equal to its online task: you know them as Millennials.
+
+			The great thing about Millennials is that they have native to online behavior. But they do not (yet) have the skills to do the consultative
+
+sale - those expensive skills we talked about at the beginning of this chapter. This is why it is important to build a self learning sales organization so that Millennials can learn consultative sale skills quickly and reliably.
+
+			Another great thing about Millennials is that they come from learning and playing environments in which sharing and team play is more prevalent than in the past. It is relatively easy to teach them to share their best tips and tricks with each other everyday than it is to get more senior salespeople to do so. This is partly because early in their career Millennials have more to gain from sharing as their learning curve is so steep.
+
+			Perhaps in an ideal world a company can afford expensive sales consultants like us to lead daily training sessions - but in the absence of such luxury, the next best solution is to set up the program in a way that the team can learn instantly, on the fly.
+
+
+
+
+
+			There are some basic trends and changes that are important for you to understand and take into account as you read the blueprints.
+
+			We refer to these trends throughout this book, so you should know what they are about. They comprise the foundation on which you will be building your 21st century sales team.
+
+			Customer Centric Approach - The New Business Orientation
+
+			Because of SaaS, the entire sales model needs to be reoriented to a Customer Centric Approach. You need to create teams, systems, and processes to make customers happy over time, rather than just at the point of sale. Of course, old sales hands will tell you that this has always been necessary, and that the value of excellent salespeople has always extended beyond the sale. However, the difference today is that you cannot rely on individuals to provide this customer satisfaction. Instead your entire business needs to be oriented around that ongoing relationship, regardless of individual contributions. This is the key - a Customer Centric Approach to your business in a SaaS world assumes that individual contributors are interchangeable.
+
+			Software as a Service (SaaS) - The New Business Model
+
+			If you manufacture compression engines you might ask yourself why Software as a Service is relevant to you. But the fact is that “as a service” is a model that is taking over more and more industries, far beyond software. Elevators, for instance, are now given away for free along with a multi-year service contract. Computer hardware is sold at close to cost and the manufacturer makes money on the integration and maintenance. Even industrial equipment comes with service contracts.
+
+			What all these examples have in common is that the real profits do not come at the time of the sale. They come much later. And this element of SaaS, the aaS, if you will, is one of the single most revolutionary changes to the sales process. Because no longer can salespeople be incentivized on the sale. They have to be incentivized based on the customer’s ongoing consumption and satisfaction of and with the product.
+
+			As a Service means that sales organizations have to redeploy resources down and through the sales funnel, something that they are seldom comfortable doing.
+
+			Consumers - The New Buyers
+
+			In the online world we as consumers all interact directly with the brands and products we love online. Our relationship with them is direct, and we expect a sophisticated degree of interaction when it comes to information about the product, how it is presented to us, and how we buy it. The internet continues to disintermediate offline retail, and we increasingly expect a direct relationship with the things we buy. That is a high bar to match as a sales organization!
+
+			And yet that consumer level bar has been introduced in the business-to-business world as well. The buyers of our products - whether we sell a CRM system or industrial equipment - expect to interact with us online. They expect to be provided with all the information they need, when they need it, and in a way that is easy to consume. And they expect to be able to reach out for handholding at any point in the process. They do not want a hard sell, they do not want pressure, and they are repelled by used car sales tactics - just like we are as consumers.
+
+			Millennials - The New Salespeople
+
+			Today sales is an activity for a new generation, one that excels in online. They are native to mobile use - often moving between 2-3 devices throughout the day, and they jump between 10-20 applications on their desktop. They also seemingly adopt to new technologies instantaneously.
+
+			The people that posses these traits are often refered to as “Millennials.” Organizations that are able to leverage the Millennial traits first are going succeed first. A modern SaaS sales organization will be built on a foundation of Millennials.
+
+
+
+
+
+		 			1. Tier the Business
+
+
+
+
+
+			Let’s say you were going to build a house. It’s understandable that you want to build as nice a house as you can afford, because you are going to live in it. But a smart real estate agent might advise you to dial back your plans slightly to fit your neighborhood - in fact the perfect balance is usually to be struck just by having the slightly less nice house in the better neighborhood. This illustrates an important point - that the most productive assets are not the most expensive ones - they are the ones that are perfectly suited to their market.
+
+			Your sales organization is your asset. Your target market is your neighborhood. Do you see where this is going? Figure out the details of your target market and then build a salesforce suitable to it. Or to simplify even further - figure out how much money you can make in your neighborhood, and budget your home building costs accordingly. Seems obvious, right?
+
+			Well in today’s environment it is easier than ever to lose track of your business model. In particular, few sales leaders do a good job of matching their teams’ experience and cost to the size and volume of deals in their chosen segment - the revenue side of the equation. In a SaaS world, there is a tradeoff between the number of customers willing to sign up for your service, how much they are willing to pay, and therefore how expensive and experienced your sales team should be.
+
+			It is all too common to see sales teams in which directors are doing high volume prospecting for low value customers. Believe us - while this sounds stupid and you are probably telling yourself that you would never make that mistake, in practice it happens all the time to perfectly smart people. To counteract this default behavior, you must go through a deliberate exercise in which you segment your customers by how much revenue they can produce, how many potential customers exist in each segment, and what it costs to service those customers. You can then implement the following common sense strategy: “use low cost, online sales teams to process high volume, low value segments.”
+
+			While the specific numbers in your business will vary, we have found that once you take into account both the cost and revenue side of the equation, almost all SaaS businesses have 3 tiers. Even if you offer a $100,000 monthly recurring service, your clients are likely to first check-out your self-serve tier, and there will always be a distinction between a 2nd and 3rd tier - because the 2nd tier sells to single decision makers, whereas the 3rd tier sells to multiple stakeholders in the company.
+
+			Ideally your business targets only one of them, and you can act accordingly. If it targets two or three of them, it is even more important for you to clearly define, staff, and target your product, sales, and customer initiatives.
+
+
+
+
+
+		 			blueprint 1
+
+
+
+
+
+			Freemium
+
+			In the freemium model the service is provided free of charge, but the client is charged for premium features and/or increased usage. The freemium model intents to get users hooked, and as the service gains in popularity the provider monetizes the increased usage.
+
+			Prosumer/ Very Small Business (VSB)
+
+			Prosumers are individual users that behave as a business. In an online environment you simply cannot ignore prosumers. They do not usually provide a significant amount of revenue. Yet they are a critical part of your ecosystem. For one thing, Prosumers may eventually go to work for an SMB or Enterprise. But more importantly, by addressing the Prosumer market you will be forced to excel in Internet sales, which directly benefits your SMB sales. Why? Because in practice most SMB sales start with a single “Prosumer license” to an enthusiast. This segment maps to an internet sell tier.
+
+			Small and Medium Business (SMB)
+
+			Earning the business of a SMB is the goal of a good inside sales team. The inside sales team uses a Marketing Development Representative (MDR) to qualify the inbound lead and direct it to the online Account Executive (AE) who can help the client. Time is of the essence in online sales, and account assignment should be based on a “whoever is available with the right domain expertise”. Inside sales teams are often organized at a single location to improve velocity and lower deal cost.
+
+			Enterprise
+
+			Large opportunities are singled out and managed by the Field Sales Manager/Account Executive (FAE). Sometimes supported by a Sales Engineer/Web developer (SE) who will step clients through an enterprise sales cycle that includes a technical integration analysis, and a Return on Investment (ROI) model. This cycle should involve the creation of a value proposal that includes professional services. FAEs can be regionally organized so they can meet with the client on-site. This segment maps to your Enterprise tier, in which your sales team must coordinate the sale with multiple client stakeholders, across departments.
+
+			SaaS success is born in SMB
+
+			We commonly see that the companies who are successful in SaaS are successful in the SMB space, and it is these companies that also obtain high valuation. We have seen first hand how companies who achieve success early-on with large Enterprise deals, find themselves circling the drain a few years later. The success with enterprise deals, required these companies to focus on integration instead of innovation. On the other hand clients that enter the market from a freemium/prosumer model are able to adopt quickly. Although many are prematurely stamped “successfull” by industry pundits, experienced VCs will tell you that they only warrant the valuation once success is achieved in the SMB space.
+
+			Keep this in mind as you design your SaaS Sales Organization.
+
+
+
+
+
+		 			case study 1
+
+
+
+			The Problem
+
+			A high energy SaaS company had set itself the goal of achieving a $100,000 MRR rate with its founding sales team. The company had established a two tier pricing system in which small to medium businesses (SMBs) were charged $1,000 in MRR and very small businesses (VSBs) were charged $599 in MRR. In their early growth stage their sales team had optimized around these two tiers, focusing on relatively high velocity sales to smaller businesses. However, as the company grew it was exposed to large enterprise clients, with a potential MRR of tens of thousands of dollars.
+
+			Tempted, the company assigned its top salesperson to land the larger accounts. Engineers were deployed for customization and the previously high velocity sales cycle slowed. The pressure to land the enterprise deal increased as revenue sagged, compounding the problem and encouraging risk taking behavior.
+
+			Ultimately, the high risk deal was lost, the top salesperson left because of lost commissions, and the team was in disarray. A new VP of Sales was brought in leading to disruption and further loss of time.
+
+			The Change
+
+			We quickly realized that the client had a tiering problem and a velocity problem, combined with a reliance on rainmakers rather than on process. First, we recommended that the client establish service offerings that clearly differentiated between customer tiers(see #1). The new tiers
+
+			 				Enterprise: $5,000 in MRR, with a strong suite of services and support
+
+				SMB: $2,000 in MRR, a price increase that enriched the roadmap
+
+				VSB: $1,000 in MRR, a lower end pricing
+
+
+
+			Importantly, we advised the founders to create a sales organization that matched the service offering and the expertise required for each tier(see #2). The client hired a field account executive (FAE) and a technical sales specialist to focus on the longer sales cycle(see #3), while focusing on deals that did not affect the product roadmap. The SDR/AE team focused on SMB sales, reinstating the high velocity that had characterized the company’s early success(see #4). We also recommended the hiring of a growth hacker to develop a top notch online sales experience that services the lower end market(see #5).
+
+			Last, we needed a dashboard for the 3 tiers, focusing on different metrics as appropriate, such as sales cycle, average price/month, and churn rates.
+
+			The Result
+
+			By clearly tiering the business and staffing it to suit the tiers, this high energy Start up was able to quickly re-establish the velocity it needed to succeed.
+
+			As the sales cycles shortened, it was combined with an increase of the MRR across all tiers. This increase was based on the incredible value the service provided to customers. This reduced the pressure on the sales teams to land the huge make-or-break enterprise deals.
+
+			At the same time, a funnel for the Enterprise deals was developed separately, with enough pipeline to pick and choose the projects which would not require undue customization.
+
+			And last, at the low end, an improved online self-service experience allowed customers to self-educate and move themselves throughout the funnel, not only improving velocity but adding to the pipeline efforts in all tiers.
+
+
+
+
+
+		 			2. The Customer Journey
+
+
+
+
+
+			In the previous blueprint we figured out the value of our market segments and positioned our service to match. In the old days the next step would have been to figure out how to sell the service. And that approach would be wrong!
+
+			The question to ask is not “how are we going to sell it?” but rather “how is the customer going to buy it?” Once you have figured that out, then you can plan against it.
+
+			The customer journey usually starts when the client recognizes a fixable problem. This can be through any of the following, in any order:
+
+			 				a content marketing campaign leads to an inbound lead from nurturing
+
+				word of mouth results in inbound leads through a referral
+
+				the sales team reaches out in an outbound sales call, email, or Linkedin Inmail
+
+				a community event causing word of mouth
+
+				Search Engine Optimization leads to competitive ranking against a search query which results in an inbound lead
+
+				a social media interaction such as a tweet, posting a blog post, or liking/sharing/commenting on an article
+
+
+
+			Regardless of which path is the biggest or best, today you need to excel in all of these. On the next page we have laid out the journey that follows for a particular persona with potential actions you can take. Bear in mind that not every client.persona has to go through every step on this journey, nor do they do it all at the same pace.
+
+			Let’s use a sports analogy. A very simple one, the simplest. Say you have to run a race. You are taken to a track and lined up against your competitors. And you only get one question before the gun goes off. What do you ask? We would put to you that you would probably ask something along the lines of “where is the finish line?” or “how long is the race?” Seems obvious, right? Because if you sprint a 40 but it’s a miler, you are in trouble. Let’s not torture the analogy too much but most sales organizations are doing exactly that. Sprinting 40 yards, throwing up their arms in a victorious cheer, and running off the field. In the meantime it turns out that the race is a marathon.
+
+			Why? Because in a SaaS world the sale is not the finish line. Recurring revenue, MRR, a happy customer, multi-year relationships. These are the new podium finishes, and you must structure not only your race plan, but your training and your mental game to fit that new reality.
+
+			A successful SaaS start-up is based on rapid growth measured against MRR: anywhere from 2x to 100x over a 12 month period. The sales team is responsible for achieving this growth. And the mass of that growth usually comes after the initial commitment, once a client truly experiences the value of the service: every month, week, day, or even hour.
+
+			We have defined a customer journey that consist of five distinct experiences which need to be traversed successfully by the customer, and it turns out that fully two out of the five occur after the traditional sale. We share a high-level comparison between a sales-centric approach and a customer-centric approach next.
+
+
+
+
+
+		 			BLUEPRINT 2
+
+
+
+
+
+			What happens in each stage
+
+			Awareness: A prospect hears about “a problem.” This can be from a peer at a tradeshow, by stumbling upon it online, or during a local networking event. They do a Google search and may sign up for a webinar, which turns them into a suspect. Many SaaS companies seed this process by targeting prospects and nurturing them into marketing qualified leads or MQLs.
+
+			Education: Once a client realizes there is a problem (or an opportunity in a solution), they become hungry for insights about it. Based on those insights they can request and attain internal resources such as budget and people. If they attain both, it makes them a Sales Qualified Lead or SQL.
+
+			Consultative sales professionals will attest that Education is the critical phase in the sales cycle because the client is still open minded. Today most companies rely on a static web-site and boring webinars to educate their clients at this critical stage. Modern sales organizations need to excel at having a two way conversation during the education phase, in an effort to develop Sales Qualified Leads (SQL). This two way conversation is commonly called Social Selling.
+
+			Selection: The client goes through the purchasing process and works with a partner to provide whatever further information they require. The client puts their trust in the partner that assisted them along the way. They commit in a 12 month service agreement, with monthly, quarterly, or annual upfront payments.
+
+			Onboarding: The client integrates/installs/activates the service. This is a critical phase, because the client wants it to work as advertised, within the budget allotted to it, and by the date agreed. Onboarding issues will lead to an increased risk of losing the client (churn) and with it the investment the company made to land the account also known as client acquisition cost (CAC).
+
+			Use/Expansion: The client is frequently using your service and experiencing the increasing value it offers. The SaaS service provider shares best practices from other clients and it achieves growth, such as more seats, increased usage, and/or use of more functionality. The goal of MRR is achieved. Vocal clients may become advocates and receive increased benefits in return for sharing their best practices
+
+			Different expansion models
+
+			It is important to note that there are different expansion models. On the next page we outline the two most common expansion models, that of an application service compared against a platform service. It is very important to understand how your client uses and expands the service as this is where your revenue and profits are generated.
+
+
+
+			Model 1: Application Service
+
+			A SaaS application service, such as file sharing and communications tools. Low value often available with a month-to-month subscription. As the service gains adoption its growth compounds because of network effects. This model has the following characteristics:
+
+			 				Easy to sell
+
+				Not critical to the business, and easy to migrate
+
+				Easy DIY integration, with expansion coming from peer to peer reference selling
+
+				The growth is virtually uncapped and can reach 10-100x.
+
+				Strong focus by the vendor on upsell/cross sell
+
+
+
+			Model 2: Platform Service
+
+			A SaaS platform service, such as CRM and MAS, commonly offered under an annual contract. This model has the following characteristics:
+
+			 				Complex initial sale
+
+				Critical to the customers business and hard to migrate
+
+				Requires sophisticated integration, involvement of engineers in the sales process
+
+				The growth is capped to renewal plus a price increase based on new functionality (Premium packages)
+
+				Strong focus by the vendor on churn prevention/renewal
+
+
+
+
+
+		 			case study 2
+
+
+
+			The Problem
+
+			Last year a SaaS recruiting firm - let’s call them RSC - appeared to be doing great - they had solid funding and a SaaS platform offering in a booming market with high demand. But they faced the classic SaaS problem - the more they sold, the bigger the losses - and they did not even know it!
+
+			What happened was that RSC was incentivizing their salespeople on closing the initial purchase order. The deals were then transferred over to the CSM team who helped the customer to onboard. But much if not all of the revenue came long afterwards. At that time sales professionals no longer were involved, and CSMs had successfully completed the onboarding.
+
+			Importantly, RSC offered a per month option, and clients tended to sign up during times of the year when there was a demand burst. After a few months, when the hiring slowed down, they were seeing a significant increase in churn. And most importantly this happened before they had an opportunity to make a profit. Clearly, RSC had to start thinking differently about their approach.
+
+			The Change
+
+			RSC made a deliberate choice to pursue a customer centric approach to sales: The goals of both teams were the same: to achieve profitability in 12 months based on MRR.
+
+
+
+			The sales team was held accountable for securing the right kinds of deals. It increased pricing based on the value it offered to its clients. At the same time it changed to an annual contract model with an upfront payment. This significantly affected churn, as clients stuck with the service until the service was up for renewal, at the time they once again were at their highest need.
+
+			The CSM team focused on helping their clients derive value from the service during the other months of the year. For instance, the CSM team began gathering best practices from all its clients and sharing them across all of its customers, organizing events and creating a community among its customers.
+
+			The Result
+
+			Soon after implementing these changes RSC began seeing results. Salespeople compensated on the annual contracts started to focus on accounts that were less likely to churn.
+
+			As the community was established RSC started holding periodic local meetups across major cities for its clients to exchange best practices. Guess what!? These meetings created new opportunities. No longer was RSC trying to avoid logo churn - instead it now focused on creating upsell.
+
+			And, the biggest and most unexpected result; during these best practice events, customers educated prospects - effectively assisting the sales team with the education stage - developing sales qualified leads (SQLs) that provided a higher average revenue, achieved MRR quicker, a higher win ratio, and at a significant lower churn.
+
+
+
+
+
+		 			3. Scaling the SAAS Cost
+
+
+
+
+
+			There has been a great deal written about the various metrics that should be used to understand and manage your SaaS business. We think it is tremendously important for SaaS leaders to think about the concepts inherent in certain metrics* because they impact the entireorganization.
+
+			In previous chapters we have talked about some of these. For instance, implementing a five stage cycle with the goal of achieving customer success, and in return earning a Monthly Recurring Revenue (MRR) stream. The great benefit of the SaaS business model is that the MRR stream compounds over time when compared with a one-time sale. Along a similar vein, we think it is important for sales leaders to be intimately aware with the compounding cost, and in particular the Customer Retention Cost (CRC).
+
+			Whereas many, if not most, SaaS companies today only track the one-time costs of the acquisition of a customer (CAC), few build the compounding cost of retaining a user into their recurring metrics. By not fully taking this into account their time to profitability is shifting out, or worse has become unpredictable.
+
+			In keeping with the well known rule of thumb that it costs about 6x to acquire a new customer vs. retaining an existing customer, an efficient sales team will be aware of the relative payoffs between investing in customer acquisition or customer retention. In order to do this, leaders should track the ratio of CRC to CAC and Annual Recurring Revenue (ARR) in order to determine which segment carries a higher ROI. In the next blueprint we review how to evaluate your CAC and CRC.
+
+			CUSTOMER ACQUISITION COST
+
+			There are different ways to calculate Customer Acquisition Cost (CAC). For our purposes, CAC is all Marketing & Sales costs from the previous month divided by the number of deals committed during the month. If the time from Sales Qualified Lead (SQL) to WIN - also known as the sales cycle - is 90 days, we recommend calculating the CAC over three months instead of one month. Key components of the Customer Acquisition Cost:
+
+			 				PEOPLE (P): Salaries, commissions, expenses.
+
+				CONTENT (C): White papers, videos, blogs, events, webinars, and much more
+
+				TOOLS (T): CRM, MAS, and a variety of SaaS sales tools
+
+
+
+			CUSTOMER RETENTION COST
+
+			Customer retention cost should include all expenses a company incurs in retaining and cultivating its existing customers. Key components of the Customer Retention Cost:
+
+			 				PEOPLE (P): Salaries of Customer Success Team, the Account Management Team, Professional Services, and Training
+
+				TOOLS (P): Customer Engagement and Adoption Systems
+
+				CONTENT (P): Customer Engagement, Adoption Programs, and Customer Marketing
+
+
+
+			ANNUAL RECURRING REVENUE
+
+			Annual recurring revenue consists of monthly recurring revenue x 12. But this does not have to be a static number. You can can improve this by selling over and above the existing contract to shorten the time it takes to achieve profitability.
+
+			ELEMENTS TO IMPROVE PROFITABILITY
+
+			 				Upselling refers to selling more and new services to the same group of stakeholders. Upsell can be divided into three types:
+
+				Sell to more users, such as seats
+
+				Sell increased functionality, such as upgrades to a premium package
+
+				Sell more consumption, such as more bandwidth consumed
+
+				Cross selling refers to selling similar and new services to a different group of stakeholders inside the same company, or sometimes the same ecosystem of partners. This requires a very specific skill set, investment in specialized tools, and content production that may be unique to the client.
+
+				Increase pricing. In SaaS there is a particular benefit to price increases for month-to-month customers. First, it improves profitability. Second, it effectively segments customers into those who are willing to pay for a yearly contract in order to lock in price. When your service is continuously increasing value, it is in your best interest to avoid multi-year contracts in order to extract more profits via price increases.
+
+
+
+			* Recommended reading:
+
+			Bessemer Venture Partners: Bessemer’s Top 10 Laws of Cloud Computing
+
+			ForEnterpreneurs.com/blog: SaaS Metrics 2.0 - A Guide to Measuing and Improving what matters by David Skok
+
+			SaaStr.com: Best of SaaStr: Top 100 Posts, Organized by Topic (Sales, Marketing, Customer Success, etc.
+
+			Totango.com: The missing SaaS metric: Customer Retention Cost, February
+
+
+
+
+
+			NO PROFITABILITY GOAL = WALKING DEAD
+
+			The goal of any business is to make a profit. Historically many SaaS companies have not made profitability their goal. In the early 2000s the primary start-up model was to achieve momentum at a high velocity and at any cost, and then to pivot the business by changing the pricing model. The result? Does “the more you sell, the more you lose” sound familiar?
+
+			Many first generation SaaS companies got stranded with 50-100 paying customers, and no sources of funding available to innovate their service and delight new customers. Today they are barely making enough to keep the lights on. On the other hand, we see successful modern SaaS companies secure meaningful deals with sexy user interfaces and state-of-the-art features via a sales-led strategy that focuses on staying profitable.
+
+			In the industry we refer to these first gen SaaS companies as the walking dead, and today these Walking Dead firms outnumber the successful ones by a factor.
+
+			Clearly, achieving profitability and using the profits to stay innovative is the key to long term SaaS success and can no longer be ignored.
+
+			TIME TO PROFITABILITY IS MEASURED IN DAYS
+
+			A common top-line metric used in SaaS in the past was Life Time Value (LTV). We judged the potential success of a SaaS business based on the Life Time Value of a deal. The LTV concept originated in the IT/Telecom industry where IT investments were made on a seven year cycle because of the incredible expense involved in changing vendors. Such changes were nicknamed “forklift exchanges” after the massive effort of exchanging pallets full of hardware. Today LTV has lost most of its measurement value because most platforms are open and the cost of exchange has become fraction of what it once was. As a result customers change vendors as needed, and we have come across many customers who deploy a variety of competing SaaS services. Think of the various email tracking services, and file sharing services
+
+			In B2B SaaS businesses profits come from earning a recurring revenue stream that consistently exceeds the cost of establishing and maintaining it. As a modern SaaS business leader you need to be intimately aware of how many days it will take before your customer will make you a profit.
+
+			This results in the amount of months it takes to achieve profitability, where a fraction of the month is turned into days, e.g. 2.3 months equals 70 days.
+
+
+
+
+
+			The above figure depicts how it takes five months - or 153 days - to become profitable, and in the figure below how the increase in CRC and CAC result in >540 days. The business model of the latter is very prone to churn.
+
+
+
+			DO NOT BLEND TIERS TO CALCULATE PROFITABILITY
+
+			You must calculate the time to profitability - and this is important - separately per each tier of your business, and sometimes even per vertical. For example it may take a lot longer to make a profit selling into a medical vertical based on the compliance that is needed.
+
+			OVERLOOKED COSTS THAT SKEW PROFITABILITY
+
+			Beware of the hidden cost across the cost centers:
+
+			 				Growth Hackers, for online/self service sales, as well as lead generation it is popular these days to leverage growth hackers, these are often senior sales engineers reporting into a “Skunk Function” in the company.
+
+				Tools, the cost of sales tools once was limited to a CRM license but today the costs go well beyond that with Social Selling Tools, Sales Prospecting Tools, Sales Automation Tools, Online Collaboration Tools and Content Management Platforms to name a few.
+
+				Sales Engineers, some SaaS services require a certain amount of integration with the customers’ infrastructure, which requires a Sales Engineer to help the customer understand what is and isn’t possible.
+
+				Community Management, to retain a customer today requires that you help your customers build a community to share best practices. These community events are best organized locally, and the cost to do this across a region need to be considered.
+
+
+
+			What this shows is that both the CAC and CRC have a major impact on profitability. Given how effective online teams can be in limiting these cost drivers, you now understand how important it is in this new environment to set up those teams and set them up correctly. We discuss this topic in detail in the next blueprint.
+
+
+
+
+
+		 			case study 3
+
+
+
+			The Problem
+
+			A successful SaaS business offering a CRM solution had a problem. The business had established three tiers, with Annual Contract Values at $10,000 (Tier 1), $25,000 (Tier 2), and $75,000 (Tier 3). It was spending its most expensive sales resources (Field Account Executives or FAEs) on closing three year, Tier 3 contracts along a 9 to 12 month sales cycle. Since it was a privately held company it was recording these multi-year deals when they closed, celebrating them, and paying out commissions to the Rainmakers.
+
+			The annual revenue being made from these deals was sizable but since the volume of deals was low, it barely covered the cost invested over time to acquire the client (CAC).
+
+			Moreover, the successful FAE team that closed these Tier 3/Enterprise deals was put in charge of pursuing the Tier 2/SMB opportunities. These Tier 2 opportunities were destined for a higher velocity - but the FAE’s approached them with a Tier 3, process, skill, and toolset - a very expensive proposition.
+
+			On the opposite end of the spectrum, the smaller Tier 1 deals were easy to close - and they closed at a high velocity. At first glance this appeared to be a very valuable segment, although hampered by a high churn. Management believed that winning 10 and losing one or two was OK. Calculating how much time it cost to achieve profitability based on CAC calculations indicated, that the “model” should work.
+
+			However a closer look at the numbers revealed that the Tier 1 deals were hampered by high customer retention costs. The CSMs had to onboard each client in a very manual process. Due to the large number of Tier 1 deals, they incurred an increasing monthly cost to keep them all happy. This cost was growing over time.
+
+			After evaluating the situation, we believed a significant matching exercise was in order.
+
+			The Change
+
+			We started by taking a look at both the CAC and CRC for each tier.
+
+
+
+			For Tier 3 the client was not in a position to change the CAC and CRC as these deals kept the lights on, and thus were not to be considered a priority. As such our advice was to keep the Tier 3 deals isolated. We recommended to put a clause in the service contract that allowed for a price increase, even in multi-year agreements, based on increased functionality.
+
+			For Tier 2 we recommended that the client build an inside/online high velocity sales team that focused on the sweet spot - SMBs - which yielded the most profitable combination of speed and value (MRR), at managable cost (CAC+CRC). This change was solidified as a competitor was taking aim for this market and making great strides.
+
+
+
+			Tier 1 required either a reduction in CRC or a price increase. Based on this insight, the client developed a feature which reduced the labor required to service accounts, thereby lowering CRC cost. We also advised the client to install a Customer Success Management Platform to manage the large number of Tier 3 deals in a scalable way,
+
+
+
+			The Result
+
+			The SDR/AE team that the client recruited took about 45 days to get its footing, after which it started to streamline Tier 2 deals. The team utilized interns in the MDR and SDR position. With a little bit of training these MDRs/SDRs were more than able to close deals, at a lower salary - reducing CAC. The size of the Tier 2 funnel skyrocketed.
+
+			The client is currently looking at a Customer Success Management platform to help the team support the growth in customers, and lower CRC across all of its tiers, while expanding on its 5-star customer service rating. It continues to struggle with the Tier 3 (Enterprise) accounts.
+
+
+
+
+
+		 			4. Role of Online In Sales
+
+
+
+
+
+			Until now we have been using the device of a five stage model to describe the customer journey, and we have mapped it to the activities of your sales team.
+
+			But things are not so simple. In fact, the real customer journey looks nothing like a funnel. It’s something like a meandering path. It starts and it stops based on all kinds of things you can’t control. The customer’s level of interest. Their workload. Their personal life. To say nothing of the fact that when other decision makers get involved the path doesn’t just meander, it makes U-turns! Think of what happens when Procurement gets involved, or, heavens forbid, Legal.
+
+			It’s a wonder you are able to staff to meet that meandering path at all. And yet there is a big caveat to all this unpredictability and complexity. The caveat is this: your online presence.
+
+			Because no matter what an individual buyer does, they will always come back to your website if there is valuable information there for them. And, crucially, no matter what tier of customer is involved, all large SaaS deals begin online with a buyer checking out your offering via your website. - way before a sales professional gets involvedsee I
+
+			Think about that. Despite that horrible meandering path. Despite the obstacles raised by multiple decision makers and changes at the client’s organization, all your SaaS business will begin with your online channelsee II.
+
+			And this channel is one over which you and your sales organization have complete control. You can control the amount of information available, the type of information and the pacing of its release. You can control the user experience and automate follow ups to take advantage of best practice - consistently. And that is just in the tier 1 self-serve segment.
+
+			There are benefits to a solid online channel to your Tier 2 and Tier 3 efforts as well. Most importantly, a well thought out online channel allows your SDRs to close at high velocity. If an SDR has a client on the phone that needs a solution right NOW, why kick it over to an AE who will take the client unnecessarily through a discovery process, potential trial, and other time consuming steps? Why not train the SDR to close ready-to-go business online, right away?see III
+
+			Let this not take away from the role the AE play. Do you notice in our blueprint the complexity of the Enterprise sale, requiring departmental sellingsee IV? The more people involved in a decision, the more hand holding is required. A function the (F)AE specializes in.
+
+			In that context, why would you not fully optimize the one segment of the journey in which you have complete control, and to which your clients will always return?
+
+
+
+
+
+		 			blueprint 4
+
+
+
+
+
+			Today’s sales has a different anatomy, requires a different skillset, and is tool-assisted. Let’s step through the anatomy of a regular sale:
+
+			1 — Mark reads a blog post describing an issue he is experiencing
+
+			2 — He clicks on a link that takes him to a web-site, he is interested
+
+			3 —Mark signs up for more insights, and gets immediate access
+
+			4 — Laura the SDR at BCD.com sees Mark’s request, and accessing the content, she checks his background and contacts Mark
+
+			5 — Mark and Laura chat - Mark agrees to a call. He invites his team
+
+			6 — Laura sets up Jill the AE who notices that Mark’s team is researching based on all the web hits and clicks on the articles she provided
+
+			7 — The team has a great disco/demo call. Mark asks for a proposal
+
+			8 — Jilll sends her proposal to Mark - it shows up on her forecast
+
+			9 — The deal goes dark. Mark does not respond to Jill’s inquiries
+
+			Jill drops the deal from the forecast. It impacts her performance
+
+			So what went wrong? Traditional sales teaches that we must establish a critical timeline, RoI, value prop etc. That works for a $80,000 deal, but at $500/month Jill’s company cannot afford to do this at any scale.
+
+			Social selling gurus will tell you that Jill can use LinkedIn to establish a relationship with Mark’s boss. Mark’s boss however will simply reply to her inquiry - cc’ing Mark, and with it destroy the trust. Dead deal.
+
+			Instead you should use online skills, tools and content;
+
+			8 — Jilll SHARES an online version of her proposal which lets her track views, instead of sending it as an attachment
+
+			9 — Mark tables her proposal. Jill keeps sharing BEST PRACTICES with Mark. Continuing to build thought leadership
+
+			10 — Weeks later Mark opens Jill’s proposal. Jill instantly receives a NOTIFICATION, and she contacts Mark immediately
+
+			11 — Mark who just obtained BUDGET works with Jill on a revision
+
+			12 — Mark SIGNS-UP for a 12 month contract
+
+			This approach requires a process - optimized for online selling.
+
+
+
+
+
+		 			case study 4
+
+
+
+			The Problem:
+
+			In 2014, a major enterprise software company had acquired a hot up-and-coming startup in the communications space. The startup was excited about tapping into the new resources it just “received”. The startup was a SaaS company and its buyers were exclusively online and accustomed to immediate results.
+
+			The clash of cultures and markets meant that the communications company could not move as quickly and responsively as it needed to. For example, when a new lead came in, it first had to run through a process to verify if this was an existing account, followed by informing the account manager, and agreeing to a plan. This process took several days and when a prospect was contacted, the person had long forgotten why they engaged.
+
+			The Change
+
+			The parent company realized that it needed to adapt its processes to the new environment and fully deploy an online offering focused on immediate customer response - in essence qualifying and contacting customers in real time. This high velocity online path would be the key to success.
+
+			The acquiring firm is now in the process of transforming its processes, tools, skills and its SaaS offering with the following goals in mind:
+
+			 				Real time lead qualification and outbound contact by SDRs
+
+				A fully self serve option which allows buyers to experiment with the service independently of sales help
+
+				A follow up online marketing program which moves customers through the sales funnel based on their online activity
+
+
+
+			The Results
+
+			The key in this scenario is that the acquiring company realized the need to adapt its sales strategy, and its process for an online world, and is moving aggressively to implement it.
+
+			Not only is the startup’s service being adapted for online sales, but the parent company is now evaluating the need to follow the same approach with its core offering as well.
+
+			First understand your client’s online journey and then match your process, tools, content and skill set to it.
+
+
+
+
+
+		 			5. Evolution of Sales
+
+
+
+
+
+		 			Sales organizations have changed in recent years. That change has involved a persistent trend towards specialization in sales roles and an increased emphasis on process rather than individuals. Skills, tools, and content have developed in support of that specialization.
+
+			The simplest version of the sales team was the mom-and-pop shop in which the owners did everything - selling, servicing, and growing. This organization sought to make every customer happy and emphasized a personal touch. The people involved were necessarily generalists and did not have special tools, skills, or content to drive scale.
+
+
+
+			The next development came as sales teams became professionalized. Rainmakers became important players as the organization sought to “always be closing.” Most sales teams were on this product sales model for decades and the skills and tools were focused on account executives.
+
+			Many account executives traveled to clients across the world, acting as “information butlers.” The best ones would use this opportunity to exchange their expertise for valuable information about the client’s situation. This information exchange differentiated their offer and informed the client about specific features.
+
+			These product centric sales professionals used specification sheets in the form of printed leaflets, to stay on point. Today you can still see this kind of sale, which is referred to as a “talking leaflet.”
+
+
+
+			The SaaS revolution introduced the next period of change. In the early days of SaaS there was a maniacal focus on leads which would convert into deals and generate compound revenue growth. Marketing Automation Systems (MAS) became the critical tool to generate and develop leads. Marketers needed material to hook a client and content marketing was born.
+
+			In order to process all these leads sales teams created specialized functions based on Inbound/Outbound Lead Management. These functions provided Sales Qualified Leads for Sales Managers to close*.
+
+			At this time sales organizations evolved from a product-centric sales approach to a solution-centric sales approach. Sales professionals started to use consultative sales techniques, leading with questions to develop a value proposition validating a monthly service over a perpetual license.
+
+			Today the SaaS revolution continues with greater specialization. As we have noted, Customer Acquisition and Retention Cost continue to rise. This requires further specialization in Lead Management with partnerships being assigned to a Business Development Representative (BDR). And, we have moved to a three tier structure as we discussed in Chapter 1. Each of these sales tiers needs to have its own specialized tools, skills, and content. In this latest approach insights are used to attract the right kind of buyers, gain their trust, and establish a relationship. The next blueprint offers a schematic view of a SaaS 2.0 sales organization build around this model.
+
+			* Recommended reading: Predictable Revenue, Turn Your Business Into a Sales Machine with the $100 Million Best Practices of Salesforce.com by Aaron Ross & Marylou Tyler
+
+
+
+
+
+		 			blueprint 5
+
+
+
+
+
+			BASIC ROLE AND RESPONSIBILITIES ON THE SaaS SALES TEAM
+
+			MDR: Inbound Lead Development and Qualification
+
+			 				Receives requests from clients who want more information (MQLs)
+
+				Stack ranks MQLs by priority, hot ones are identified using skills and tools
+
+				Researches the clients and contacts them ASAP
+
+				Qualify customers Qualfied clients (SQLs) are assigned to FAEs (Enterprise), AEs (SMB), or Self-Service
+
+Disqualified clients are tagged and some may go back to nurturing (or Self-Service)
+
+
+
+
+
+				When lead gets accepted the MDR gets compensated
+
+
+
+			SDR: Outbound Lead Generation
+
+			 				Develops SQLs from:a top 50 list from the AE, finds entry points
+
+a target market from management
+
+
+
+
+
+				Researches and identifies qualified targets
+
+				Engages in an insightful conversation through email, phone, chats, to understand the customer’s needs
+
+				Qualifies clients based on fit Qualified leads are assigned to an FAE/AE
+
+Disqualified leads will be tagged and some may go back to nurturing (or Self-Service)
+
+
+
+
+
+				When the lead gets accepted the SDR gets compensated
+
+
+
+			BDR: Partnerships and Strategic Relationships
+
+			 				A strategic partner gets assigned to a BDR
+
+				The BDR trains the partner team, oversees integration, and raises mindshare within the partner
+
+				The BDR organizes frequent events, that invites the partners clients and with it raises awareness
+
+				The partner generates and develops leads in a targeted market, and the BDR qualifies the leads
+
+				Qualified Leads (SQLs) are assigned to an FAE, or an AE
+
+				When the lead gets accepted the BDR gets compensated
+
+
+
+			AE: SMB Sales/Online Sales
+
+			 				Receives an SQL, schedules a discovery call
+
+				Performs a diagnose, and offers a show and tell demo
+
+				Provides the client with valuable insights
+
+				Assists the client through the selection process
+
+				Processes the paperwork
+
+				Schedules the onboarding call
+
+				Transitions the client to the CSM
+
+				During the entire process the AE is held accountable for the contract value, win ratio, sales cycle, contract terms, and payment terms
+
+				Creates a top-50 target list for the region (goes to SDR)
+
+
+
+			FAE: Enterprise Sales/Field Sales
+
+			 				Receives an SQL, and schedules a discovery/demo call
+
+				Perform a diagnosis on the clients problem and a fit for the offered solution. Identifies the symptoms and impacts experienced
+
+Understand the clients purchasing process
+
+Gains insight on the departments and people involved
+
+Establishes the corporate goals
+
+
+
+
+
+				Agrees with manager if the sales investment is warranted
+
+				Assists the customers through the buying process by providing valuable insights, this may include onsite support to perform demonstrations, and gain further insights. Assists the client through the purchasing process
+
+Schedules the onboarding call
+
+Transitions the client to the CSM (briefing)
+
+Participates in the onboarding call
+
+Works with the client on use and adoption across different teams and departments across the company
+
+
+
+
+
+			CSM: Onboarding to get to first use
+
+			 				Schedules a kick-off. Sets up a communications plan
+
+				Reaffirm all expectations, goals and objectives
+
+				Oversee integration/installation/launch of the service to achieve first use (LIVE) within budget, by set date
+
+				Monitors the performance of the service (usage)
+
+				Implement important triggers; health alert, upsell alert, cross sell alert, renewal alert, and many more)
+
+				CSM/AM: Achieve recurring use and earn upsell and cross sell
+
+				Ensures the service is persistently used, and new value points are established, and communicated
+
+				Builds a community of advocates inside the account
+
+				As expansion opportunities present themselves, the CSM decides the best plan of action. Renewal maybe done by the CSM, but a sales professional (AE/FAE/AM) may be alerted to help the client through the buying process
+
+				Recurring use is achieved and with it MRR secured
+
+
+
+			INTERNET: The Self-Service Channel
+
+			 				Smaller deals, disqualified leads, or clients by their own choice opt for a self-service experience
+
+				Watch a video, and try out the service
+
+				Client s are monitored, and re-enter the qualification cycle based on behavior
+
+				Clients launch themselves and are closely monitored to avoid dissatisfaction
+
+				Some clients will opt for paid installation support for the purposes of integration
+
+				Live clients are monitored for usage patterns and use of community support
+
+				Some clients will opt for premium support
+
+				Low cost MRR is established, and predictive analytics identify upsell opportunities
+
+
+
+
+
+		 			case study 5
+
+
+
+
+
+			The Problem:
+
+			A ground breaking start-up had established a remarkable position in its human capital space. It had been growing quickly and the board requested that it scale up its sales efforts. This required processes which the firm lacked.
+
+			It began by hiring a number of Account Executives. Management reasoned that bringing on more AEs would lead to more deals. Yet the responsibility for generating leads fell to a single market development representative (MDR). This single resource acting on inbound leads could not deliver enough sales qualified leads (SQLs) to feed the hungry Account Executives, even with reasonable closing ratios.
+
+			So the AEs, under pressure to perform, began to do their own lead generation (outbound) to plug the gap in their monthly quota. In the first few weeks this worked and was acclaimed. Sales leadership was excited and forced the team to do more outbound. in the following months the growth stalled once again, as the AEs simply could not generate enough leads to feed themselves.
+
+			What became slowly visible to its leadership team was that they had run into a scalability issue - AEs were going out to load up their funnel one month, to close these deals the next month, to load up the funnel the following month etc. They had just doubled their sales cycle!
+
+
+
+			The Change
+
+			The company quickly realized they needed to implement a proven blueprint, one that distinguished a clear separation between lead generating activity - generating SQLs - and closing activity - securing commitments (WINs).
+
+			This specialization is one of the most important facets of the new online sales organization. In fact, we advised this executive team to redeploy resources away from the AE role, into the SDR role. Contrary to what might be expected, fewer people “closing” can result in more sales.
+
+			The Results
+
+			The company quickly realized that sales qualified lead generation was their highest priority. The new structure resulted in a shorter sales cycle. This directly affected the CAC as they now were using specialized lower cost resources to generate more business.
+
+			They were able to scale sales without losing sales velocity. The company is now able to scale using this exact model. They are now scaling a model that works! Importantly, the new configuration also provides a ready promotion path for junior sales employees, a topic we will discuss in a later blueprint.
+
+
+
+
+
+		 			6. Data Driven Sales
+
+
+
+
+
+			If you have read more than three business headlines in the past two years, you probably know about Big Data. “It’s Big Data!” “Do something!” yell the headlines and you suspect they are yelling at you and you have the uncomfortable feeling that you are missing something. W’d like to tell you to relax. Don’t.
+
+			The headlines are right. Big Data is here to stay and it is no time for you to relax. You need to make changes to your organization to take data into account. That said, while you can’t relax you shouldn’t panic. Because the effect of Big Data on the way sales does business is already known…you only have to look as far as that other discipline, marketing, to know how things will play out.
+
+			There are two things that are going to happen to your sales organization. The first is that you are going to have to start measuring flows instead of snapshots. We’ll talk about what that means. The second thing is that you will need to hire specialists to analyze your data.
+
+			Think about how you measure and forecast performance. If your organization is at or slightly better than average, you manage to input your pipeline information into your CRM once per month or maybe even per week. During your pipeline review you look at the volume and value of the leads at each stage. And when you forecast for the following month or the following quarter you make roughly the following statement: “Well, Bob did $200,000 in sales last quarter, so I think that this quarter he will do about $250,000.” You would not be alone in doing things this way - by looking at a snapshot of your funnel and forecasting based on a snapshot of the most recent period. Using Big Data means looking at flows, and it means looking at them in real time.
+
+			Looking at flows means looking at ratios when there are potentially dozens or even hundreds of them, and doing it daily even hourly. These flows include things like “what is Bob’s ratio of Monthly Recurring Revenue to Sales Qualified Leads?” or, “what is Sally’s ratio of Commits vs. SQLs.” This will tell you whether we should hire more people like Bob or find out what Sally is doing right.
+
+			In order to look at that information in real time, you need to have quality data available in real time. So the monthly CRM update fire drill your salespeople hate is no longer enough. You HAVE to get the data into the system in real time, and there are only two ways to do it. One, start having public floggings of your salespeople if they do not enter every action taken in the CRM system, which is still not going to work. Or, two, use systems that automatically register the data associated with sales activity. We recommend the latter. Once you have those systems in place then you can start answering the flow questions necessary to tweak your business.
+
+			You are probably asking yourself “Ok, I get that I should be looking at ratios - which ones?” The fact is that asking those questions is a data analysts job, and tomorrow’s sales organization is going to have data analysts just as surely as today’s marketing organizations have data analysts. Do you see where this is all heading? As a sales leader you are no longer going to be running a vicious squad of hunter gatherers all focused on closing deals. You are in fact going to be managing a multifunctional team that is creating content, developing leads, analyzing data, and solving customer problems long after the sale. It is, in fact, going to become a microcosm of the entire business. Be ready for it. We have found it is necessary to measure, at the absolute minimum, the raw number of Suspects, MQLs, SQLs, Commits, Live accounts, and MRR.
+
+			This allows us to know where our business is coming from in a given tier. To simplify, it lets us know not only that Johnny is generating more SQLs and MQLs than Suzy and that we therefore want to hire more Johnnys. It also helps us establish how many inbound leads we have and at what cost, versus our outbound leads and their cost. We can then also compare which of them are generating more revenue.
+
+			Importantly, we believe you should review individual and POD pipelines as well (we’ll talk about PODs in a later chapter), because conversion rates and volumes can vary significantly.
+
+			Measuring these absolute minimum data streams requires good data entry - which is where most organizations fall down. So we encourage not only the discipline of data entry, but to use as many systems as possible that automate the data gathering. We also recommend hiring a data analyst or creating a data analyst subset of responsibilities as soon as the revenue base allows.
+
+			Realize that not all leads are created equal. We often see boardroom conflict due to miscommunication about what constitutes a Lead. Comparing apples to oranges doesn’t solve problems, and we have found that using the following terminology helps clear the air.
+
+
+
+			In Blueprint 5 we showed the various players in the new SaaS sales environment as well as the points at which they interact. Those interaction points are the points we want to track with our data measurement system, and the ratios between those points form the lifeblood our our data-driven organization. Against those standardized measurement points we can now generate standard reports, and those reports are turned into standard dashboards.
+
+			DIFFERENT KINDS OF DATA
+
+			When we zoom on the pipeline generation activities in Blueprint 5 we can start to see how to manage against performance. For instance, we can look at the following:
+
+			I) VOLUME DATA: Measurement points that track volume by directly counting events such as MQLs (point #3), SQLs (points #11/#12), and WINs (points #21/#22).
+
+			II) CONVERSION DATA: Ratios between measurement points provide important conversion ratios. For instance, we note that 100 MQLs (point #3) resulted in 55 SQLs (point #11), a 55% conversion rate.
+
+			III) PERFORMANCE DATA: We can extrapolate data across multiple measurement points. For instance, we can examine the MRR generated by a single marketing campaign in 30 days, length of a Sales Cycle, churn percentages, upsell percentages, the pipeline created per SDR at a given velocity, and/or the Client Acquisition Cost of the online team vs. the field team, and so on.
+
+			IMPORTANT: In a multi-tiered sales organization it is important that you structure your dashboards to provide these insights across the different tiers of your business. It is important to do this because the cycle and size of the enterprise business will mask the smaller cycles and sizes of your SMB and self-serve tiers.
+
+
+
+
+
+		 			BLUEPRINT 6
+
+
+
+
+
+		 			case study 6
+
+
+
+			The Problem:
+
+			A prominent Marketing Automation Company secured new financing to grow, the company hired a team of SDRs to increase the pipeline for its Account Executives. However, the company had a hard time hitting its MRR goals.
+
+			A series of heated discussions took place, with finger pointing between marketing and sales. First the VP of Inside Sales was asked to produce more leads for the Account Executives. She pointed at the VP of Marketing demanding more MQLs. The VP of Marketing was frustrated: he had just spent an incredible effort on all kinds of marketing programs.
+
+			The Change
+
+			This is a perfect scenario to let the data do the talking. The data as depicted in A), B), and C), showed that the Inside Sales team was in fact generating a very high volume of qualified leads. So where did the breakdown occur? Let’s take you through the analysis.
+
+
+
+			A) After a great Jan/Feb performance measured in WINs, AE1 crumbles in March. The AE seems to have an issue closing.
+
+			B) The WIN ratio indicates that the conversion of SQLs into WINs dropped of? Was AE1 slacking off? Or was AE1 being fed with bad leads?
+
+			C) Leads by source indicate that the SDR increased (outbound) leads in March as she tackled a new market while inbound leads remained steady. Did the SDR stumble into a new and bad market?
+
+			Here was our diagnosis: When we analyzed the quality of dropped leads we found that AE1 was fairly new with the company and was instructed to reject SQLs that did not make a decision in 90 days, or in deals without a decision maker involved. These leads went into a big black hole - no action taken. So why did these SQLs get rejected?
+
+			We visited the SDR and found that he was very skilled in having detailed conversations with the clients. In these conversations the clients disclosed that they were spending money with a competing incumbent supplier. But they also disclosed that they were open to change, it would just take 4-6 months for the contract to expire. The SDR deemed this was within the realm of the AE to work with. Sharing this with the team cleared the air, and the team now focused on solving the problem.
+
+			Action 1. Setup a proper hand-off process of the leads, between the SDR and the AE. Where details such as an incumbent were discussed.
+
+			Action 2. Train the AEs in enterprise selling. In particular establishing a critical event timeline, and how to dislodge an incumbent.
+
+			The Result
+
+			The issue was addressed in a matter of days. But more importantly, the clarity provided by the data on the number of leads, the reasons for rejection, and the subsequent aging, made diagnosis and prescription possible without recrimination, improving the working relationship between marketing and sales leadership.
+
+			Important
+
+			I hope it dawns on you that it took the team months to be alarmed. And this is undoubedtly the biggest issue! Today you need to use real time data, to take immediate corrective action.
+
+			We have seen a number of clients who offer only one career path for the SDR - and that is to become an AE. This causes significant issues where in some cases top performing SDRs are promoted, to become mediocre AEs. We will discuss in later chapters that we must provide career opportunities for those who wish to remain an SDR, where they play (one of) the most pivotal role in SaaS sales.
+
+
+
+
+
+			7. Saas Sales Processes
+
+
+
+
+
+			We put a rocket on the cover of our book for a reason, and that reason is that a rocket represents the culmination of what is possible when you carefully design a system of trial and error to improve incrementally.
+
+			We know, sales is not rocket science. As sales professionals we have heard that way too often in fact. But we believe deeply that sales is not an art. It is a science, and it is becoming more of a science each day. And just like astronauts are no longer balls-to-the-wall test pilots but instead trained engineers, the men and women who practice sales today are highly trained, data driven professionals who rely on process to gain incremental improvements.
+
+			So what is it that sets apart your rocket science sales organization? Process. Documented process that results in controlled experimentation and deliberate learning which leads to success at scale.
+
+			So when we hear about sales organizations that lack the ability to forecast accurately how the month will end, or when only 60% of sales professionals hit quota, we ask is that a problem of bad performers? Bad sales leadership? A bad service? The wrong clients?
+
+			We say no ... we say you simply lack the process to learn and improve on. Or to nicely close out our analogy - you are trying to launch a rocket to Mars without having built a process that results in a Mars landing as the inevitable culmination of a process.
+
+			Whether your process begins on a whiteboard or as a discussion of the draft we have created for you here - you need to buy into and document it. Then you can scale.
+
+			There is a whole new set of online skills that the various roles in a sales organization have to take on. While many of them may seem basic, there is a right way and a wrong way to do each.
+
+			Blueprint 7 highlights the fact that each role in the online sales organization plays a role at a specific point in the customer journey. It is worth noting that some of these roles actually do roughly the same activities - for example an SDR has to pitch, handle objections, and close on a meeting, just as an AE has to pitch, demo, handle objections, and close on a deal. However, the timeframes for an SDR are highly compressed - which makes the SDR role a great training ground for AEs.
+
+
+
+
+
+		 			blueprint 7
+
+
+
+
+
+		 			case study 7
+
+
+
+			The Problem
+
+			An up and coming SaaS company faced a problem. It had a great set of salespeople, but performance was uneven, and it was not clear what activities were leading to success. Many firms face this situation - sales can sometimes seem like a black box process, hence all the literature.
+
+			In particular, our client had one top performer one month, and a different top performer the next month. There were no apparent rhyme or reason for the changing situations.
+
+			They realized that if they simply could have multiple sales people perform at the same time, they would crush the year.
+
+			The Change
+
+			We do not believe that there is a one-size-fits-all solution to improving your sales process. But we do believe that process must be documented in order to be improved, and that it must be understood in order to be documented. We followed a 3 step process.
+
+			STEP 1: We encouraged our client to catalog the critical skills needed to close a deal in their industry. What this exercise uncovered was a series of extremely simple tasks: Sending Emails, Following Up, Scheduling Demos. Each of these tasks was a link in the chain, and each could potentially be broken down into sub tasks. We helped the client document all these processes.
+
+			STEP 2: We then captured the best practices. What did the top performers do to make them excel. Capturing these best practices across different tasks quickly turned into a Playbook.
+
+			STEP 3: Practice, practice, practice. We tested various formats and found that the most effective model was a short training session (5-10 minutes) that explained the best practice for a given process. We followed this with roleplay coaching by peers, followed by doing it on a call with a buddy, and then doing it independently.
+
+
+
+
+
+			The Result
+
+			Would you believe that simply going through this process with their teams resulted in measurable improvement? To be clear, we suggested no new processes or improvements, we just documented what they had and let them capture what their winners were doing. Once the catalog was in place, it became straightforward to start capturing best practices for each skill and add it to a team-wide playbook. The best emails start like X. When scheduling demos, make sure to do Y.
+
+			This Best Practices Playbook was highly specific to the client. It only identified what they were already doing well, and allowed the teams to add to it as circumstances changed.
+
+			The overall skillset improved drastically. Suddenly the whole team was emulating the top performers. Oversights became obvious as gaps in the process, and new steps were introduced.
+
+			For example, a junior team member figured out that trials were a problem and a new play was born: “Stop doing a trial for every customer, since 25% of customers do not even want a trial.” Also, redundant steps were cut out, making it possible for even an SDR to close a client immediately, which increased overall velocity.
+
+			A welcome side impact was that the playbook and process could be used by new employees, who used this as part of their onboarding process. This was such a success that the process, the playbook, and the video training now are used as part of the recruiting process.
+
+			All this simply by documenting and describing, “by Design.”
+
+
+
+
+
+		 			8. Tools as a Force Multiplier
+
+
+
+
+
+			As students of success, we are fascinated by how organizations of people rise and fall. We are constantly struck by how quickly Goliaths can be taken down by puny Davids with their little slings. It’s a story that gets repeated over and over again in history. The scrappy competitor, the lumbering giant, and the unexpected tool. American Indians falling to ragtag bunches of musket-armed Spaniards.
+
+			And if you think that those lessons of history do not still apply to the SaaS world, you would be wrong. Because all tools are levers - they magnify power and help weaklings overcome behemoths!
+
+			We see a similar picture developing in the world of SaaS: superior road warriors are being outmatched by less skilled sales reps powered by effective communication and a new set of sales tools. The road warrior builds lasting and meaningful relationships one at a time - slowly working his way to the top. But now an online account executive with basic training and a LinkedIn profile can identify and establish interaction with a senior decision maker in about 15 minutes.
+
+			How’s that for a sling?
+
+			This explains why some of the fastest growing SaaS businesses are sales enablement tools. The entire market was arguably created as a product of the CRM space, and the years since have seen the rise of hundreds if not thousands of SaaS tools to make salespeople more effective and productive. However choosing among those tools and deploying them correctly has become an area of specialization all its own.
+
+			We think it is important for you to organize your approach to choosing and deploying tools in support of your sales efforts. Having identified the critical tasks in your sales process, as part of Blueprint 7, we can now look at each task and figure out if we can do these tasks better with a tool.
+
+			Here are some considerations that may help you pick the right tools for your team:
+
+			 				Does it improve the customer interaction?
+
+				Does it increase coverage from 8hrs a day to 24/365?
+
+				Does it lower response times from hours to minutes?
+
+				Does it improve the quality of the responses?
+
+				Does it provide accurate insights (data) to understand what works and the reasons and metrics behind its working?
+
+				Does it improve work conditions for the staff
+
+
+
+
+
+			Workflow for the outbound sales process
+
+			O1. SDR receives a top-50 account target list from the AE, and starts the research
+
+			O2. Finds contact details online, downloads into CRM and sets up a workflow
+
+			O3. Reaches out to the person and provide insights via email, InMail, social media, and/or phone call
+
+			O4. Upon engagement, SDR acts IMMEDIATELY. Provides a brief pitch “relevant” and concise for the client
+
+			O5. SDRs performs a diagnose on the clients situation, asks smart questions, and address reservations while qualifying the client
+
+			O6. Upon qualification/interest SDR schedules an online meeting with the client and the AE, to perform a disco/demo
+
+			O7. Sends out a professional invitation the client uses to brief people internally. SDR updates CRM with notes on the opportunity
+
+			O8. 1 Hour before the meeting the SDR sends out re-confirmation
+
+			O9. SDR opens the call for a transfer to the AE
+
+			Do we need a tool here?
+
+			By separating the activities we can identify where we currently use and/or need tools to increase efficiency, effectiveness and user experience. Each tool provides a data feed that is logged into the CRM. Part of the value of today’s tools is actually in the data they generate. As we’ve said, this data allows for educated decisions about how to optimize the functions.
+
+			Map the tools into a Sales Stack
+
+			The tools needed by an SDR are in many cases very different from those needed by an AE, a CSM etcetera. By mapping these tools into a sales stack (see next page) we can make sure they function together, and avoid overlap and/or gaps.
+
+			Platforms vs. Application Services
+
+			When creating your map, it is important to distinguish between Platforms and Application Services. Platforms are like the operating system of your organization, the iOS to your iPhone. Once installed they house your data and enable your decisions. Do not pick them lightly. Examples of Platforms are your CRM and MAS.
+
+			Application services perform a very specific function and can be replaced if necessary. They feed data into your platforms.
+
+			Deploy by Design
+
+			We don’t think it is within the scope of this book to evaluate the specific tools and platforms out there for you, not least because they must match your infrastructure. However, as with other topics, our primary advice is to do things purposefully and by design. Identify your needs, evaluate what is out there, and make sure it works together effectively before pulling the trigger.
+
+
+
+
+
+		 			Blueprint 8
+
+
+
+
+
+		 			case study 8
+
+
+
+			The Problem
+
+			One of the largest SaaS Service Providers in the Educational space was having difficulty scaling its sales efforts. Unlike in other industries, they found that their prospects preferred to speak on the phone versus approach via email/InMail. The team of millennial SDRs, raised in the online world, had a difficult time connecting with them.
+
+			It turned out that the SDR had to make between 10-15 calls to get through to a person. The amount of effort they had to expend on this activity made it impossible for them to close enough business. They were spending all their time trying to get in touch with the right person rather than closing business.
+
+			As a result they lost their positive vibe, as the combination of amount of calls needed to get to a person and the rejection rate simply fatigued their efforts.
+
+			The Change
+
+			To analyze the problem we created a process/task chart to identify the constraints in their workflow. We quickly realized that this problem was one which could be easily fixed using the right tools. In particular, we deployed a dialing service which made all the calls on behalf of the SDR. The service integrated with the CRM and made it possible for the SDRs to only talk with live people on the phone. The service by itself cost a fraction of the opportunity cost of SDR lost time.
+
+			The Result
+
+			Implementing a dialing service radically improved performance, increasing the close rate by almost an order of magnitude. SDRs were now talking to 50-100 prospects per day rather than the 6-10 they had been managing prior to implementing the new service.
+
+			A few other observations of note:
+
+			Due to the increased “talk to a client” rate, the SDRs became trained in a matter of days. They became more concise and on point in their pitch and qualification. They simply progressed faster.
+
+			Through the use of tools, it was very easy to allocate calling time to different employees. We learned as a best practice that it was better to put 2 SDRs in a room and tag-team during training, which also improved development speed
+
+			Due to the simplicity of the operation we started to rotate executives and senior managers into the role of cold calling, just so they could experience a client’s feedback first hand.
+
+			Employee morale improved overnight - top professionals love using top tools
+
+			The key in this case was to diagnose the problem correctly and apply a technology and platform that addressed the problem on multiple levels, quality, quantity, ease of use, and as a result the right combination of tools acted as a force multiplier.
+
+
+
+
+
+		 			9. Content as the Fuel
+
+
+
+
+
+			We love “Breaking Bad.” Great show. And no, we aren’t going to suggest that you run your sales team like a methamphetamine production racket. What we would like to point out is that neither of us knows what network Breaking Bad ran on. It’s just on the web now.
+
+			Because of the internet no one cares where good content comes from. It only matters if it is good content, and the result of this has been an explosion in quality programming. Do you see where this is going?
+
+			This is happening in the B2B world as well. Customers expect to find great content at their fingertips. And they don’t want a ton of branding and promotion around it. For better or worse, this is the standard to which you are being held.
+
+			The good news is that if the old saying about content being king applies, then creating good content holds the keys to the kingdom.
+
+			This is why we believe that the new sales rainmaker is a content creator.
+
+			In this new world the winner is not the traditional scrappy sales guy who is always closing only to see the customer churn after the commission check has been cashed. Instead, the new rainmakers are sales professionals who are knowledgeable on their topic and share their valuable insights online to attract those in need. They personally generate quality leads by providing (references to) fantastic content.
+
+
+
+			Content is the fuel for the sales process. Why? Because it relays insights on the timeframe and pace most relevant to the customer.
+
+			Over the past several years we have noted many changes in the area of content that are of incredible importance for any SaaS company:
+
+			I) The need for content across the entire 5-stage sales process
+
+			Content needs to be available BEYOND the awareness stage. The biggest gaps in this content development for most companies are currently in the education stage and the use stage. Buyers are often overwhelmed with high quality awareness content. But educational content on our clients’ websites tends to be razor thin. Moreover, content that helps buyers with use-cases is completely absent. Further on, recall that the onboarding and expansion stages are the most important ones for achieving profitability. Almost NO content is generated for those stages today. The implication of this is that you have to reallocate budget to generate content for EVERY SaaS stage.
+
+
+
+			II) The need for more visual content
+
+			In a world that is increasingly textual a simple and sincere video stands out from the crowd. Videos are no longer difficult or expensive to produce. We grant that your corporate video, with HD overhead shots of the Golden Gate Bridge may cost a lot, but a simple “how to” video can be shot with an iphone and distributed in seconds. Which of those two options has a better ROI? A quick YouTube search will answer that question for you. Now do not go overboard with animation effects. Instead, talk to your existing customers, prospects, and your sales team and draw up a list of what is really needed, and produce simple, short, and informative visual content to deploy across all 5 stages.
+
+			III) User-generated content
+
+			We live in a world where everyone armed with a phone is a content contributor. The world’s leading SaaS companies embrace this by facilitating systems in which their customers contribute their own content to the process. This in turn impacts all 5 stages of SaaS, and - very importantly - scales. The more users, the more content, the better coverage.
+
+			IV) The role of distribution
+
+			Great content needs great distribution like ying needs yang. Today content distribution is supported by billion dollar distribution platforms like Google and LinkedIn. You need to leverage these tools and make sure your content is easily found by your client.
+
+
+
+			V) Educational content acts as an outbound sales call
+
+			Most firms allocate the bulk of their content budget to the awareness stage. This allocation generally rests on the assumption that everyone has to see the corporate video before they become interested in the service. What we have found is that in real life many prospects stumble upon a piece of educational content because they are actively researching. They then share that educational content among friends - and so the educational content acts as an outbound sales call. This overlooked use case underscores the importance of generating more content for educational purposes.
+
+			VI) Sales, SDRs and AEs are the new content creators
+
+			If you walk into a room full of people interested in your services, who from your team do you expect to lead the conversation? Sales, right? You would expect them to ask questions, listen, and provide insights on how other clients who have been dealing with similar problems have found solutions. Who is having that conversation online? In a modern SaaS organization you should put that responsibility in the hands of the Online Sales professional. They should be able to share their stories (blog posts) at events (groups) and with the network they build over the years (LinkedIn). They should do this day-in and day-out as a natural part of their personality and should not shy away from creating visual explanations using a whiteboard and video. If today’s client is online and the new outbound call is content then it makes sense for your sales professional to be the new content creator. Importantly, they need tools, skill training, and a process for this.
+
+
+
+
+
+		 			BLUEPRINT 9
+
+
+
+
+
+			Build the use of video into your workflow
+
+			As part of our discussion about content we want to take a moment to talk about video. Although the industry is still in the the early stages of understanding the full use of video as part of the sales process, we advise all our clients to build it into their workflows.
+
+			Why the need for video?
+
+			We have seen that it can have a huge impact on SQL generation. As human interaction in business decreases so does the level of commitment. In western societies the physical contact of a handshake has always been the sign of a bond, and in business of a mutual commitment.
+
+			Video is one of the most efficient ways to rebuild that lost bond. The first use case we advise our clients is the use in your social media efforts. Todays sales professionals are young. So, clients look at Linkedin profiles and think “this kid is just out of school”. To offset this impression, a video in which “this kid” speaks eloquently about a problem in the market establishes credibility.
+
+			The next use-case is for seasoned AEs to create a 60-90 second pitch and share that with clients. This pitch is not a proclamation of superiority of services, but rather humbly shares insights about the industry.
+
+			When clients see their AE sharing insights, they have an immediate tendency to bond with this person. We have found that email open rates, after a person has seen a video by the sender, are 2-3x higher than otherwise.
+
+			When a client makes a specific request, most sales professionals turn to email to describe how their service addresses that question. It can take as much as 30-60 minutes to write a response, describing how your service actually works.
+
+			We have found it very powerful to do an over the shoulder shoot by a partner and literally do a show and tell. This increases credibility and authenticity. The important thing here is that it’s not a pro doing the video - video is just part of the communication flow.
+
+			Your customer will be delighted. It took about 5-10 minutes to make, and the visual explanation will stick with your client and reflect well on your people, your service. and your brand.
+
+
+
+
+
+		 			case study 9
+
+
+
+			The Problem
+
+			This case study applies to literally 100% of our clients, all of whom we help develop better online content. The problem is this: the conversion rate for outbound calls has been dropping. Today it can take as many as 15 calls to connect with a person. Email is not the solution. People’s inboxes are being inundated with spam emails that get deleted ruthlessly. Email tool providers now recommend email sequences of 12 emails to get you to connect.
+
+			In response some companies are now using Social Selling techniques, relying on references and mutual friends to establish contact. Yet in just the past year an SDR using LinkedIn could produce one SQL per day adding up to 22 per month. Today that rate is also dropping and currently tracking at 12-15 SQLs per month. These falling conversion rates mean that the number of SDRs required to generate enough leads for your AEs is increasing. In turn, the rising need for SDRs across multiple companies is driving up demand for SDRs in the labor market. Predictably, SDRs are getting more expensive. And, due to the persistent lack of SDR training, conversion rates trend even lower, compounding the impact. The effect is a price spiral in Customer Acquisition Cost.
+
+			This problem does not just impacts just a few of our clients, it impacts EVERY client, and is considered to be among the top problems in the SaaS business.
+
+			The Change
+
+			Revisit the “Knocking on more doors” approach. Just because you are using online tools to do the knocking does not make you a truly online sales organization. We suggest looking at the problem differently. Today clients are looking online to educate themselves and to experience their AHA moment. So we as sales professionals need to provide them with the insights that lead to that moment. Some of those insights have to come from marketing and some have to come from sales.
+
+			To do this, we push our clients to hire and develop content creators. An SDR who provides insights in the form of content. This content does not have to come in a 6-page white paper, it can be a tweet, an article re-shared, a comment made, or other simple contributions. But today’s sales professional does so reliably, thoughtfully, and most importantly, without pushing a sale.
+
+			The Result
+
+			A few months ago - Dan an AE, was informed by his client via email that that he had lost the deal they had worked on together. Dan remembered our advice to use video, and, since he had nothing to lose, shot a 90 second spot in which he shared several insights for the client’s benefit. Impressed, the client changed his mind. Dan did not stop here, he then shared the entire experience in a blog post which was viewed - 1,000+ times, liked - 50+ times, and with - 20+ comments. In 24 hours Dan had secured a deal, and his blog post is now generating SQLs - 24 hours a day.
+
+
+
+
+
+		 			10. The Saas Sales Model
+
+
+
+
+
+			We believe that SaaS selling is a lot like sailing. In sailing the goal is speed in knots per hour, the input is wind, and everything between is a conversion point, including the sails and the sailors.
+
+			In SaaS the goal is MRR in dollars per month, the input is leads, and everything in between is a conversion point, including the tools and the salespeople.
+
+			There’s a lot of variation in how you can maximize speed via the interaction of those many factors, both in sailing and in sales, but at the end of the day both are defined by physics - the quantitative relationship between inputs and conversion points. These define what sails to use under what conditions, how many sailors to staff, and what each of them should be doing.
+
+			In this chapter we discuss the physics of sales and how to staff your team based on your available inputs and goals - we’ll leave the physics of sailing to another set of experts.
+
+			Let’s start with a special number: 78
+
+			The number 78 is n compounded over a 12 month cycle. For example, if you start in January and you acquire one new client [n] every month, and you never lose one, then at the end of December you will have gathered 78 months worth of revenue:
+
+
+
+			This special number allows you to determine, within reason, how much MRR you need to acquire to hit your target.
+
+
+
+			So, with your annual revenue goal and the number 78, you have determined the new MRR you need to secure each month to hit the annual recurring revenue target. Let’s now figure out how to staff against that target.
+
+
+
+
+
+			Starting with our MRR goal we can work backwards based on a set of assumptions about conversion rates to figure out what our throughput should look like. This model is based on our experience, and we encourage you to plug in your own conversion rate estimates if you have them.
+
+			With this information, we can determine both the number and types of sales resources needed to hit $20,000 in MRR for an ARR stream of $2M. At bigger numbers, whether $10M, or $100M plus this works in exactly the same way.
+
+			Of course, most companies at the “beginning to scale” stage do not have these ratios down pat - but we have seen the full range of performance, and the defaults we provide here are a good place to start for most SaaS businesses.
+
+
+
+
+
+			The previous figure shows what types of revenue can affect your model. They include:
+
+			 				Cross-sell: New decisionmakers get involved to buy more/new services.
+
+				Upsell: The same decisionmakers buy more of the same service, for example more seats, or increase the service package at an increased price
+
+				Renewal: The same people buy the same service at the same or increased price when the contract expires, this can be either monthly, quarterly, or annually
+
+
+
+			There are also several kinds of revenue loss scenarios we have to deal with:
+
+			 				Lose a customer, you lose the revenue, the seat count, and the logo
+
+				Lose usage with the same number of customers. This can be a client downgrading its package for all of its seats, resulting in a loss of revenue, yet you are NOT losing them as a customer, nor losing any seats.
+
+				Lose the seats - fewer users inside your customer use your service. Some users may even increase usage. Logo churn is not impacted, revenue churn can even be positive, but your are now depending on fewer seats, thus your up sell/cross sell potential is threatened.
+
+
+
+			WHO IS RESPONSIBLE FOR UPSELL/CROSS SELL/RENEWAL
+
+			It is important to note that there are real differences between various types of SaaS businesses, as outlined in Chapter 2, “not one size fits all”. For instance, the SaaS model of a platform service such as a CRM and that of an application service such as a VOIP service are very different. A CRM platform committed to a $5,000 in MRR for a total ACV of $60,000 often has limited revenue upside, from 1 - 1.2x. In this case the upsell/cross-sell opportunity is treated more like a renewal with perhaps some seat additions. That being the case a customer success manager (CSM) with some training, is likely able to do the job.
+
+			However an application service such as a $10/month communication service is a different creature. Think of a client whose west coast sales team buys a license for 5 seats at $50/month or $600 in ACV. In this case the goal of the services team is to get all 500 users on the service. This means a 100x upsell/cross sell opportunity that is more complex. The CSM in this case would only work on the onboarding process and get the first users happy, after that (s)he signals to the AE (tier 2) or AM (tier 1) that the account is ready for upsell.
+
+			Taking the above into account, and armed with the basic formula, we can now calculate the headcount needed to deliver against the first MRR goal. Don’t over think this! All we need is to get a draft right. There is plenty of time to tune things.
+
+
+
+
+
+		 			Blueprint 10
+
+
+
+
+
+			In this example a sales team that needs to grow ACV from $440k to $2M, based on $20,000 in MRR, with a service sold at $1,000/month looks like this.
+
+
+
+
+
+			In this example, you would need a CSM solution that measures usage across 240 clients a year and signals to the AE which clients are ready for upsell/cross sell. Once you have tested this model and your metrics are proven by experience, you can scale your organization rapidly indeed. So now that you know who you need to hire, you need to go out and find them. We’re going to give you a hint: you’re going to be hiring a bunch of Millennials.
+
+
+
+
+
+		 			case study 10
+
+
+
+			The Problem
+
+			A High profile SaaS services company approached us to help them with their sales growth.
+
+			The company had been on a tear and it expanded its sales force rapidly. The CRO had created a spreadsheet with the month over month growth projections required to hit the quarterly/annual targets. He had divided the monthly goal by the expected AE performance to create a headcount projection and had started to hire AEs. The CRO was also working closely with marketing to increase the number of MQLs to 1,200 MQLs per month based on 80% of the leads coming from inbound.
+
+			However marketing had fallen short as the growth of quality MQLs had not proven to be linear. The AEs were missing their targets, and with it their paychecks. Thus the AEs had reverted to instinct and started develop their own leads. The system had started to break down. Non-performing AEs were replaced and the top performing AEs left due to the chaos.
+
+
+
+			The Change
+
+			We sat down with a stressed out VP of Sales. Based on the formula in Blueprint 10 we showed the impact of mis-allocated staffing. On plan 80%, or 1,152 MQLs were supposed to come from inbound. But in reality only 480 MQLs were coming in. We simply altered the model to reflect reality, e.g. only 480 MQLs per month. Obviously the lack of MQLs had to be compensated from elsewhere, in this case by SDRs who needed to develop 80 SQLs instead of 24 SQLs. With ~20 SQLs/mo/SDR this meant they now needed 4 SDRs per 3 AEs! That’s 3 additional SDRs!
+
+			We advised the client to immediately convert all open AE positions to SDR positions, implement SDR training and develop specific SDR sales content. We also recommended several state-of-the-art sales tools that would help scale.
+
+			The model had shown us where the real problem was. The client had not yet achieved a consistent marketing pace in terms of generating MQLs, yet they had hired against that pace in terms of AEs. The physics of the system could not be altered, but the allocation of resources could.
+
+			The Result
+
+			It took about 8 weeks to get the staffing redeployed. During the training period we used an external SDR service to plug the gaps. We focused on hiring young salespeople, Millennials, who proved easy to train and well suited to the new configuration. And, as marketing attained pace fewer SDRs were needed. Top performing SDRs were promoted to AEs, which provided continuity as they assumed the new roles.
+
+			The client now has a scalable design they can build on for years to come. The team is able to make educated decisions based on metrics against a model rather than based on emotions and instinct.
+
+
+
+
+
+		 			11. Structure Teams
+
+
+
+
+
+			We find it fascinating how games evolve over time - even when the rules don’t change, the way that people organize themselves to win changes, usually for the better. For instance, in recent years quarterbacks in the NFL had gotten so good at a play called the back shoulder throw, in which they dropped a pass over the receiver’s outside shoulder, that defenders simply could not block the pass. And it was the Seattle Seahawks who saw this change, and started putting tall, rather than fast, defenders up against the receivers. All of a sudden they were able to stop the back shoulder throw and things were in balance again.
+
+			We have been explaining the many ways in which the sales game has changed in recent years, everything from the change in opportunity types, to the lengthening of the funnel beyond the sale to include five stages of development, to the rise of consumer behavior in buyers, to the importance of a variety of skills and tools. The question is, how do you as a coach respond to these changes when it comes to your lineup? Well, not every strategy is the same, but we have found that one approach works best across all instances of online selling: the multi-function POD.
+
+			THE OLD GAME - A SILOED APPROACH AIMED AT WINNING LOGOS
+
+			The traditional approach, is a siloed model in which each silo carries separate responsibilities and scales to deliver against them. This worked for a model in which the firm’s goal was deal driven. It also used a hierarchical layered model. Managers, Directors, VPs, all stack ranked, and compensated based on quota performance.
+
+
+
+			For years this approach delivered results, in particular, enterprise sales teams; with account executives located in the NFL cities working from a home office, the SDR teams grouped together to manage leads from a central call center, and customer service managers distributed across different offices to cover multiple time zones. That is the way it was done, and the way many SaaS companies still do it.
+
+			FROM SILOSs TO PODS
+
+			The new model requires staffing multiple customer-facing roles, into a single team, also called a POD.
+
+			What all PODs have in common is that they have a focus on a specific market with a group goal they are evaluated against. Most importantly, they share the same physical space.
+
+			This runs counter to the tendency we see in the industry, especially in larger firms that tend to want to create functional efficiency. But the POD structure has several benefits:
+
+			 				PODs will naturally manage the customer across multiple stages
+
+				PODs enable scaling flexibly
+
+				PODs operate independently of each other
+
+				PODs will naturally compete against each other
+
+
+
+
+
+		 			Blueprint 11
+
+
+
+
+
+			A POD THAT GENERATES $1.56M/YEAR
+
+			For structuring this POD we are using the data from the previous blueprint (BP10), in which a platform service was sold at $1,000/month. It was determined we needed:
+
+			 				1 MDR to convert 360 MQLs into 36 SQLs
+
+				1 SDR to develop 24 SQLs per month
+
+				3 AEs to secure 20 WINs per month out of 60 SQLs
+
+				1 CSM to ONBOARD 20 deals per month
+
+
+
+			Generating $20,000 in MRR per month, for $1.56M in ARR. This does not include churn metrics.
+
+			SCALING PODS
+
+			One of the great benefits of the POD structure is the ability to scale to meet revenue demands.. While we realize that in some rapid growth situations cost is not a top priority - that does not mean you should not be fiscally responsible, and PODs provide the flexibility to control costs.
+
+
+
+			In this case each POD, with 1 MDR, 1 SDR, 3 AEs, and 1 CSM would cost annually On Target (OTE) $600k with the goal of securing between $1.2M and $1.6M in ARR. This relationship allows you to plan and scale accordingly.
+
+			The POD structure also allow us to ramp up in a more structured way, with a higher chance of success. For example, if the POD structure above was successful and we hit our $20,000 MRR goal, we know it would take us 3 PODs to staff for $60,000 MRR.
+
+
+
+
+
+			* The compensation guidance for B2B SaaS sales professionals was provided by Matt Herman at Wavestaff Recruiting
+
+
+
+
+
+			Not every POD has to be exactly the same. The POD structure allows you to model against the needs of the market/region/vertical you are targeting. We outline several POD configurations that we have implemented based on opportunity/customer pairs, as well as our rationale for the setup.
+
+
+
+			An Inbound POD is ideal to target a vertical market, or region, that already has great awareness and generates lots of inbound leads. By using an inbound POD you lower your CAC as you are not taking on outbound efforts. This configurations also works well as an ad hoc solution for a major event, such as a tradeshow or industry conference.
+
+
+
+			An Outbound POD is structured in an early market that still requires lots of help and therefore has a very high CAC. This POD is very effective at penetrating new markets, or on very focused assignments such as taking over market leadership by targeting a competitor.
+
+
+
+			An Enterprise POD is a way to target your Tier 1/SME/Enterprise Accounts. Most often the goal is to use a multi-tiered approach, from CxO down to the User. MDRs do account research, SDRs search out problem owners using provocative sales techniques. The BDR’s primary role is strategic alliances with other strategic providers inside the enterprise segment. To warrant the resource, the associated cost, and risk it is best to have multiple AEs.
+
+
+
+			In the 1:1 POD you find a dedicated SDR assigned to an AE (and sometimes a CSM), with the intent of developing a focused team in each segment, often a region. However this approach has been proven to be very risky for larger teams. The matching of two “alphas”, in an SDR and an AE, is very difficult, and in 9 out of 10 cases leads to sub-optimal results. Either the SDR or the AE usually resigns.
+
+			PODs: DYNAMIC OVER TIME
+
+			The POD structure allows you as a sales leader to rethink how you deploy your teams. PODs even can change over time to meet changing needs. For example you may structure a POD to deal with your company’s most important trade show, where in the month leading up to the event the POD is aimed at setting up meetings, and post the event they may deal with a lot of inbound.
+
+			Another way you can structure your PODs is based on seasonality. This is normal for marketing teams that organize themselves around events. Sales has not traditionally done so, but with the POD structure they now can!
+
+			Note that we compare this approach with the traditional model in which functions and roles were very static, and often based on regions or verticals because people needed to be local. Today, online sales teams, can cover multiple timezones from a central location. Thus you can split sales professionals up per expertise or per strategy and change configurations over time as the situation dictates. We realize that at this point you may be starting to worry about compensation plans for this structure. Don’t!
+
+			Compensation plans are there to suit your business not the other way around. Also, compensation has changed as well, a topic we will discuss in the next chapter.
+
+
+
+
+
+		 			case study 11
+
+
+
+			The Problem
+
+			We were approached by a market leader in the SaaS platform space who offered a world class service sold at a high ACV. The company had been growing quickly, yet found itself in a planning mismatch. As we had often seen elsewhere, executives at the firm had been building their staffing plan based on a top line goal. AEs were hired to hit this number. SDRs were hired to supply the AEs, and CSMs were hired to work in support of the deals.
+
+
+
+			The Change
+
+			The client required a fundamental rethinking of its approach, shifting from a top down gross revenue planning method to a bottom up incremental staffing method focused on Monthly Recurring Revenue. In short, they needed to staff by design. Obviously we did not change board reporting. Rather, we changed how that number was communicated, what aspect of it was emphasized to the sales teams, and how goals were set and the organization grown.
+
+			What we recommended was that they scale their revenue goals in attainable chunks by creating POD structures. Each POD was accountable for a specific amount of MRR. The teams were involved in setting their goals, and encouraged to ask questions like: “How many deals do we need to win to secure $20k MRR with a service that sells for $500 per month.
+
+
+
+			This allowed them to scale the model to consistently achieve their number, because the PODS were staffed to achieve an MRR goal and growing the MRR required adding more PODS.
+
+
+
+			The Result
+
+			With the implementation of the POD structure, the client was able to achieve one key thing: clarity. This clarity carried from goals, which were set based on MRR, to accountability, which was established at the POD level. Importantly, the structure made clear what was required for scaling - that doubling MRR would require doubling the number of PODs, and with it doubling of marketing budgets that involved generating MQLs. An unexpected side benefit was that the POD structure proved highly adaptable to verticals as well as revenue goals. The client created PODs for specific verticals to take advantage of domain specialization as well as PODs for particular events, such as major trade shows, which would exist only briefly.
+
+
+
+
+
+		 			12. Career Development
+
+
+
+
+
+		 			We have been recruiting and training inside sales teams for years, so we have been exposed firsthand to the special qualities that the Millennial generation brings to its work. What we find crazy is that many senior salespeople complain about these qualities rather than embracing them! Why is it that some people are quick to react to changes in the market, but set in their ways when it comes to changes in their talent pool?
+
+			We say embrace the things that set Millennials apart, and watch them drive not only your sales organization, but your entire company, to the next, higher, level. We have found that the most noticeable and sometimes misunderstood quality of Millennials is their expectations for increased responsibility.
+
+			We have all heard about how Millennials come into their first job and immediately expect to be running the place. What cheek! How many senior executives have complained about this - the entitlement, the presumption?
+
+			There may be many reasons for this, but we think that part of it is driven by the many ways in which young people are able to quantify progress in their lives - from video games, to social media, to the increasingly quantified world of sports. The fact is that this generation wants to see immediate progress. And THAT is the key. It is not that they want to run the office. It is that they want to have measurable results from measurable actions.
+
+			Once you get this insight, you can create an environment that not only rewards that impulse, but benefits the organization. Because that insight has a corollary: these employees are less motivated by money than traditional salespeople!
+
+			What we have found is that laying out a very clear progression path marked by 3 month intervals is absolutely crucial to keeping entry level sales personnel motivated, possibly even more important than their commission structure. So our blueprint lays out a series of steps that can be made clear to entry level salespeople.
+
+			The message on the first day of training needs to be that if they succeed as an MDR, in a matter of months they will be able to graduate to a different role, building skills as they go. And as they rapidly move through the progression above, they acquire skills that are valuable across the entire organization, giving you a perfect talent development pool with inbuilt high turnover and the ability to move stars elsewhere in your organization.
+
+			It’s win-win.
+
+
+
+
+
+		 			Blueprint 12
+
+
+
+
+
+			A second distinctly Millennial characteristic is the need for a mission, a bigger picture that drives personal fulfillment as much as, or more than, just a salary. Of course we are not saying that Millennials don’t care about money - we’re salespeople after all. But they are far more attuned to what used to be called soft-benefits.
+
+			This means that you have to build in a sense of purpose to everything you do as a salesforce, and, by implication, as a company. Which is a very hard thing to do, but a fantastic strategic advantage that you should be working on even if the quirks of your Millennial salespeople didn’t demand it. So figure out your mission, build it into your training, and live it in everything you do as an organization, whether on the revenue side or the cost side.
+
+			Last, Millennials are often called impatient. Or distracted. “A-D-D!” screams your VP of Sales when describing your incoming class and their short attention spans. The truth is rather more uncomfortable and hard to face: these young people have no patience for YOU. For your lecturing, for how long it takes you to get to the point, for your bullshit. They will listen for as long as you are conveying something useful, and no longer. What this means is you have get very efficient at conveying information and get rid of hierarchy.
+
+			In practice that means moving to standing meetings with a maximum length of 15 minutes in which everyone is given equal time. What it also means is that you have to structure learning so that your teams are teaching each other, rather than getting lectured at by a trainer or an executive. You may feel like this will take an inordinate amount of work. Of course it will! Changing the way you do things always takes work. But you adapt to changes in your customers, so you should adapt equally well to changes in your workforce.
+
+			Compensating Results
+
+			After the hard work, you also need to compensate the team correctly. While it is true that Millennials are often interested in experiences over possessions - they are still salespeople. But they are also interested in sharing with the world that they are part of a great team that is having a good time. This creates social status.
+
+			With all that said, we thought we would provide some up-to-date market compensation data for SaaS businesses, as of 2015, in the Bay Area:
+
+			Traditional SaaS Compensation Plan
+
+
+
+
+
+		 			case study 12
+
+
+
+			The Problem
+
+			A major player in the marketing automation space found itself facing extremely high turnover for seemingly no reason. When we met with them they described how little productive time they were getting out of their inside sales personnel - with staff sometimes leaving six months after training had been completed. Given that it was taking 8-12 weeks to replace the lost personnel, the drain on the organization was huge. Recruiting had become almost nonstop, and tenured staff were spending 25% of their time on interviewing rather than on sales.
+
+			To us this just sounded like the new normal. We reassured them that this is a trend occurring across all industries, and sales is no exception. The challenge lies in the reaction to the trend - it is the Millennial challenge.
+
+			The Change
+
+			Our advice to our client was to embrace a 6-12 month model and structure all processes around it. Of course they had no choice - but they could attempt to alleviate some of the symptoms as well as modify their organization to fit the needs of the new generation filling their ranks.
+
+			First, we recommended that the client recruit by design. Meaning, each two weeks, 1 to 2 days were set aside specifically for recruiting. Interviews pre-scheduled, meeting rooms were ready, offer letters were ready to go. This improved efficiency, allowed existing staff to plan their time, and importantly, allowed the client to move very fast to lock down top talent.
+
+			Second, we designed a career path that reflects Millennials’ desire for rapid career advancement. The path envisions title changes every 3-6 months through a 24 month period, transitioning MDRs to SDRs to AEs and out beyond sales and into other functions inside the organization, taking with them valuable customer and product knowledge. As a side benefit, this develops a deep bench and allows superstars to be groomed from within - and at a far lower cost. The key thing to realize is that the speed of change, rather than the magnitude of change, is what motivates today’s young sales professionals.
+
+			The Result
+
+			Our client now believes that their inside sales organization is the proving ground for their leadership. The recruiting is streamlined and dovetails directly with the training, so that new hires get up to speed quickly.
+
+			Importantly, churn rates have fallen. Of course no one expects to overcome shortening tenures in all industries and functions, but for our client the implementation of a fast paced career track has clearly lengthened the amount of time that key hires have stayed with the firm.
+
+			Perhaps most exciting, several of the firm’s top sales performers have come up “through the ranks,” which makes their success all the sweeter.
+
+			And an unexpected and powerful side benefit of implementing these structures comes from the sales people who have taken the sales team’s customer-centric culture and spread it into the rest of the organization as they have taken on different challenges, such as marketing, business development, sales operations, and human resources.
+
+			SPECIAL NOTE: Many sales leaders make the mistake of assuming that all MDRs and SDRs want to become AEs. It has proven time and time again that creating this perception is ill advised, because it implies that continuing in the role of SDR is an “inferior” career move. In fact, the SDR should be perceived as a key role. You can avoid this by offering your senior SDRs the option to promote into Team Leads. This gives them a much needed career path that has them perform as a top performing SDR instead of a mediocre AE.
+
+
+
+
+
+		 			13. Sales Operations Center
+
+
+
+
+
+		 			It was not too long ago that most sales organizations were structured around a sales force that would leave the office on a Monday to travel to the clients, and return on a Thursday night. They would visit clients assigned to them based on zip code and have lunches, dinners, and an occasional game of golf. After a while firms realized it made more sense to hire salespeople locally. This became the remote work force.
+
+			But the remote workforce itself has become out of date as buyer behavior has changed. Today’s SaaS clients hardly have time to wait for a sales professional to visit their office, much less play golf or have dinner. So, the trend has reversed itself, and we now find that our most successful SaaS clients are implementing sales operations centers in which all functions are housed in a single location.
+
+			We have advised on the physical deployment of several of these centers, and have learned a great deal about what works and what doesn’t. So we discuss a few best practices, and provide a sample layout for a high performance sales operations center that takes them into account. Some of the things we point out might seem quite basic, down to the layout of a room or mealtimes, but they really have an effect on team performance. Read on.
+
+			Regional based account assignments - No longer do we need to assign account based on zipcode or whether a particular salesperson is located in NY, Chicago, or San Francisco. Instead we assign accounts based on functional expertise that relates more closely the business. Today we see that companies assign accounts based on times zones, vertical markets, language (Spanish), technical competency, and more.
+
+			Multi-discipline PODs sit together - We have found that SDR/AEs often enjoy being a part of a team even though they are held to personal targets. This stands in stark contrast to the road warrior who usually operates as a loner. Today, sales professionals love to sit in teams, which allows an SDR to ask a question of a CSM and listen in on AE conversations without having to set an appointment. This means you have to structure the way you seat your people so that junior people are always surrounded by senior people. They learn from listening a lot faster than through reading. Also this allows AEs to correct a MDRs instantly before bad habits start to form.
+
+			Teams learn fast and education must be crowdsourced - The best teams do not wait for the annual visit of the trainer. They learn on the spot from their peers. Today we coach teams to crowd source the solutions to problems. We do this through daily stand-ups around 4pm. The whole team gathers, and discusses the findings of the day. If a new “problem” is identified, assign it to one person who works with the entire group to get to a solution.
+
+			Team bonding - All of our clients have a big farmers table where people sit together and eat together at set times. We noticed that this eating together - as a team - is a critical part of well oiled sales machines, and plays a role in retaining talent! After all people bond over eating together, sharing stories, weekend plans, hobbies etc. This means that you have to bring in lunch 3-4 meals per week, and have a shared lunch time. You can use the sales bell as dinner bell (we’re not kidding).
+
+			Dedicated space for demo/discovery calls - Online demos and product demonstrations are not well suited for POD tables because hour long calls are quite noisy. We recommend setting up demo rooms where the SDR/AE can go to do their discovery and demonstration calls. We’ve noticed a few companies using roll-away whiteboards that easily allow you to transform working space so more people are able to attend without piling in 4-5 people into a phone booth-sized conference room.
+
+			Video conference rooms - At least one room needs to have video conference capability to connect with other teams and with remote customers. Many of our clients seem to use a video conference setup consisting of a Logitech C920 camera, and Jabra 410 speakerphone. Contrary to recommendations, we find that setting up the conference so that the client can see the work floor in the background has a great impact on sales calls. The client can see all the activity in the back ground and this holds their attention and creates a good impression.
+
+
+
+
+
+		 			BLUEPRINT 13
+
+
+
+
+
+		 			case study 13
+
+
+
+			The Problem:
+
+			The sample floor plan is an aggregate representation of what many of our clients have implemented. We first noticed the trend at BrightTALK. Walking into the building you can immediately sense the great atmosphere. Likewise at Prezi, Fliptop, Liftoff and many others. The moment you walk in, you feel a sense of excitement and positive energy.
+
+			However with others you walk in and you are struck by cubicle culture. It feels very different, and the inhibited vibe perhaps reflects the lack of communication within and between teams.
+
+			At one of our clients the team was split across two buildings due to rapid growth. SDRs were housed in one building and the rest of the company was in the other building. AEs were distributed across the country working from remote or home offices.
+
+			This made it hard for people to communicate with each other and bond - at a time of high velocity and rapid iteration on critical business elements, when it was most needed. Our experience showed us that there was an easy fix. The problem could be solved with a proper sales operations center.
+
+			The Change:
+
+			We designed an open floor layout based on best practice from our other clients. The goal was to create a positive energy. The kind of energy you recognize, feel, and sense the moment you walk into the building. An environment in which the sales teams are truly customer centric and people are constantly communicating. We had our models:
+
+			 				At AgilOne when the SDR has a great call with a client, others provide encouraging comments the moment the SDR hangs up.
+
+				At Unify when an AE has to write an email, they will quote it out loud to gather feedback from the team. This creates an open “fault” tolerant environment, with an upbeat energy. And not just between the SDRs and AEs.
+
+				At BrightTALK the vibe also involves CSMs, Marketing, and Community managers. And it does not stop there because the CEO and the CFO both sit among the teams, which creates an incredible camaraderie that extends deep into day-to-day business operations.
+
+
+
+			The Results:
+
+			When we interviewed tens of SDRs and AEs in February 2015 after implementing the new Sales Operations Center across different customers, the #1 reason they liked their job was that they were part of a great team working together. This is remarkable as not too long ago sales was considered a solo sport. But today Sales Operations Centers create a fantastic opportunity to bond and feel part of something bigger.
+
+			Also as a result, customers now get a far more educated sales professional on the line when they call. Clients are able to onboard people faster and retains the top performers more readily than they did before. And the sales professionals, they are having a great time working on a great team.
+
+
+
+
+
+		 			14. Final Thoughts
+
+
+
+
+
+		 			As we said at the beginning of this book, there is a lot of detail we have covered. Let’s face it, SaaS selling is a details game. But if you have a few high level lessons from it all, we’d like you to focus on these three things:
+
+			Be Customer Centric
+
+			Match your sales methodology to how your clients are buying. Map out the experience you want your clients to have step by step. Go ahead, be ambitious! Then create a sales process to give them that experience.
+
+			Design First
+
+			Architect your sales organization based on the right metrics and ratios. As we hope we’ve shown here you shouldn’t just go out and build it without a solid plan.
+
+			Get It Right, Then Scale
+
+			Push forward aggressively, but don’t scale failure. Get the model right in order to avoid losing time. Time is the only resource you can’t replace, and in today’s fast moving market your competitors are quick to leap ahead of you and cash in on the market you and your marketing dollars created.
+
+
+
+
+
